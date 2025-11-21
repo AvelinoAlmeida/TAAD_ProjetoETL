@@ -1,88 +1,88 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="11/20/2025 6:55:26 PM"
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="LAPTOP"
   DTS:CreatorName="LAPTOP\LT-AVELINO"
-  DTS:DTSID="{6EAA4EAC-074D-415F-BB1F-8363CB9F8F2F}"
+  DTS:DTSID="{D566455E-1445-4425-9BA6-29DB7531BE80}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="17.0.1008.3"
   DTS:LocaleID="2070"
   DTS:ObjectName="Load"
   DTS:PackageType="5"
   DTS:VersionBuild="18"
-  DTS:VersionGUID="{9F5A82B5-EF82-4A71-AD4B-50E8EBB84597}">
+  DTS:VersionGUID="{DA187DA0-D135-45EE-B8A7-0056ED389EC8}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[.\TAAD.DSA_raw]"
       DTS:CreationName="OLEDB"
-      DTS:DTSID="{96A1CFD5-8F61-4171-8409-E73BEFBE244F}"
+      DTS:DTSID="{16C7D20E-6944-4BA4-B1CE-7DE50E7EDBAB}"
       DTS:ObjectName=".\TAAD.DSA_raw">
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="1"
           DTS:ConnectRetryInterval="5"
-          DTS:ConnectionString="Data Source=.\TAAD;Initial Catalog=DSA_raw;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Package-{96A1CFD5-8F61-4171-8409-E73BEFBE244F}.\TAAD.DSA_raw;Auto Translate=False;" />
+          DTS:ConnectionString="Data Source=.\TAAD;Initial Catalog=DSA_raw;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Package-{16C7D20E-6944-4BA4-B1CE-7DE50E7EDBAB}.\TAAD.DSA_raw;Auto Translate=False;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[.\TAAD.DSA_raw.sa]"
       DTS:CreationName="OLEDB"
-      DTS:DTSID="{7B94B303-7D70-4E95-9D42-0CADD07B3CBD}"
+      DTS:DTSID="{FA515962-5F6B-429B-800E-079E951B44BD}"
       DTS:ObjectName=".\TAAD.DSA_raw.sa">
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="1"
           DTS:ConnectRetryInterval="5"
-          DTS:ConnectionString="Data Source=.\TAAD;User ID=sa;Initial Catalog=DSA_raw;Provider=SQLNCLI11.1;Application Name=SSIS-Package-{7B94B303-7D70-4E95-9D42-0CADD07B3CBD}.\TAAD.DSA_raw.sa;Auto Translate=False;">
+          DTS:ConnectionString="Data Source=.\TAAD;User ID=sa;Initial Catalog=DSA_raw;Provider=SQLNCLI11.1;Application Name=SSIS-Package-{FA515962-5F6B-429B-800E-079E951B44BD}.\TAAD.DSA_raw.sa;Auto Translate=False;">
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADxW4UeWrzvgH2F52evb3Ok8VvIXDDyI7dRuw5g7O3KFgAAAAAOgAAAAAIAACAAAABBfljmeCNp98goevt0vrXPyEvRwo/NbRHzU8JrFnnVfSAAAACzMFWQOERQi418tgTRSZJICoDTBLj4pG2VE+qs+rYqWUAAAAD87AlAobrVI/G+9KB5qGmd1GECAf0iClGFfQGs8qW6rr2kd47Qt1q8wYL4lCnWSD4cyoOazSq1qYdbx6AUJJUZ</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAUDOusRigg7e19fHRQZZ+YyxG97gXoySCmw/0McxxHPwAAAAAOgAAAAAIAACAAAAC4BGR+F7M5IviVyppekHDBpyo2sSXPkYrlgv12Tv3pVyAAAAB3ssB7xCOd4o+bj7XtHbnwU2hAwUkMZMY8hvCXhyP7hUAAAAACq/nKyeqjq72CIP1HM+hD2VMN6j5GmYK50x6Qb0tdnffDZJdpv0W5JmS2HS+J0Kf8JSqjF8wZG2Qv4WHlbCFe</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[.\TAAD.DSA_raw.sa 1]"
       DTS:CreationName="OLEDB"
-      DTS:DTSID="{9D5ECBE2-D55D-4F95-91AE-E775F05251EE}"
+      DTS:DTSID="{9C3BA4CC-C87E-4D8A-9DC1-2D8804F3F5DA}"
       DTS:ObjectName=".\TAAD.DSA_raw.sa 1">
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="1"
           DTS:ConnectRetryInterval="5"
-          DTS:ConnectionString="Data Source=.\TAAD;User ID=sa;Initial Catalog=DSA_raw;Provider=SQLNCLI11.1;Application Name=SSIS-Package-{9D5ECBE2-D55D-4F95-91AE-E775F05251EE}.\TAAD.DSA_raw.sa 1;Auto Translate=False;">
+          DTS:ConnectionString="Data Source=.\TAAD;User ID=sa;Initial Catalog=DSA_raw;Provider=SQLNCLI11.1;Application Name=SSIS-Package-{9C3BA4CC-C87E-4D8A-9DC1-2D8804F3F5DA}.\TAAD.DSA_raw.sa 1;Auto Translate=False;">
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABNNZSKoydj3Qs6PPA5mhJNQO97f91TA0arw4CAeCwEiAAAAAAOgAAAAAIAACAAAACTL9NCJSJkaEN8q3tFHEG8Ad8niuwsFtb8DJm18Qeo2SAAAACDzhnjxYawQP8LQG65n0zNTwDQJBWxRarlQB4FNz+X+0AAAABGIRcQF/G5Bcnkhg1ac2gOFwmSlmeq9NNC5BL8MOXw4H5wqw6qr+wr/8YLgupOBLa15s12tWWZXfunrtCoa9AJ</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACg5xzTCzgVMR9DCcsRVd+epzgPgR/NfDMbew9IuWoXdwAAAAAOgAAAAAIAACAAAADWNBNpTu9EGOyhJllQPEjI/Fv+4+nknS0ZwQ97EOPe4CAAAAB60+muLIOt4lxMw60i9ZxNOnd0g8B8nwtW9mVy9omv/EAAAAAAsF8dMFsH7QLMD0dQbRrNfKejiv5jq68VX8UUQR/wBV5Y9jht/fKXVGy0zK552oP/3wtIBK7j5S5r8f5M9whQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[.\TAAD.SDA_raw.sa]"
       DTS:CreationName="OLEDB"
-      DTS:DTSID="{E5B18240-4791-4C5D-B79D-A6D68F4A78E7}"
+      DTS:DTSID="{964C1745-EFAE-4AC7-893D-5256DA3A9A21}"
       DTS:ObjectName=".\TAAD.SDA_raw.sa">
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="1"
           DTS:ConnectRetryInterval="5"
-          DTS:ConnectionString="Data Source=.\TAAD;User ID=sa;Initial Catalog=SDA_raw;Provider=SQLNCLI11.1;Persist Security Info=True;Application Name=SSIS-Package-{E5B18240-4791-4C5D-B79D-A6D68F4A78E7}.\TAAD.SDA_raw.sa;Auto Translate=False;">
+          DTS:ConnectionString="Data Source=.\TAAD;User ID=sa;Initial Catalog=SDA_raw;Provider=SQLNCLI11.1;Persist Security Info=True;Application Name=SSIS-Package-{964C1745-EFAE-4AC7-893D-5256DA3A9A21}.\TAAD.SDA_raw.sa;Auto Translate=False;">
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA0Pm4uJuEX52lrU/nBhFA0j66eNULKR60C7vmiKQJLUQAAAAAOgAAAAAIAACAAAAA0GliHb0mA7eHrNHZO5190XOukwrd0gW9+dZxO+CiwtCAAAACDC0+A5/wnk4AR6YMoZGvzdXa5f1TviRNDyiIEQeBGRkAAAAA5jU+xUE2GN9/gIwSV+m4BfJBfTBjbPjatDgjC4/9YEuharF3lc1sxt44ynrhCaXhnLtnY1IBClYp0r7syUbzQ</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABtOp50SyEJ3W6qi61cxhq7Q3CmbnS9teizSdA7xlmwBAAAAAAOgAAAAAIAACAAAADQEtDC9dkSyiiifO61Dex2HAKqPvGkGurD39qDki0W3iAAAACBmbf9G2gIKFHirqfzsGSZS1aLjGRIEsx4HBDTq0CZ5kAAAAAMyB3VoiaJkQ5IIXz+NXy88MPJ5f6x7igJFyeh0F5/nZPXtFBQWL/+1roEN+4+Z4CdQZBzZJP8fU32tvx5Qie9</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[Excel Connection Manager]"
       DTS:CreationName="EXCEL"
-      DTS:DTSID="{972AFDAF-1D78-4D4A-B551-C6D5AAB54676}"
+      DTS:DTSID="{44C3E404-7EA8-4C1F-A7E9-D408A5B5C9F4}"
       DTS:ObjectName="Excel Connection Manager">
       <DTS:ObjectData>
         <DTS:ConnectionManager
@@ -94,7 +94,7 @@
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[Excel Connection Manager 1]"
       DTS:CreationName="EXCEL"
-      DTS:DTSID="{42783BE5-8004-4FC0-AA76-C2467C34143A}"
+      DTS:DTSID="{C49D98BD-482D-4FC1-BE1A-2E5979D058C9}"
       DTS:ObjectName="Excel Connection Manager 1">
       <DTS:ObjectData>
         <DTS:ConnectionManager
@@ -106,7 +106,7 @@
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[Excel Connection Manager 2]"
       DTS:CreationName="EXCEL"
-      DTS:DTSID="{498BD891-881A-4147-A79E-3B06EE310E84}"
+      DTS:DTSID="{1C5D5E2D-961F-447A-972D-DFBF4DF3E61A}"
       DTS:ObjectName="Excel Connection Manager 2">
       <DTS:ObjectData>
         <DTS:ConnectionManager
@@ -118,7 +118,7 @@
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[Excel Connection Manager 3]"
       DTS:CreationName="EXCEL"
-      DTS:DTSID="{B8F93BD5-0F8C-46F1-A443-C72D0AD30F62}"
+      DTS:DTSID="{26BD635C-08A1-416C-913C-0958558B1F60}"
       DTS:ObjectName="Excel Connection Manager 3">
       <DTS:ObjectData>
         <DTS:ConnectionManager
@@ -130,7 +130,7 @@
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[Excel Connection Manager 4]"
       DTS:CreationName="EXCEL"
-      DTS:DTSID="{C55B0716-2CF6-41E3-889D-9A554C4B1054}"
+      DTS:DTSID="{8C15E1CA-C57F-4451-8074-0788FF611280}"
       DTS:ObjectName="Excel Connection Manager 4">
       <DTS:ObjectData>
         <DTS:ConnectionManager
@@ -142,7 +142,7 @@
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[Excel Connection Manager 5]"
       DTS:CreationName="EXCEL"
-      DTS:DTSID="{20DEC33A-BF14-4747-BC65-3EA666D7EDFE}"
+      DTS:DTSID="{0FC22378-C4BB-4BC7-9AF1-9F127D9CD448}"
       DTS:ObjectName="Excel Connection Manager 5">
       <DTS:ObjectData>
         <DTS:ConnectionManager
@@ -154,7 +154,7 @@
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[Excel Connection Manager 6]"
       DTS:CreationName="EXCEL"
-      DTS:DTSID="{9C8409E7-DF08-4088-A017-132CAD0C93FA}"
+      DTS:DTSID="{2E4F9D01-57F4-43F3-957B-F93AF6C75CC0}"
       DTS:ObjectName="Excel Connection Manager 6">
       <DTS:ObjectData>
         <DTS:ConnectionManager
@@ -170,11 +170,11 @@
       DTS:refId="Package\Expression Task"
       DTS:CreationName="Microsoft.ExpressionTask"
       DTS:Description="Expression Task"
-      DTS:DTSID="{DE5C2A20-3353-409F-9693-BB229F06B52C}"
+      DTS:DTSID="{D8A7C47A-A9DA-4773-869C-A5959004C3A2}"
       DTS:ExecutableType="Microsoft.ExpressionTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Expression Task"
-      DTS:ThreadHint="0">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:ObjectData>
         <ExpressionTask
@@ -185,7 +185,7 @@
       DTS:refId="Package\Importar ds_alojamentos"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
-      DTS:DTSID="{46c6e334-f6e8-45c3-a656-dc5141b78169}"
+      DTS:DTSID="{55227CF4-7880-4F70-9F07-1560FEE85B00}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
       DTS:ObjectName="Importar ds_alojamentos"
@@ -1729,7 +1729,7 @@
       DTS:refId="Package\Importar ds_nuts"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
-      DTS:DTSID="{67411704-d1c5-49fb-977a-dc41389726f1}"
+      DTS:DTSID="{B3E6FC13-714A-4C06-AB87-A5234E12E5CF}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
       DTS:ObjectName="Importar ds_nuts"
@@ -2398,7 +2398,7 @@
       DTS:CreationName="STOCK:SEQUENCE"
       DTS:Description="Sequence Container"
       DTS:Disabled="True"
-      DTS:DTSID="{418D222A-DAB3-4F5E-8003-4F28F7D78982}"
+      DTS:DTSID="{C6F064E1-F923-42D4-8AAC-21489C149A08}"
       DTS:ExecutableType="STOCK:SEQUENCE"
       DTS:LocaleID="-1"
       DTS:ObjectName="Load Incendios to DSA_raw">
@@ -2409,11 +2409,11 @@
           DTS:CreationName="Microsoft.ExecuteSQLTask"
           DTS:Description="Execute SQL Task"
           DTS:Disabled="True"
-          DTS:DTSID="{1D80DCEE-03C7-4410-94D7-9FC474746872}"
+          DTS:DTSID="{C1FC6F79-E075-4EAC-B826-6CB9746DBD40}"
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Clean DSA"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
@@ -2423,7 +2423,7 @@
           DTS:refId="Package\Load Incendios to DSA_raw\Importar ds_incendios"
           DTS:CreationName="Microsoft.Pipeline"
           DTS:Description="Data Flow Task"
-          DTS:DTSID="{7BE3B161-7672-4F7E-A2E5-66E89AFE200F}"
+          DTS:DTSID="{37AB4C9C-9327-47D7-89DA-F6ED6C8A9778}"
           DTS:ExecutableType="Microsoft.Pipeline"
           DTS:LocaleID="-1"
           DTS:ObjectName="Importar ds_incendios"
@@ -6637,7 +6637,7 @@
           DTS:refId="Package\Load Incendios to DSA_raw\Juntar data Incendios"
           DTS:CreationName="Microsoft.Pipeline"
           DTS:Description="Data Flow Task"
-          DTS:DTSID="{8010A90F-66FA-4C40-9ED7-68C71C236225}"
+          DTS:DTSID="{C4BDB301-9143-4A6C-8758-8A7F35C2861E}"
           DTS:ExecutableType="Microsoft.Pipeline"
           DTS:LocaleID="-1"
           DTS:ObjectName="Juntar data Incendios"
@@ -15461,7 +15461,7 @@
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint]"
       DTS:CreationName=""
-      DTS:DTSID="{0872062E-B1F9-4771-AB93-9DEF9AF016F5}"
+      DTS:DTSID="{265C9C5B-999C-4430-BB7C-657CF33E6B2C}"
       DTS:From="Package\Load Incendios to DSA_raw"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint"
@@ -15469,7 +15469,7 @@
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 2]"
       DTS:CreationName=""
-      DTS:DTSID="{0BE9660B-BE1F-4C2B-A9A6-8CC8A50BB377}"
+      DTS:DTSID="{FD0063E5-3DBD-4D97-A807-8669449D67C4}"
       DTS:From="Package\Importar ds_alojamentos"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 2"

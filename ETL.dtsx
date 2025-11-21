@@ -5,13 +5,13 @@
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="LAPTOP"
   DTS:CreatorName="LAPTOP\LT-AVELINO"
-  DTS:DTSID="{C731A91D-B3CB-400B-BD66-58ED14A126AC}"
+  DTS:DTSID="{F8277CF6-ABC7-4437-A6EB-6913E3FA5E48}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="17.0.1008.3"
   DTS:LocaleID="2070"
   DTS:ObjectName="Package1"
   DTS:PackageType="5"
-  DTS:VersionGUID="{695CA3C2-E864-44FC-926E-386FF0842F21}">
+  DTS:VersionGUID="{B5098952-A8D8-4E50-BECD-BCA7E65173A6}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
