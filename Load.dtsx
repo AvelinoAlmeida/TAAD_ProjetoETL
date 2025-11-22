@@ -11,8 +11,8 @@
   DTS:LocaleID="2070"
   DTS:ObjectName="Load"
   DTS:PackageType="5"
-  DTS:VersionBuild="30"
-  DTS:VersionGUID="{A679338D-4356-4945-900F-9514425FB7D9}">
+  DTS:VersionBuild="31"
+  DTS:VersionGUID="{74AE68D6-BFDF-4A6B-A9FF-3673A47E5998}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -37,12 +37,7 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="1"
           DTS:ConnectRetryInterval="5"
-          DTS:ConnectionString="Data Source=.\TAAD;User ID=sa;Initial Catalog=DSA_raw;Provider=SQLNCLI11.1;Application Name=SSIS-Package-{FA515962-5F6B-429B-800E-079E951B44BD}.\TAAD.DSA_raw.sa;Auto Translate=False;">
-          <DTS:Password
-            DTS:Name="Password"
-            Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACH8ieYk3IZTthOAh/Kzal9R6EP/w7iaSaZEabRb6gl/AAAAAAOgAAAAAIAACAAAABy8M2XO/+G6myj4p3NbJ56SUC44jwDnQmESutUcLNz4CAAAADAO2y7UZ29A0FQMGdweaWcmVwqVqgy6+a0aP335Gadx0AAAAAwZgBcSreq1SJ5cJIEOSCAMUTKJr6Mj01zHCWGWZQgh+DP0pUrTAE39oABJ75ofO0BycdVni1pa1vSjwRfFyqs</DTS:Password>
-        </DTS:ConnectionManager>
+          DTS:ConnectionString="Data Source=.\TAAD;User ID=sa;Initial Catalog=DSA_raw;Provider=SQLNCLI11.1;Application Name=SSIS-Package-{FA515962-5F6B-429B-800E-079E951B44BD}.\TAAD.DSA_raw.sa;Auto Translate=False;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -54,12 +49,7 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="1"
           DTS:ConnectRetryInterval="5"
-          DTS:ConnectionString="Data Source=.\TAAD;User ID=sa;Initial Catalog=DSA_raw;Provider=SQLNCLI11.1;Application Name=SSIS-Package-{9C3BA4CC-C87E-4D8A-9DC1-2D8804F3F5DA}.\TAAD.DSA_raw.sa 1;Auto Translate=False;">
-          <DTS:Password
-            DTS:Name="Password"
-            Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACKNubLXKVDjaqifJSPVitmNEPuLOG5IZc7+Uc0iMaknAAAAAAOgAAAAAIAACAAAACNyTE6ITO/ROdFP+PJ4FCyyy+jHB3RMUbCRcl/w4o3+SAAAABrhVDss07kqIHL6WQABYBzRHlMljYYPK5LYwnQV20bI0AAAABiNfaqRGhMxJyTV/mNEI1T8yDlTGbmHvWw1Xy9Vyw6IN/hkNFg+dEEFg/xMgTjXbVqvNCNd1UOrf17sMMy2ztV</DTS:Password>
-        </DTS:ConnectionManager>
+          DTS:ConnectionString="Data Source=.\TAAD;User ID=sa;Initial Catalog=DSA_raw;Provider=SQLNCLI11.1;Application Name=SSIS-Package-{9C3BA4CC-C87E-4D8A-9DC1-2D8804F3F5DA}.\TAAD.DSA_raw.sa 1;Auto Translate=False;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -71,12 +61,7 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="1"
           DTS:ConnectRetryInterval="5"
-          DTS:ConnectionString="Data Source=.\TAAD;User ID=sa;Initial Catalog=SDA_raw;Provider=SQLNCLI11.1;Persist Security Info=True;Application Name=SSIS-Package-{964C1745-EFAE-4AC7-893D-5256DA3A9A21}.\TAAD.SDA_raw.sa;Auto Translate=False;">
-          <DTS:Password
-            DTS:Name="Password"
-            Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAdXv7Wu9zGJbgCiKNkcBl5gAtxAaUEp0B1Km6Erw8E+gAAAAAOgAAAAAIAACAAAAA+rksYC/G8S4aUyhMEl9bNCucgRoD+syKoWJJienwkCiAAAADAKb3SLtyNiEwl86/tl274H9BP3jkKVOQccLbRvI9rIEAAAAC8eGleYTkqlsX+DTwONBOSfn/7ndpNqazHRzDJINN5r8hnGnYU/ekQQ0QJCUKay/catxhskoI26k+MPNSBMDk+</DTS:Password>
-        </DTS:ConnectionManager>
+          DTS:ConnectionString="Data Source=.\TAAD;User ID=sa;Initial Catalog=SDA_raw;Provider=SQLNCLI11.1;Persist Security Info=True;Application Name=SSIS-Package-{964C1745-EFAE-4AC7-893D-5256DA3A9A21}.\TAAD.SDA_raw.sa;Auto Translate=False;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -15591,12 +15576,12 @@
       DTS:To="Package\Guardar CutOff" />
   </DTS:PrecedenceConstraints>
   <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
-<!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
-<!--If you manually edit this section and make a mistake, you can delete it. -->
-<!--The package will still be able to load normally but the previous layout information will be lost and the designer will automatically re-arrange the elements on the design surface.-->
+<!--Esta seção CDATA contém as informações de layout do pacote. A seção inclui informações como coordenadas (x,y), largura e altura.-->
+<!--Se você editar manualmente esta seção e cometer algum erro, poderá excluí-la. -->
+<!--O pacote ainda poderá ser carregado normalmente, mas as informações de layout anteriores serão perdidas e o designer reorganizará automaticamente os elementos na superfície de design.-->
 <Objects
   Version="8">
-  <!--Each node below will contain properties that do not affect runtime behavior.-->
+  <!--Cada nó abaixo conterá propriedades que não afetam o comportamento em tempo de execução.-->
   <Package
     design-time-name="Package">
     <LayoutInfo>
@@ -15607,13 +15592,29 @@
           Id="Package\Calcular ETL"
           TopLeft="369.537016846425,44.7481482653334" />
         <NodeLayout
+          Size="184.8,41.6"
+          Id="Package\Execute Package Task"
+          TopLeft="896.055506897748,587.033329289423" />
+        <NodeLayout
+          Size="149.6,41.6"
+          Id="Package\Guardar CutOff"
+          TopLeft="354.629610253522,555.629625765851" />
+        <NodeLayout
           Size="192.8,41.6"
           Id="Package\Importar ds_alojamentos"
           TopLeft="336.666648272012,341.859257588526" />
         <NodeLayout
+          Size="180.8,41.6"
+          Id="Package\Importar ds_incendios"
+          TopLeft="83.1888546645106,344.570368647406" />
+        <NodeLayout
           Size="156,41.6"
           Id="Package\Importar ds_nuts"
           TopLeft="627.499965714913,342.63703606741" />
+        <NodeLayout
+          Size="177.6,41.6"
+          Id="Package\Juntar data Incendios"
+          TopLeft="85.5962619403824,448.59999763151" />
         <NodeLayout
           Size="134.4,41.6"
           Id="Package\Limpar DSA"
@@ -15667,28 +15668,6 @@
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 4]"
-          TopLeft="433.588865865216,278.955554661596">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,62.9037029269303"
-              Start="0,0"
-              End="0,55.4037029269303">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,55.4037029269303" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 2]"
           TopLeft="465.71108345842,278.955554661596">
           <EdgeLayout.Curve>
@@ -15722,14 +15701,6 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="180.8,41.6"
-          Id="Package\Importar ds_incendios"
-          TopLeft="83.1888546645106,344.570368647406" />
-        <NodeLayout
-          Size="177.6,41.6"
-          Id="Package\Juntar data Incendios"
-          TopLeft="85.5962619403824,448.59999763151" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 3]"
           TopLeft="402.51108345842,278.955554661596">
@@ -15765,6 +15736,28 @@
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 4]"
+          TopLeft="433.588865865216,278.955554661596">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,62.9037029269303"
+              Start="0,0"
+              End="0,55.4037029269303">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,55.4037029269303" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 5]"
           TopLeft="173.992558302446,386.170368647406">
           <EdgeLayout.Curve>
@@ -15786,10 +15779,6 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="149.6,41.6"
-          Id="Package\Guardar CutOff"
-          TopLeft="354.629610253522,555.629625765851" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 6]"
           TopLeft="174.396261940382,490.19999763151">
@@ -15880,10 +15869,6 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="184.8,41.6"
-          Id="Package\Execute Package Task"
-          TopLeft="727.722182761742,586.166662628783" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
@@ -16064,70 +16049,6 @@
     </Properties>
   </PipelineComponentMetadata>
   <TaskHost
-    design-time-name="Package\Importar ds_nuts">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="114.4,41.6"
-          Id="Package\Importar ds_nuts\ds_nuts"
-          TopLeft="295.999995589256,176.999997362494" />
-        <NodeLayout
-          Size="115.2,41.6"
-          Id="Package\Importar ds_nuts\db_nuts"
-          TopLeft="640.999990448356,181.999997287989" />
-        <EdgeLayout
-          Id="Package\Importar ds_nuts.Paths[Excel Source Output]"
-          TopLeft="410.399995589256,200.299997325242">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="230.599994859099,0"
-              Start="0,0"
-              End="223.099994859099,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="223.099994859099,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Importar ds_nuts\db_nuts">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Importar ds_nuts\ds_nuts">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
     design-time-name="Package\Importar ds_incendios">
     <LayoutInfo>
       <GraphLayout
@@ -16292,6 +16213,70 @@
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\Importar ds_incendios\ds_incendios_2001">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\Importar ds_nuts">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="114.4,41.6"
+          Id="Package\Importar ds_nuts\ds_nuts"
+          TopLeft="295.999995589256,176.999997362494" />
+        <NodeLayout
+          Size="115.2,41.6"
+          Id="Package\Importar ds_nuts\db_nuts"
+          TopLeft="640.999990448356,181.999997287989" />
+        <EdgeLayout
+          Id="Package\Importar ds_nuts.Paths[Excel Source Output]"
+          TopLeft="410.399995589256,200.299997325242">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="230.599994859099,0"
+              Start="0,0"
+              End="223.099994859099,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="223.099994859099,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Importar ds_nuts\db_nuts">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Importar ds_nuts\ds_nuts">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
