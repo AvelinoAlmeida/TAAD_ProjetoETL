@@ -1,18 +1,18 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="11/21/2025 2:53:56 PM"
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="LAPTOP"
   DTS:CreatorName="LAPTOP\LT-AVELINO"
-  DTS:DTSID="{77E358B2-A7F0-426E-AC0D-C10959693C17}"
+  DTS:DTSID="{C23D79DD-51EE-42E5-AE79-73B549EA984E}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="17.0.1008.3"
   DTS:LocaleID="2070"
-  DTS:ObjectName="DWarehouse"
+  DTS:ObjectName="DW"
   DTS:PackageType="5"
-  DTS:VersionBuild="1"
-  DTS:VersionGUID="{1A0988DB-9A63-49F7-90B0-7A727D99471E}">
+  DTS:VersionBuild="2"
+  DTS:VersionGUID="{358CD660-CF4F-4629-A6DF-50C2D39DC239}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />

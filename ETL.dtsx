@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="11/21/2025 2:52:54 PM"
@@ -11,9 +11,104 @@
   DTS:LocaleID="2070"
   DTS:ObjectName="Package1"
   DTS:PackageType="5"
-  DTS:VersionGUID="{B5098952-A8D8-4E50-BECD-BCA7E65173A6}">
+  DTS:VersionBuild="5"
+  DTS:VersionGUID="{B0248E51-7CAE-4327-A6F7-53C9A9CB134C}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[.\TAAD.DSA_clean.sa]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{735D04AC-3BD8-4201-8055-D5CD38DA8B51}"
+      DTS:ObjectName=".\TAAD.DSA_clean.sa">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=.\TAAD;User ID=sa;Initial Catalog=DSA_clean;Provider=SQLNCLI11.1;Application Name=SSIS-Package1-{735D04AC-3BD8-4201-8055-D5CD38DA8B51}.\TAAD.DSA_clean.sa;Auto Translate=False;">
+          <DTS:Password
+            DTS:Name="Password"
+            Sensitive="1"
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAfLIoA9CdIohjYR5At8Vr7uulJEcWptEiuYiAtM8TPQwAAAAAOgAAAAAIAACAAAADHvlUJq92SqR31yA4K7rW5RkDCuBsRLI0gsP19pA8vZSAAAAAiWfr54gptBQ3tbDjj954Z79PhLuo8s7EyC3YCDZFo9EAAAACfoeYa257TpbPKT4N8e4s2Ixo9SDZPdg7ftd3XH5pkRLQLAqNyxGbQJ+n9R51zDLtdjl0vqPvEIuVIXNg2kAOq</DTS:Password>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[.\TAAD.DSA_raw.sa]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{4178BB00-0551-49C2-A0E7-D2A2274FFCE3}"
+      DTS:ObjectName=".\TAAD.DSA_raw.sa">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=.\TAAD;User ID=sa;Initial Catalog=DSA_raw;Provider=SQLNCLI11.1;Application Name=SSIS-Package1-{4178BB00-0551-49C2-A0E7-D2A2274FFCE3}.\TAAD.DSA_raw.sa;Auto Translate=False;">
+          <DTS:Password
+            DTS:Name="Password"
+            Sensitive="1"
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAL78C49fC4uqi/tjcwr4YaUN9ztlJHI/ojpzRpKilJxQAAAAAOgAAAAAIAACAAAADic8XbhMrRFmQ0uZLPqaHky+P5KfLWIBoTGQ1/1bLHyyAAAADQdXd6L+1CBs+8JACpYR9Kdg9hZj2WraNj1mkcXwa21kAAAADbUzz6NbKp2Sw6+MPH2O7D4Lm0yk3hlR6m3HN1qDnewwisRcfyAX4+vpRNmWJuDPceB89XddTuoRFWdgKtbois</DTS:Password>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+  </DTS:ConnectionManagers>
   <DTS:Variables />
-  <DTS:Executables />
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\Executar DW"
+      DTS:CreationName="Microsoft.ExecutePackageTask"
+      DTS:Description="Execute Package Task"
+      DTS:Disabled="True"
+      DTS:DTSID="{90A9CB37-5259-4FD0-9213-110B7390C310}"
+      DTS:ExecutableType="Microsoft.ExecutePackageTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Executar DW"
+      DTS:TaskContact="Microsoft Corporation; Microsoft SQL Server; Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <ExecutePackageTask>
+          <UseProjectReference>True</UseProjectReference>
+        </ExecutePackageTask>
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\importar db_incendios"
+      DTS:CreationName="Microsoft.Pipeline"
+      DTS:Description="Data Flow Task"
+      DTS:Disabled="True"
+      DTS:DTSID="{9E494570-6BA9-4644-A052-2CF0933BD2C0}"
+      DTS:ExecutableType="Microsoft.Pipeline"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="importar db_incendios"
+      DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <pipeline
+          version="1" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
+<!--If you manually edit this section and make a mistake, you can delete it. -->
+<!--The package will still be able to load normally but the previous layout information will be lost and the designer will automatically re-arrange the elements on the design surface.-->
+<Objects
+  Version="8">
+  <!--Each node below will contain properties that do not affect runtime behavior.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
+        <NodeLayout
+          Size="180.8,41.6"
+          Id="Package\importar db_incendios"
+          TopLeft="227.999987843137,118.166665883197" />
+        <NodeLayout
+          Size="139.2,41.6"
+          Id="Package\Executar DW"
+          TopLeft="650.499966397883,375.23333097087" />
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+</Objects>]]></DTS:DesignTimeProperties>
 </DTS:Executable>
