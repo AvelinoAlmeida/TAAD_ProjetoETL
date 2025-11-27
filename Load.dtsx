@@ -11,11 +11,28 @@
   DTS:LocaleID="2070"
   DTS:ObjectName="Load"
   DTS:PackageType="5"
-  DTS:VersionBuild="39"
-  DTS:VersionGUID="{81447F43-A32F-488A-93A5-B366E6A8DBD9}">
+  DTS:VersionBuild="48"
+  DTS:VersionGUID="{D86254CB-7BAB-405A-B688-2F5619D50927}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[.\TAAD.DSA_clean.sa]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{431DC510-E2BC-4788-9252-327B12A055BE}"
+      DTS:ObjectName=".\TAAD.DSA_clean.sa">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=.\TAAD;User ID=sa;Initial Catalog=DSA_clean;Provider=SQLNCLI11.1;Application Name=SSIS-Load-{431DC510-E2BC-4788-9252-327B12A055BE}.\TAAD.DSA_clean.sa;Auto Translate=False;">
+          <DTS:Password
+            DTS:Name="Password"
+            Sensitive="1"
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACkChXB/t8nDb5b3l0EfMfuepusULDx+IIGgcKfxuFjeQAAAAAOgAAAAAIAACAAAABXOKK30leeBwLUdwi0k1Ll55gVgMVGywVpjlBx2uB6LSAAAAAQQc8MXKt2XKrgBR/kZN+Kl6pnyiFmZrD/COz1iPTfiEAAAAAEnqSG9MFYnijL9IZX3U/b/f/+TtZ7qKolyLzcLccU/ouaHfsxmMUt5xwVdmVZoL0LeJqL838uDJsdL5h1z7Yo</DTS:Password>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
     <DTS:ConnectionManager
       DTS:refId="Package.ConnectionManagers[.\TAAD.DSA_raw]"
       DTS:CreationName="OLEDB"
@@ -25,7 +42,24 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="1"
           DTS:ConnectRetryInterval="5"
-          DTS:ConnectionString="Data Source=.\TAAD;Initial Catalog=DSA_raw;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Load-{783FA8E6-E463-40E7-A9DC-B6E93AABFA69}.\TAAD.DSA_raw;Auto Translate=False;" />
+          DTS:ConnectionString="Data Source=.\TAAD;Initial Catalog=DSA_raw;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Load-{783FA8E6-E463-40E7-A9DC-B6E93AABFA69}.\TAAD.DSA_raw;" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[.\TAAD.DSA_ready.sa]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{641D900D-151C-4F66-B7F7-461A7F0D8A42}"
+      DTS:ObjectName=".\TAAD.DSA_ready.sa">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=.\TAAD;User ID=sa;Initial Catalog=DSA_ready;Provider=SQLNCLI11.1;Application Name=SSIS-Load-{641D900D-151C-4F66-B7F7-461A7F0D8A42}.\TAAD.DSA_ready.sa;Auto Translate=False;">
+          <DTS:Password
+            DTS:Name="Password"
+            Sensitive="1"
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAxuekK0KBQJV0myWuJdHQG0+fCXkY/Wf4GjhMegxyupQAAAAAOgAAAAAIAACAAAAA6kgmlAPN9Sl/i91lwsHbKwsNNhz2Dt2YYNqUnIATYRiAAAACfCKuDHg9AEAzmwzBEIs+aWECsEPuhlSk7HMdpYaRzpUAAAABG8xaeKqeOQeS5ZDT1O9XnRb4Z15RHS0vRrgPbzYrQ2WcTG4DlhariQgPCF3h2jNPwieTTFbOm8KbiWDJ05a3B</DTS:Password>
+        </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -124,7 +158,6 @@
       DTS:refId="Package\Calcular ETL"
       DTS:CreationName="Microsoft.ExpressionTask"
       DTS:Description="Expression Task"
-      DTS:Disabled="True"
       DTS:DTSID="{D8A7C47A-A9DA-4773-869C-A5959004C3A2}"
       DTS:ExecutableType="Microsoft.ExpressionTask"
       DTS:LocaleID="-1"
@@ -151,6 +184,22 @@
         <ExecutePackageTask>
           <UseProjectReference>True</UseProjectReference>
         </ExecutePackageTask>
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Execute SQL Task"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{13CCDBDD-6E85-4FAE-B348-C76B9459EF5D}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Execute SQL Task"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{641D900D-151C-4F66-B7F7-461A7F0D8A42}"
+          SQLTask:SqlStatementSource="EXEC Integration.GetLastETLCutoffTime;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -1137,7 +1186,6 @@
       DTS:refId="Package\Guardar CutOff"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Execute SQL Task"
-      DTS:Disabled="True"
       DTS:DTSID="{EA71748D-54D6-40C5-A764-2743500FEC32}"
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
@@ -1146,13 +1194,13 @@
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{16C7D20E-6944-4BA4-B1CE-7DE50E7EDBAB}"
-          SQLTask:SqlStatementSource="INSERT INTO Integration.ETL_Cutoffs (cutOff)&#xA;VALUES (?);&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+          SQLTask:Connection="{641D900D-151C-4F66-B7F7-461A7F0D8A42}"
+          SQLTask:SqlStatementSource="INSERT INTO Integration.[ETL_Cutoffs] (cutOff) VALUES (?);&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
           <SQLTask:ParameterBinding
             SQLTask:ParameterName="0"
             SQLTask:DtsVariableName="User::TargetETLCutoffTime"
             SQLTask:ParameterDirection="Input"
-            SQLTask:DataType="135"
+            SQLTask:DataType="7"
             SQLTask:ParameterSize="-1" />
         </SQLTask:SqlTaskData>
       </DTS:ObjectData>
@@ -14195,7 +14243,6 @@
       DTS:refId="Package\Limpar DSA"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Execute SQL Task"
-      DTS:Disabled="True"
       DTS:DTSID="{C1FC6F79-E075-4EAC-B826-6CB9746DBD40}"
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
@@ -14204,30 +14251,8 @@
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{16C7D20E-6944-4BA4-B1CE-7DE50E7EDBAB}"
+          SQLTask:Connection="{783FA8E6-E463-40E7-A9DC-B6E93AABFA69}"
           SQLTask:SqlStatementSource="TRUNCATE TABLE dbo.db_incendios_2001;&#xA;TRUNCATE TABLE dbo.db_incendios_2011;&#xA;TRUNCATE TABLE dbo.db_incendios_2021;&#xA;&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
-      </DTS:ObjectData>
-    </DTS:Executable>
-    <DTS:Executable
-      DTS:refId="Package\Ultima data de povoamento (CutOff)"
-      DTS:CreationName="Microsoft.ExecuteSQLTask"
-      DTS:Description="Execute SQL Task"
-      DTS:Disabled="True"
-      DTS:DTSID="{76F08B6F-CA1A-41A2-ADBB-8983D04FAB9F}"
-      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
-      DTS:LocaleID="-1"
-      DTS:ObjectName="Ultima data de povoamento (CutOff)"
-      DTS:ThreadHint="0">
-      <DTS:Variables />
-      <DTS:ObjectData>
-        <SQLTask:SqlTaskData
-          SQLTask:Connection="{16C7D20E-6944-4BA4-B1CE-7DE50E7EDBAB}"
-          SQLTask:SqlStatementSource="EXEC Integration.EXEC Integration.GetLastETLCutoffTime;"
-          SQLTask:ResultType="ResultSetType_SingleRow" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
-          <SQLTask:ResultBinding
-            SQLTask:ResultName="CutOff"
-            SQLTask:DtsVariableName="EXEC Integration.GetLastETLCutoffTime;" />
-        </SQLTask:SqlTaskData>
       </DTS:ObjectData>
     </DTS:Executable>
   </DTS:Executables>
@@ -14235,16 +14260,16 @@
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint]"
       DTS:CreationName=""
-      DTS:DTSID="{8ACFDDA1-18DA-49DB-A715-07654DF2549E}"
+      DTS:DTSID="{2904E553-64D0-4A0B-AD99-3249B572BB8C}"
       DTS:From="Package\Calcular ETL"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint"
-      DTS:To="Package\Ultima data de povoamento (CutOff)" />
+      DTS:To="Package\Execute SQL Task" />
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 1]"
       DTS:CreationName=""
-      DTS:DTSID="{AE47817D-6A9B-4EF9-B477-364FA966F5F9}"
-      DTS:From="Package\Ultima data de povoamento (CutOff)"
+      DTS:DTSID="{8E47E8D9-4CEB-4F89-B8C0-21D86F71B6D0}"
+      DTS:From="Package\Execute SQL Task"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 1"
       DTS:To="Package\Limpar DSA" />
@@ -14325,54 +14350,6 @@
           Size="134.4,41.6"
           Id="Package\Limpar DSA"
           TopLeft="532.74440773102,237.355554661596" />
-        <NodeLayout
-          Size="244.8,41.6"
-          Id="Package\Ultima data de povoamento (CutOff)"
-          TopLeft="478.796270136021,129.03703613973" />
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="602.883305627523,86.3481482653335">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,42.6888878743961"
-              Start="0,0"
-              End="0,35.1888878743961">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,35.1888878743961" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="600.57033893352,170.63703613973">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,66.7185185218665"
-              Start="0,0"
-              End="0,59.2185185218665">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,59.2185185218665" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 3]"
           TopLeft="599.94440773102,278.955554661596">
@@ -14503,6 +14480,54 @@
                   Capacity="5">
                   <mssgle:LineSegment
                     End="-54.9629219594757,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="164.8,41.6"
+          Id="Package\Execute SQL Task"
+          TopLeft="522.49997145186,143.866665666236" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint]"
+          TopLeft="604.735156285442,86.3481482653334">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,57.5185174009024"
+              Start="0,0"
+              End="0,50.0185174009024">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,50.0185174009024" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 1]"
+          TopLeft="602.42218959144,185.466665666236">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,51.8888889953602"
+              Start="0,0"
+              End="0,44.3888889953602">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,44.3888889953602" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
