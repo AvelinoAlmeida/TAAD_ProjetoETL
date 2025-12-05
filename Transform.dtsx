@@ -11,8 +11,8 @@
   DTS:LocaleID="2070"
   DTS:ObjectName="Package1"
   DTS:PackageType="5"
-  DTS:VersionBuild="10"
-  DTS:VersionGUID="{2EDC5E1D-1562-4ECC-B20F-E845368D76C5}">
+  DTS:VersionBuild="12"
+  DTS:VersionGUID="{C9EA9EF3-C7C0-47B5-83E4-A08C0694AE39}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACPAE4DTCIP7pTS2MsBtRhVOE9CBDeK4vUNFB8JAxtajwAAAAAOgAAAAAIAACAAAABjBtUlZ5ZCD0WmUis5OiF2quhIIfYozvUstSqHhDHCFiAAAADyuzAZ29CyuNyHcTu4DlxBQSt4AZK6oNUQWvuPwy/dNUAAAABy1LQ0GnS/HsqwIJwPqm+4r8Vy2Wl9XzC+8zb/6jKK1C4IAfjjsxNeILUXaLc/Kw/7aJYsVQu5ex+/bGYyAlyc</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADR0RE17qV4NqZlwBfXYiHR6zQNu7pTvtQyJWwott2wHQAAAAAOgAAAAAIAACAAAAC6krJ2IftmxxLQXgqAo38v6rC0jh6UojPlCcB1omwcGSAAAAD2ICdXYTlpnRHg9lV+OjuJS1A5OxXIdWk6FBBfPR77+0AAAAAYjqCrUlhhDgISd/Pdc43uPji2iGW7fflzi0HnBZLC9p1KFGMFiV3cxTsU8qWBEQECikT6mLehAObgkn+8IXgd</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -46,7 +46,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAjUVjsbEqjzE1fWmdB3rb1ehZsu979jyBE3wfE2Gxw5gAAAAAOgAAAAAIAACAAAADTn2V/ZUIjWmU5U6Voe8HNaWAXxCax9ORR7Ep9wzngICAAAACV0gXzPbCAnCFTD+Wwxp+R1WNbBdEyxkEECGqg/8OtwUAAAADOzW3jZ0bzMKFfNvIWrGz3SyCeHqlkar7W5/qfvJ790RQGf/H10k5XraCQBEPP2cYJbSgsAqyb17AoEBs00Xnx</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADFxZdKgzj58ym0B/LzIXcI2nmVGTSjPjU7LKSjswWWpgAAAAAOgAAAAAIAACAAAADatfzgHYxba4qAH4MoAUoYJJzgszm2PMYXskW0X7lmayAAAAAQg5MdXtegFhCmwsc747oAC1+3OYW2PYChKIpyzgZsTEAAAAD7rbhDPwDo7LJwT7iswQ1fnx7e4LUBJP44IYlcsZ6Ns2vs4GgDlpm35Y0O8F3CiN+BHpHn6cGz1c5hzAstHE2R</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -59,7 +59,7 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\TAAD\Alojamentos_turisticos_tipo.xlsx;Extended Properties=&quot;Excel 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\TAAD\Alojamentos_turisticos_tipo.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -176,485 +176,886 @@
   <DTS:Variables />
   <DTS:Executables>
     <DTS:Executable
-      DTS:refId="Package\Carregar Dim_alojamento"
-      DTS:CreationName="STOCK:SEQUENCE"
-      DTS:Description="Sequence Container"
-      DTS:Disabled="True"
-      DTS:DTSID="{9436BA37-621A-449D-AFE0-EA0DAA38ADCD}"
-      DTS:ExecutableType="STOCK:SEQUENCE"
-      DTS:LocaleID="-1"
-      DTS:ObjectName="Carregar Dim_alojamento">
-      <DTS:Variables />
-      <DTS:Executables>
-        <DTS:Executable
-          DTS:refId="Package\Carregar Dim_alojamento\Load"
-          DTS:CreationName="Microsoft.Pipeline"
-          DTS:Description="Data Flow Task"
-          DTS:DTSID="{467DA6CB-7098-4953-AE23-8D172AE80DF3}"
-          DTS:ExecutableType="Microsoft.Pipeline"
-          DTS:LocaleID="-1"
-          DTS:ObjectName="Load"
-          DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
-          <DTS:Variables />
-          <DTS:ObjectData>
-            <pipeline
-              version="1">
-              <components>
-                <component
-                  refId="Package\Carregar Dim_alojamento\Load\Derived Column"
-                  componentClassID="Microsoft.DerivedColumn"
-                  contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
-                  description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
-                  name="Derived Column"
-                  usesDispositions="true">
-                  <inputs>
-                    <input
-                      refId="Package\Carregar Dim_alojamento\Load\Derived Column.Inputs[Derived Column Input]"
-                      description="Input to the Derived Column Transformation"
-                      name="Derived Column Input">
-                      <inputColumns>
-                        <inputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Derived Column.Inputs[Derived Column Input].Columns[05# Filtro 1]"
-                          cachedDataType="wstr"
-                          cachedLength="255"
-                          cachedName="05# Filtro 1"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[05# Filtro 1]" />
-                      </inputColumns>
-                      <externalMetadataColumns />
-                    </input>
-                  </inputs>
-                  <outputs>
-                    <output
-                      refId="Package\Carregar Dim_alojamento\Load\Derived Column.Outputs[Derived Column Output]"
-                      description="Default Output of the Derived Column Transformation"
-                      exclusionGroup="1"
-                      name="Derived Column Output"
-                      synchronousInputId="Package\Carregar Dim_alojamento\Load\Derived Column.Inputs[Derived Column Input]">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Derived Column.Outputs[Derived Column Output].Columns[Derived Column 1]"
-                          codePage="65001"
-                          dataType="str"
-                          errorOrTruncationOperation="Computation"
-                          errorRowDisposition="FailComponent"
-                          length="200"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Derived Column.Outputs[Derived Column Output].Columns[Derived Column 1]"
-                          name="Derived Column 1"
-                          truncationRowDisposition="FailComponent">
-                          <properties>
-                            <property
-                              containsID="true"
-                              dataType="System.String"
-                              description="Derived Column Expression"
-                              name="Expression">(DT_STR,200,65001)#{Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[05# Filtro 1]}</property>
-                            <property
-                              containsID="true"
-                              dataType="System.String"
-                              description="Derived Column Friendly Expression"
-                              expressionType="Notify"
-                              name="FriendlyExpression">(DT_STR,200,65001)[05# Filtro 1]</property>
-                          </properties>
-                        </outputColumn>
-                      </outputColumns>
-                      <externalMetadataColumns />
-                    </output>
-                    <output
-                      refId="Package\Carregar Dim_alojamento\Load\Derived Column.Outputs[Derived Column Error Output]"
-                      description="Error Output of the Derived Column Transformation"
-                      exclusionGroup="1"
-                      isErrorOut="true"
-                      name="Derived Column Error Output"
-                      synchronousInputId="Package\Carregar Dim_alojamento\Load\Derived Column.Inputs[Derived Column Input]">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorCode]"
-                          dataType="i4"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorCode]"
-                          name="ErrorCode"
-                          specialFlags="1" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
-                          dataType="i4"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
-                          name="ErrorColumn"
-                          specialFlags="2" />
-                      </outputColumns>
-                      <externalMetadataColumns />
-                    </output>
-                  </outputs>
-                </component>
-                <component
-                  refId="Package\Carregar Dim_alojamento\Load\Excel Source"
-                  componentClassID="Microsoft.ExcelSource"
-                  contactInfo="Excel Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
-                  description="Excel Source"
-                  name="Excel Source"
-                  usesDispositions="true"
-                  version="1">
-                  <properties>
-                    <property
-                      dataType="System.Int32"
-                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                      name="CommandTimeout">0</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the name of the database object used to open a rowset."
-                      name="OpenRowset">Alojamentos_turisticos_tipo$</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the variable that contains the name of the database object used to open a rowset."
-                      name="OpenRowsetVariable"></property>
-                    <property
-                      dataType="System.String"
-                      description="The SQL command to be executed."
-                      name="SqlCommand"
-                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=17.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
-                    <property
-                      dataType="System.String"
-                      description="The variable that contains the SQL command to be executed."
-                      name="SqlCommandVariable"></property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies the mode used to access the database."
-                      name="AccessMode"
-                      typeConverter="AccessMode">0</property>
-                    <property
-                      dataType="System.String"
-                      description="The mapping from parameters in the SQL command to variables."
-                      name="ParameterMapping"></property>
-                  </properties>
-                  <connections>
-                    <connection
-                      refId="Package\Carregar Dim_alojamento\Load\Excel Source.Connections[OleDbConnection]"
-                      connectionManagerID="Package.ConnectionManagers[Excel Connection Manager]"
-                      connectionManagerRefId="Package.ConnectionManagers[Excel Connection Manager]"
-                      description="The OLE DB runtime connection used to access the database."
-                      name="OleDbConnection" />
-                  </connections>
-                  <outputs>
-                    <output
-                      refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output]"
-                      name="Excel Source Output">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[01# Ano]"
-                          dataType="r8"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].ExternalColumns[01# Ano]"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[01# Ano]"
-                          name="01# Ano"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[02# Nome RegiÃ£o (Portugal)]"
-                          dataType="wstr"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].ExternalColumns[02# Nome RegiÃ£o (Portugal)]"
-                          length="255"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[02# Nome RegiÃ£o (Portugal)]"
-                          name="02# Nome RegiÃ£o (Portugal)"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[03# Ã‚mbito GeogrÃ¡fico]"
-                          dataType="wstr"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].ExternalColumns[03# Ã‚mbito GeogrÃ¡fico]"
-                          length="255"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[03# Ã‚mbito GeogrÃ¡fico]"
-                          name="03# Ã‚mbito GeogrÃ¡fico"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[04# Indicador]"
-                          dataType="wstr"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].ExternalColumns[04# Indicador]"
-                          length="255"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[04# Indicador]"
-                          name="04# Indicador"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[05# Filtro 1]"
-                          dataType="wstr"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].ExternalColumns[05# Filtro 1]"
-                          length="255"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[05# Filtro 1]"
-                          name="05# Filtro 1"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[06# Filtro 2]"
-                          dataType="wstr"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].ExternalColumns[06# Filtro 2]"
-                          length="255"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[06# Filtro 2]"
-                          name="06# Filtro 2"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[07# Filtro 3]"
-                          dataType="wstr"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].ExternalColumns[07# Filtro 3]"
-                          length="255"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[07# Filtro 3]"
-                          name="07# Filtro 3"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[08# Escala]"
-                          dataType="wstr"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].ExternalColumns[08# Escala]"
-                          length="255"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[08# Escala]"
-                          name="08# Escala"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[09# SÃ­mbolo]"
-                          dataType="wstr"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].ExternalColumns[09# SÃ­mbolo]"
-                          length="255"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[09# SÃ­mbolo]"
-                          name="09# SÃ­mbolo"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[10# Valor]"
-                          dataType="r8"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].ExternalColumns[10# Valor]"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].Columns[10# Valor]"
-                          name="10# Valor"
-                          truncationRowDisposition="FailComponent" />
-                      </outputColumns>
-                      <externalMetadataColumns
-                        isUsed="True">
-                        <externalMetadataColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].ExternalColumns[01# Ano]"
-                          dataType="r8"
-                          name="01# Ano" />
-                        <externalMetadataColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].ExternalColumns[02# Nome RegiÃ£o (Portugal)]"
-                          dataType="wstr"
-                          length="255"
-                          name="02# Nome RegiÃ£o (Portugal)" />
-                        <externalMetadataColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].ExternalColumns[03# Ã‚mbito GeogrÃ¡fico]"
-                          dataType="wstr"
-                          length="255"
-                          name="03# Ã‚mbito GeogrÃ¡fico" />
-                        <externalMetadataColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].ExternalColumns[04# Indicador]"
-                          dataType="wstr"
-                          length="255"
-                          name="04# Indicador" />
-                        <externalMetadataColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].ExternalColumns[05# Filtro 1]"
-                          dataType="wstr"
-                          length="255"
-                          name="05# Filtro 1" />
-                        <externalMetadataColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].ExternalColumns[06# Filtro 2]"
-                          dataType="wstr"
-                          length="255"
-                          name="06# Filtro 2" />
-                        <externalMetadataColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].ExternalColumns[07# Filtro 3]"
-                          dataType="wstr"
-                          length="255"
-                          name="07# Filtro 3" />
-                        <externalMetadataColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].ExternalColumns[08# Escala]"
-                          dataType="wstr"
-                          length="255"
-                          name="08# Escala" />
-                        <externalMetadataColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].ExternalColumns[09# SÃ­mbolo]"
-                          dataType="wstr"
-                          length="255"
-                          name="09# SÃ­mbolo" />
-                        <externalMetadataColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output].ExternalColumns[10# Valor]"
-                          dataType="r8"
-                          name="10# Valor" />
-                      </externalMetadataColumns>
-                    </output>
-                    <output
-                      refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output]"
-                      isErrorOut="true"
-                      name="Excel Source Error Output">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[01# Ano]"
-                          dataType="r8"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[01# Ano]"
-                          name="01# Ano" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[02# Nome RegiÃ£o (Portugal)]"
-                          dataType="wstr"
-                          length="255"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[02# Nome RegiÃ£o (Portugal)]"
-                          name="02# Nome RegiÃ£o (Portugal)" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[03# Ã‚mbito GeogrÃ¡fico]"
-                          dataType="wstr"
-                          length="255"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[03# Ã‚mbito GeogrÃ¡fico]"
-                          name="03# Ã‚mbito GeogrÃ¡fico" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[04# Indicador]"
-                          dataType="wstr"
-                          length="255"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[04# Indicador]"
-                          name="04# Indicador" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[05# Filtro 1]"
-                          dataType="wstr"
-                          length="255"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[05# Filtro 1]"
-                          name="05# Filtro 1" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[06# Filtro 2]"
-                          dataType="wstr"
-                          length="255"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[06# Filtro 2]"
-                          name="06# Filtro 2" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[07# Filtro 3]"
-                          dataType="wstr"
-                          length="255"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[07# Filtro 3]"
-                          name="07# Filtro 3" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[08# Escala]"
-                          dataType="wstr"
-                          length="255"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[08# Escala]"
-                          name="08# Escala" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[09# SÃ­mbolo]"
-                          dataType="wstr"
-                          length="255"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[09# SÃ­mbolo]"
-                          name="09# SÃ­mbolo" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[10# Valor]"
-                          dataType="r8"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[10# Valor]"
-                          name="10# Valor" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[ErrorCode]"
-                          dataType="i4"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[ErrorCode]"
-                          name="ErrorCode"
-                          specialFlags="1" />
-                        <outputColumn
-                          refId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[ErrorColumn]"
-                          dataType="i4"
-                          lineageId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Error Output].Columns[ErrorColumn]"
-                          name="ErrorColumn"
-                          specialFlags="2" />
-                      </outputColumns>
-                      <externalMetadataColumns />
-                    </output>
-                  </outputs>
-                </component>
-                <component
-                  refId="Package\Carregar Dim_alojamento\Load\Multicast"
-                  componentClassID="Microsoft.Multicast"
-                  contactInfo="Multicast;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
-                  description="Distributes every input row to every row in one or more outputs. For example, branch your data flow to make a copy of data so that some values can be masked before sharing with external partners."
-                  name="Multicast">
-                  <inputs>
-                    <input
-                      refId="Package\Carregar Dim_alojamento\Load\Multicast.Inputs[Multicast Input 1]"
-                      name="Multicast Input 1">
-                      <externalMetadataColumns />
-                    </input>
-                  </inputs>
-                  <outputs>
-                    <output
-                      refId="Package\Carregar Dim_alojamento\Load\Multicast.Outputs[Multicast Output 1]"
-                      dangling="true"
-                      deleteOutputOnPathDetached="true"
-                      name="Multicast Output 1"
-                      synchronousInputId="Package\Carregar Dim_alojamento\Load\Multicast.Inputs[Multicast Input 1]">
-                      <externalMetadataColumns />
-                    </output>
-                  </outputs>
-                </component>
-              </components>
-              <paths>
-                <path
-                  refId="Package\Carregar Dim_alojamento\Load.Paths[Derived Column Output]"
-                  endId="Package\Carregar Dim_alojamento\Load\Multicast.Inputs[Multicast Input 1]"
-                  name="Derived Column Output"
-                  startId="Package\Carregar Dim_alojamento\Load\Derived Column.Outputs[Derived Column Output]" />
-                <path
-                  refId="Package\Carregar Dim_alojamento\Load.Paths[Excel Source Output]"
-                  endId="Package\Carregar Dim_alojamento\Load\Derived Column.Inputs[Derived Column Input]"
-                  name="Excel Source Output"
-                  startId="Package\Carregar Dim_alojamento\Load\Excel Source.Outputs[Excel Source Output]" />
-              </paths>
-            </pipeline>
-          </DTS:ObjectData>
-        </DTS:Executable>
-        <DTS:Executable
-          DTS:refId="Package\Carregar Dim_alojamento\source to dsa"
-          DTS:CreationName="Microsoft.Pipeline"
-          DTS:Description="Data Flow Task"
-          DTS:DTSID="{C1422F56-0CC8-47EA-9010-354EB19767E7}"
-          DTS:ExecutableType="Microsoft.Pipeline"
-          DTS:LocaleID="-1"
-          DTS:ObjectName="source to dsa"
-          DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
-          <DTS:Variables />
-          <DTS:ObjectData>
-            <pipeline
-              version="1" />
-          </DTS:ObjectData>
-        </DTS:Executable>
-      </DTS:Executables>
-    </DTS:Executable>
-    <DTS:Executable
-      DTS:refId="Package\Executar DW"
-      DTS:CreationName="Microsoft.ExecutePackageTask"
-      DTS:Description="Execute Package Task"
-      DTS:Disabled="True"
-      DTS:DTSID="{90A9CB37-5259-4FD0-9213-110B7390C310}"
-      DTS:ExecutableType="Microsoft.ExecutePackageTask"
-      DTS:LocaleID="-1"
-      DTS:ObjectName="Executar DW"
-      DTS:TaskContact="Microsoft Corporation; Microsoft SQL Server; Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
-      <DTS:Variables />
-      <DTS:ObjectData>
-        <ExecutePackageTask>
-          <UseProjectReference>True</UseProjectReference>
-        </ExecutePackageTask>
-      </DTS:ObjectData>
-    </DTS:Executable>
-    <DTS:Executable
-      DTS:refId="Package\importar db_incendios"
+      DTS:refId="Package\load incendios_raw"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
-      DTS:Disabled="True"
-      DTS:DTSID="{9E494570-6BA9-4644-A052-2CF0933BD2C0}"
+      DTS:DTSID="{7AF6B3BC-687F-4E5F-A8B6-DA1A2A2AEDF7}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
-      DTS:ObjectName="importar db_incendios"
+      DTS:ObjectName="load incendios_raw"
       DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
       <DTS:Variables />
       <DTS:ObjectData>
         <pipeline
-          version="1" />
+          version="1">
+          <components>
+            <component
+              refId="Package\load incendios_raw\db_incendios_raw"
+              componentClassID="Microsoft.OLEDBSource"
+              contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
+              description="OLE DB Source"
+              name="db_incendios_raw"
+              usesDispositions="true"
+              version="7">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[db_incendios]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=17.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
+                <property
+                  dataType="System.String"
+                  description="The variable that contains the SQL command to be executed."
+                  name="SqlCommandVariable"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">0</property>
+                <property
+                  dataType="System.String"
+                  description="The mappings between the parameters in the SQL command and variables."
+                  name="ParameterMapping"></property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\load incendios_raw\db_incendios_raw.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[.\TAAD.DSA_raw.sa]"
+                  connectionManagerRefId="Package.ConnectionManagers[.\TAAD.DSA_raw.sa]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <outputs>
+                <output
+                  refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output]"
+                  name="OLE DB Source Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Codigo_SGIF]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Codigo_SGIF]"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Codigo_SGIF]"
+                      name="Codigo_SGIF"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Codigo_ANEPC]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Codigo_ANEPC]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Codigo_ANEPC]"
+                      name="Codigo_ANEPC"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Ano]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Ano]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Ano]"
+                      name="Ano"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Mes]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Mes]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Mes]"
+                      name="Mes"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Dia]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Dia]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Dia]"
+                      name="Dia"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Hora]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Hora]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Hora]"
+                      name="Hora"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[AreaPov_ha]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[AreaPov_ha]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[AreaPov_ha]"
+                      name="AreaPov_ha"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[AreaMato_ha]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[AreaMato_ha]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[AreaMato_ha]"
+                      name="AreaMato_ha"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[AreaAgric_ha]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[AreaAgric_ha]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[AreaAgric_ha]"
+                      name="AreaAgric_ha"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[AreaTotal_ha]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[AreaTotal_ha]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[AreaTotal_ha]"
+                      name="AreaTotal_ha"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[ClasseArea]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[ClasseArea]"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[ClasseArea]"
+                      name="ClasseArea"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[DataHoraAlerta]"
+                      dataType="dbTimeStamp"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[DataHoraAlerta]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[DataHoraAlerta]"
+                      name="DataHoraAlerta"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[DataHora_PrimeiraIntervencao]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[DataHora_PrimeiraIntervencao]"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[DataHora_PrimeiraIntervencao]"
+                      name="DataHora_PrimeiraIntervencao"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[DataHora_Extincao]"
+                      dataType="dbTimeStamp"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[DataHora_Extincao]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[DataHora_Extincao]"
+                      name="DataHora_Extincao"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Duracao_Horas]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Duracao_Horas]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Duracao_Horas]"
+                      name="Duracao_Horas"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[IncSup24horas]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[IncSup24horas]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[IncSup24horas]"
+                      name="IncSup24horas"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[DTCCFR]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[DTCCFR]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[DTCCFR]"
+                      name="DTCCFR"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Distrito]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Distrito]"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Distrito]"
+                      name="Distrito"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Concelho]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Concelho]"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Concelho]"
+                      name="Concelho"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Freguesia]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Freguesia]"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Freguesia]"
+                      name="Freguesia"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Local]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Local]"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Local]"
+                      name="Local"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[RNAP]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[RNAP]"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[RNAP]"
+                      name="RNAP"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[RNMPF]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[RNMPF]"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[RNMPF]"
+                      name="RNMPF"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[X_Militar]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[X_Militar]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[X_Militar]"
+                      name="X_Militar"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Y_Militar]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Y_Militar]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Y_Militar]"
+                      name="Y_Militar"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Latitude]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Latitude]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Latitude]"
+                      name="Latitude"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Longitude]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Longitude]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Longitude]"
+                      name="Longitude"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[X_ETRS89]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[X_ETRS89]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[X_ETRS89]"
+                      name="X_ETRS89"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Y_ETRS89]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Y_ETRS89]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[Y_ETRS89]"
+                      name="Y_ETRS89"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[DSR]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[DSR]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[DSR]"
+                      name="DSR"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[FWI]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[FWI]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[FWI]"
+                      name="FWI"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[ISI]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[ISI]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[ISI]"
+                      name="ISI"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[DC]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[DC]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[DC]"
+                      name="DC"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[DMC]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[DMC]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[DMC]"
+                      name="DMC"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[FFMC]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[FFMC]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[FFMC]"
+                      name="FFMC"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[BUI]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[BUI]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[BUI]"
+                      name="BUI"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[CodCausa]"
+                      dataType="r8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[CodCausa]"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[CodCausa]"
+                      name="CodCausa"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[TipoCausa]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[TipoCausa]"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[TipoCausa]"
+                      name="TipoCausa"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[GrupoCausa]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[GrupoCausa]"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[GrupoCausa]"
+                      name="GrupoCausa"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[DescricaoCausa]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[DescricaoCausa]"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[DescricaoCausa]"
+                      name="DescricaoCausa"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[FonteAlerta]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[FonteAlerta]"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].Columns[FonteAlerta]"
+                      name="FonteAlerta"
+                      truncationRowDisposition="FailComponent" />
+                  </outputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Codigo_SGIF]"
+                      dataType="wstr"
+                      length="255"
+                      name="Codigo_SGIF" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Codigo_ANEPC]"
+                      dataType="r8"
+                      name="Codigo_ANEPC" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Ano]"
+                      dataType="r8"
+                      name="Ano" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Mes]"
+                      dataType="r8"
+                      name="Mes" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Dia]"
+                      dataType="r8"
+                      name="Dia" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Hora]"
+                      dataType="r8"
+                      name="Hora" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[AreaPov_ha]"
+                      dataType="r8"
+                      name="AreaPov_ha" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[AreaMato_ha]"
+                      dataType="r8"
+                      name="AreaMato_ha" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[AreaAgric_ha]"
+                      dataType="r8"
+                      name="AreaAgric_ha" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[AreaTotal_ha]"
+                      dataType="r8"
+                      name="AreaTotal_ha" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[ClasseArea]"
+                      dataType="wstr"
+                      length="255"
+                      name="ClasseArea" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[DataHoraAlerta]"
+                      dataType="dbTimeStamp"
+                      name="DataHoraAlerta" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[DataHora_PrimeiraIntervencao]"
+                      dataType="wstr"
+                      length="255"
+                      name="DataHora_PrimeiraIntervencao" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[DataHora_Extincao]"
+                      dataType="dbTimeStamp"
+                      name="DataHora_Extincao" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Duracao_Horas]"
+                      dataType="r8"
+                      name="Duracao_Horas" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[IncSup24horas]"
+                      dataType="r8"
+                      name="IncSup24horas" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[DTCCFR]"
+                      dataType="r8"
+                      name="DTCCFR" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Distrito]"
+                      dataType="wstr"
+                      length="255"
+                      name="Distrito" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Concelho]"
+                      dataType="wstr"
+                      length="255"
+                      name="Concelho" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Freguesia]"
+                      dataType="wstr"
+                      length="255"
+                      name="Freguesia" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Local]"
+                      dataType="wstr"
+                      length="255"
+                      name="Local" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[RNAP]"
+                      dataType="wstr"
+                      length="255"
+                      name="RNAP" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[RNMPF]"
+                      dataType="wstr"
+                      length="255"
+                      name="RNMPF" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[X_Militar]"
+                      dataType="r8"
+                      name="X_Militar" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Y_Militar]"
+                      dataType="r8"
+                      name="Y_Militar" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Latitude]"
+                      dataType="r8"
+                      name="Latitude" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Longitude]"
+                      dataType="r8"
+                      name="Longitude" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[X_ETRS89]"
+                      dataType="r8"
+                      name="X_ETRS89" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[Y_ETRS89]"
+                      dataType="r8"
+                      name="Y_ETRS89" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[DSR]"
+                      dataType="r8"
+                      name="DSR" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[FWI]"
+                      dataType="r8"
+                      name="FWI" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[ISI]"
+                      dataType="r8"
+                      name="ISI" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[DC]"
+                      dataType="r8"
+                      name="DC" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[DMC]"
+                      dataType="r8"
+                      name="DMC" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[FFMC]"
+                      dataType="r8"
+                      name="FFMC" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[BUI]"
+                      dataType="r8"
+                      name="BUI" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[CodCausa]"
+                      dataType="r8"
+                      name="CodCausa" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[TipoCausa]"
+                      dataType="wstr"
+                      length="255"
+                      name="TipoCausa" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[GrupoCausa]"
+                      dataType="wstr"
+                      length="255"
+                      name="GrupoCausa" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[DescricaoCausa]"
+                      dataType="wstr"
+                      length="255"
+                      name="DescricaoCausa" />
+                    <externalMetadataColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Output].ExternalColumns[FonteAlerta]"
+                      dataType="wstr"
+                      length="255"
+                      name="FonteAlerta" />
+                  </externalMetadataColumns>
+                </output>
+                <output
+                  refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output]"
+                  isErrorOut="true"
+                  name="OLE DB Source Error Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Codigo_SGIF]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Codigo_SGIF]"
+                      name="Codigo_SGIF" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Codigo_ANEPC]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Codigo_ANEPC]"
+                      name="Codigo_ANEPC" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Ano]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Ano]"
+                      name="Ano" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Mes]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Mes]"
+                      name="Mes" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Dia]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Dia]"
+                      name="Dia" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Hora]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Hora]"
+                      name="Hora" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[AreaPov_ha]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[AreaPov_ha]"
+                      name="AreaPov_ha" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[AreaMato_ha]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[AreaMato_ha]"
+                      name="AreaMato_ha" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[AreaAgric_ha]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[AreaAgric_ha]"
+                      name="AreaAgric_ha" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[AreaTotal_ha]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[AreaTotal_ha]"
+                      name="AreaTotal_ha" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[ClasseArea]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[ClasseArea]"
+                      name="ClasseArea" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[DataHoraAlerta]"
+                      dataType="dbTimeStamp"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[DataHoraAlerta]"
+                      name="DataHoraAlerta" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[DataHora_PrimeiraIntervencao]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[DataHora_PrimeiraIntervencao]"
+                      name="DataHora_PrimeiraIntervencao" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[DataHora_Extincao]"
+                      dataType="dbTimeStamp"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[DataHora_Extincao]"
+                      name="DataHora_Extincao" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Duracao_Horas]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Duracao_Horas]"
+                      name="Duracao_Horas" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[IncSup24horas]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[IncSup24horas]"
+                      name="IncSup24horas" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[DTCCFR]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[DTCCFR]"
+                      name="DTCCFR" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Distrito]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Distrito]"
+                      name="Distrito" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Concelho]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Concelho]"
+                      name="Concelho" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Freguesia]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Freguesia]"
+                      name="Freguesia" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Local]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Local]"
+                      name="Local" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[RNAP]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[RNAP]"
+                      name="RNAP" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[RNMPF]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[RNMPF]"
+                      name="RNMPF" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[X_Militar]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[X_Militar]"
+                      name="X_Militar" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Y_Militar]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Y_Militar]"
+                      name="Y_Militar" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Latitude]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Latitude]"
+                      name="Latitude" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Longitude]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Longitude]"
+                      name="Longitude" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[X_ETRS89]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[X_ETRS89]"
+                      name="X_ETRS89" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Y_ETRS89]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[Y_ETRS89]"
+                      name="Y_ETRS89" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[DSR]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[DSR]"
+                      name="DSR" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[FWI]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[FWI]"
+                      name="FWI" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[ISI]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[ISI]"
+                      name="ISI" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[DC]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[DC]"
+                      name="DC" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[DMC]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[DMC]"
+                      name="DMC" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[FFMC]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[FFMC]"
+                      name="FFMC" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[BUI]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[BUI]"
+                      name="BUI" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[CodCausa]"
+                      dataType="r8"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[CodCausa]"
+                      name="CodCausa" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[TipoCausa]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[TipoCausa]"
+                      name="TipoCausa" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[GrupoCausa]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[GrupoCausa]"
+                      name="GrupoCausa" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[DescricaoCausa]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[DescricaoCausa]"
+                      name="DescricaoCausa" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[FonteAlerta]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[FonteAlerta]"
+                      name="FonteAlerta" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\load incendios_raw\db_incendios_raw.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+          </components>
+        </pipeline>
       </DTS:ObjectData>
     </DTS:Executable>
   </DTS:Executables>
@@ -669,125 +1070,28 @@
     design-time-name="Package">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
         <NodeLayout
-          Size="180.8,41.6"
-          Id="Package\importar db_incendios"
-          TopLeft="888.83328507013,142.433332381116" />
-        <NodeLayout
-          Size="139.2,41.6"
-          Id="Package\Executar DW"
-          TopLeft="954.666616445617,244.366665214234" />
-        <NodeLayout
-          Size="140.8,41.6"
-          Id="Package\Carregar Dim_alojamento\source to dsa"
-          TopLeft="154.799980876844,35.066665232314" />
-        <NodeLayout
-          Size="101.6,41.6"
-          Id="Package\Carregar Dim_alojamento\Load"
-          TopLeft="158.133314028052,126.066664599512" />
-        <ContainerLayout
-          HeaderHeight="43"
-          IsExpanded="True"
-          PanelSize="456.8,272.8"
-          Size="456.8,316"
-          Id="Package\Carregar Dim_alojamento"
-          TopLeft="194.99998934567,128.266665774716" />
+          Size="167.2,41.6"
+          Id="Package\load incendios_raw"
+          TopLeft="181.666656740838,69.3333328511981" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
   <TaskHost
-    design-time-name="Package\Carregar Dim_alojamento\Load">
+    design-time-name="Package\load incendios_raw">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
         <NodeLayout
-          Size="140,41.6"
-          Id="Package\Carregar Dim_alojamento\Load\Excel Source"
-          TopLeft="306.999995425344,87.9999986886978" />
-        <NodeLayout
-          Size="152.8,41.6"
-          Id="Package\Carregar Dim_alojamento\Load\Derived Column"
-          TopLeft="363.999994575977,207.999996900558" />
-        <EdgeLayout
-          Id="Package\Carregar Dim_alojamento\Load.Paths[Excel Source Output]"
-          TopLeft="376.999995425344,129.599998688698">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="63.3999991506337,78.3999982118606"
-              Start="0,0"
-              End="63.3999991506337,70.8999982118606">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,35.1999991059303" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,35.1999991059303"
-                    Point2="0,39.1999991059303"
-                    Point3="4,39.1999991059303" />
-                  <mssgle:LineSegment
-                    End="59.3999991506337,39.1999991059303" />
-                  <mssgle:CubicBezierSegment
-                    Point1="59.3999991506337,39.1999991059303"
-                    Point2="63.3999991506337,39.1999991059303"
-                    Point3="63.3999991506337,43.1999991059303" />
-                  <mssgle:LineSegment
-                    End="63.3999991506337,70.8999982118606" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="119.2,41.6"
-          Id="Package\Carregar Dim_alojamento\Load\Multicast"
-          TopLeft="351.999994754791,315.999995291233" />
-        <EdgeLayout
-          Id="Package\Carregar Dim_alojamento\Load.Paths[Derived Column Output]"
-          TopLeft="440.399994575977,249.599996900558">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-28.7999998211859,66.3999983906746"
-              Start="0,0"
-              End="-28.7999998211859,58.8999983906746">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,29.1999991953373" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,29.1999991953373"
-                    Point2="0,33.1999991953373"
-                    Point3="-4,33.1999991953373" />
-                  <mssgle:LineSegment
-                    End="-24.7999998211859,33.1999991953373" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-24.7999998211859,33.1999991953373"
-                    Point2="-28.7999998211859,33.1999991953373"
-                    Point3="-28.7999998211859,37.1999991953373" />
-                  <mssgle:LineSegment
-                    End="-28.7999998211859,58.8999983906746" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-22.399999910593,38.1999991953373,16,16"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
+          Size="162.4,41.6"
+          Id="Package\load incendios_raw\db_incendios_raw"
+          TopLeft="166.499997600913,122.499998256564" />
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Carregar Dim_alojamento\Load\Excel Source">
+    design-time-name="Package\load incendios_raw\db_incendios_raw">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
