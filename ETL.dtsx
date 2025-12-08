@@ -11,8 +11,8 @@
   DTS:LocaleID="2070"
   DTS:ObjectName="ETL"
   DTS:PackageType="5"
-  DTS:VersionBuild="119"
-  DTS:VersionGUID="{E06CBACA-BDC1-430A-8E6C-17F1A15B50B4}">
+  DTS:VersionBuild="128"
+  DTS:VersionGUID="{533B8C50-F133-4D7D-BCAE-58517A5AD4E8}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABrEQBqjPVLlHnCrWUe2f42Lsxd+BmxHmj5bnQ0++0FwwAAAAAOgAAAAAIAACAAAAD222EqZzoMmm0O4D2kO8ClJowvuUbMGDtIUmfMZickACAAAADV1GdIofeYHTqiEPu4EpIPvKcFBXKpdRqBUbvw27yNukAAAACymiUhqzq4N4SLVMaXzQVy1PpQ5hMtBlJ9NqwbIDreVvztczjo8a23bKHIYN3WZ9vYk423I710/hYj9gKm2QsG</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAjRpchywP2bWnJyOeG88mNSjHWuPSakZHOUdX9tbpe6AAAAAAOgAAAAAIAACAAAAAKaxaozi+dLwlYMC29+dyuIrERnb1fXxArRpdJCpfYFyAAAABVbcS67bt4wh/qZXYVeca+SCgWoPFRln5xH6wEnkqVkUAAAABnfX8K+1N3xMLOCpz3XmNizBCgZxYdh5YfLrXoOm5vJcqv/Z9nQQQAur8QwzqWjHcvYWApgi/XfhHQSr/rJ42U</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -56,7 +56,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAD/la+ZgBjU1kNStz9KjVEZswIFLVlQaKC+KFdlwIGvUAAAAAAOgAAAAAIAACAAAABdzQys2fRH6s8zKVJRTFyUS0cX7qY3mRW+19uOCdggwSAAAADz4mHpjQlhKOtoaxlPxd9kD0ERlEJw/Il/inUwaiZzK0AAAABXTKwZgyEqU+Jo9OkSMY2AlE0Z5aYM15Temjpcb4BLIdmr1bxMBLtjQBPrhElQU4gB3iERBfTWCGmbgeQheJJD</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAqioQipxc5IWbvilkPy9qeUrJX0AKrkQ8YW1S0Kpu8qgAAAAAOgAAAAAIAACAAAACJyAExw7CYDBvtzhZdrOSrqjUhmwo+Pf/CXBF+X/x7AiAAAAAyouX7GFeP2+wRIUJJHnHD7N/qGhugYpCDfDSaHeMamkAAAAArMK93YwnRWx54dM5U0cl64p8+m/R8jANSQFWerOlNeR3xMhCE8VK9dbiKZrUqqBRZJVl5NFK4N8tPueih52oJ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -73,7 +73,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABHs1/6U5Avr4WnZNJuQ2qCZAilEzfR44KfzQW6Xv+KUwAAAAAOgAAAAAIAACAAAAC/GKme9RP9DM9c9X5GR5p/S3rrB4R2V42PsRYZnvU/yyAAAACEP9h59vCGAebat9fer8g+kMmB1IWCdGE5VwQQ8byrMEAAAABxkxvdqQaPbkVVahHrej8ctiFFxWE/9AenyDqrzOxAlP72Wsmtr38wvkN4abWDXFYGsfRQAKLKoUQDBY7P5KGc</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAD5bz3C1pqqC4zDOJB0wcFLkXGSQurWNCj9ZFwi1nRRJwAAAAAOgAAAAAIAACAAAADDOxmt6I1OSt54JHIY8wsst3c3tsbWfwqqGY0kQ0/KHiAAAAD1kE23abzuRj6RffPBc801wnBVg7g06PHf+UGkoPDDskAAAACjoOWfmm24umI0j4vLnxhPpzD0SzXdsXwQY7hTzMP8fYH4Li/maHTKx1EOxy17mvySRfzfALWQ+sg/s9Yl7gus</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -184,7 +184,6 @@
       DTS:refId="Package\DSA_clean"
       DTS:CreationName="STOCK:SEQUENCE"
       DTS:Description="Sequence Container"
-      DTS:Disabled="True"
       DTS:DTSID="{DE3C2125-4184-44B0-B158-157E49C597A4}"
       DTS:ExecutableType="STOCK:SEQUENCE"
       DTS:LocaleID="-1"
@@ -1297,7 +1296,6 @@ FROM DSA_raw.dbo.db_incendios;</property>
       DTS:refId="Package\DSA_raw"
       DTS:CreationName="STOCK:SEQUENCE"
       DTS:Description="Sequence Container"
-      DTS:Disabled="True"
       DTS:DTSID="{865F4573-DEE2-4EF0-BFF1-C42D73C43E06}"
       DTS:ExecutableType="STOCK:SEQUENCE"
       DTS:LocaleID="-1"
@@ -14476,7 +14474,7 @@ FROM DSA_raw.dbo.db_incendios;</property>
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
               SQLTask:Connection="{641D900D-151C-4F66-B7F7-461A7F0D8A42}"
-              SQLTask:SqlStatementSource="TRUNCATE TABLE dbo.dim_localizacao&#xA;TRUNCATE TABLE dbo.dim_causa" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+              SQLTask:SqlStatementSource="TRUNCATE TABLE dbo.dim_localizacao&#xA;TRUNCATE TABLE dbo.dim_causa&#xA;&#xA;TRUNCATE TABLE dbo.fact_incendios" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
           </DTS:ObjectData>
         </DTS:Executable>
         <DTS:Executable
@@ -14612,26 +14610,22 @@ FROM DSA_raw.dbo.db_incendios;</property>
                           name="nk_codcausa" />
                         <externalMetadataColumn
                           refId="Package\DSA_ready\Povoar dim_causa\dim_causas.Inputs[OLE DB Destination Input].ExternalColumns[tipo_causa]"
-                          codePage="1252"
-                          dataType="str"
+                          dataType="wstr"
                           length="100"
                           name="tipo_causa" />
                         <externalMetadataColumn
                           refId="Package\DSA_ready\Povoar dim_causa\dim_causas.Inputs[OLE DB Destination Input].ExternalColumns[grupo_causa]"
-                          codePage="1252"
-                          dataType="str"
+                          dataType="wstr"
                           length="100"
                           name="grupo_causa" />
                         <externalMetadataColumn
                           refId="Package\DSA_ready\Povoar dim_causa\dim_causas.Inputs[OLE DB Destination Input].ExternalColumns[descricao_causa]"
-                          codePage="1252"
-                          dataType="str"
+                          dataType="wstr"
                           length="255"
                           name="descricao_causa" />
                         <externalMetadataColumn
                           refId="Package\DSA_ready\Povoar dim_causa\dim_causas.Inputs[OLE DB Destination Input].ExternalColumns[fonte_alerta]"
-                          codePage="1252"
-                          dataType="str"
+                          dataType="wstr"
                           length="255"
                           name="fonte_alerta" />
                         <externalMetadataColumn
@@ -14886,12 +14880,19 @@ WHERE CodCausa IS NOT NULL;</property>
                       expressionType="Notify"
                       name="SqlCommand"
                       UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=17.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">SELECT 
-    sk_causa,
-    nk_codcausa,
-    tipo_causa      AS tipo_causa_dim,
-    grupo_causa     AS grupo_causa_dim,
-    descricao_causa AS descricao_causa_dim,
-    fonte_alerta    AS fonte_alerta_dim
+    
+sk_causa,
+    
+nk_codcausa,
+    
+tipo_causa      AS tipo_causa_dim,
+    
+grupo_causa     AS grupo_causa_dim,
+    
+descricao_causa AS descricao_causa_dim,
+    
+fonte_alerta    AS fonte_alerta_dim
+
 FROM dim_causa
 WHERE fl_ativo = 1;</property>
                     <property
@@ -14900,15 +14901,22 @@ WHERE fl_ativo = 1;</property>
                       expressionType="Notify"
                       name="SqlCommandParam"
                       UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=17.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">select * from (SELECT 
-    sk_causa,
-    nk_codcausa,
-    tipo_causa      AS tipo_causa_dim,
-    grupo_causa     AS grupo_causa_dim,
-    descricao_causa AS descricao_causa_dim,
-    fonte_alerta    AS fonte_alerta_dim
+    
+sk_causa,
+    
+nk_codcausa,
+    
+tipo_causa      AS tipo_causa_dim,
+    
+grupo_causa     AS grupo_causa_dim,
+    
+descricao_causa AS descricao_causa_dim,
+    
+fonte_alerta    AS fonte_alerta_dim
+
 FROM dim_causa
 WHERE fl_ativo = 1;) [refTable]
-where [refTable].[nk_codcausa] = ?</property>
+where [refTable].[tipo_causa_dim] = ? and [refTable].[grupo_causa_dim] = ? and [refTable].[descricao_causa_dim] = ? and [refTable].[fonte_alerta_dim] = ? and [refTable].[nk_codcausa] = ?</property>
                     <property
                       dataType="System.Int32"
                       description="Specifies the type of connection used to access the reference dataset."
@@ -14939,12 +14947,12 @@ where [refTable].[nk_codcausa] = ?</property>
                     <property
                       dataType="System.String"
                       description="Indicates whether to reference metadata in an XML format."
-                      name="ReferenceMetadataXml">&lt;referenceMetadata&gt;&lt;referenceColumns&gt;&lt;referenceColumn name="sk_causa" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="nk_codcausa" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="tipo_causa_dim" dataType="DT_STR" length="100" precision="0" scale="0" codePage="1252"/&gt;&lt;referenceColumn name="grupo_causa_dim" dataType="DT_STR" length="100" precision="0" scale="0" codePage="1252"/&gt;&lt;referenceColumn name="descricao_causa_dim" dataType="DT_STR" length="255" precision="0" scale="0" codePage="1252"/&gt;&lt;referenceColumn name="fonte_alerta_dim" dataType="DT_STR" length="255" precision="0" scale="0" codePage="1252"/&gt;&lt;/referenceColumns&gt;&lt;/referenceMetadata&gt;</property>
+                      name="ReferenceMetadataXml">&lt;referenceMetadata&gt;&lt;referenceColumns&gt;&lt;referenceColumn name="sk_causa" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="nk_codcausa" dataType="DT_I4" length="0" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="tipo_causa_dim" dataType="DT_WSTR" length="100" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="grupo_causa_dim" dataType="DT_WSTR" length="100" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="descricao_causa_dim" dataType="DT_WSTR" length="255" precision="0" scale="0" codePage="0"/&gt;&lt;referenceColumn name="fonte_alerta_dim" dataType="DT_WSTR" length="255" precision="0" scale="0" codePage="0"/&gt;&lt;/referenceColumns&gt;&lt;/referenceMetadata&gt;</property>
                     <property
                       containsID="true"
                       dataType="System.String"
                       description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                      name="ParameterMap">#{Package\DSA_ready\Povoar dim_causa\importar db_incendios_clean.Outputs[OLE DB Source Output].Columns[CodCausaInt]};</property>
+                      name="ParameterMap">#{Package\DSA_ready\Povoar dim_causa\importar db_incendios_clean.Outputs[OLE DB Source Output].Columns[TipoCausa]};#{Package\DSA_ready\Povoar dim_causa\importar db_incendios_clean.Outputs[OLE DB Source Output].Columns[GrupoCausa]};#{Package\DSA_ready\Povoar dim_causa\importar db_incendios_clean.Outputs[OLE DB Source Output].Columns[DescricaoCausa]};#{Package\DSA_ready\Povoar dim_causa\importar db_incendios_clean.Outputs[OLE DB Source Output].Columns[FonteAlerta]};#{Package\DSA_ready\Povoar dim_causa\importar db_incendios_clean.Outputs[OLE DB Source Output].Columns[CodCausaInt]};</property>
                     <property
                       dataType="System.Int32"
                       description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -14983,6 +14991,74 @@ where [refTable].[nk_codcausa] = ?</property>
                               name="CopyFromReferenceColumn" />
                           </properties>
                         </inputColumn>
+                        <inputColumn
+                          refId="Package\DSA_ready\Povoar dim_causa\Lookup.Inputs[Lookup Input].Columns[TipoCausa]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="TipoCausa"
+                          lineageId="Package\DSA_ready\Povoar dim_causa\importar db_incendios_clean.Outputs[OLE DB Source Output].Columns[TipoCausa]">
+                          <properties>
+                            <property
+                              dataType="System.String"
+                              description="Specifies the column in the reference table that a column joins."
+                              name="JoinToReferenceColumn">tipo_causa_dim</property>
+                            <property
+                              dataType="System.Null"
+                              description="Specifies the column in the reference table from which a column is copied."
+                              name="CopyFromReferenceColumn" />
+                          </properties>
+                        </inputColumn>
+                        <inputColumn
+                          refId="Package\DSA_ready\Povoar dim_causa\Lookup.Inputs[Lookup Input].Columns[GrupoCausa]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="GrupoCausa"
+                          lineageId="Package\DSA_ready\Povoar dim_causa\importar db_incendios_clean.Outputs[OLE DB Source Output].Columns[GrupoCausa]">
+                          <properties>
+                            <property
+                              dataType="System.String"
+                              description="Specifies the column in the reference table that a column joins."
+                              name="JoinToReferenceColumn">grupo_causa_dim</property>
+                            <property
+                              dataType="System.Null"
+                              description="Specifies the column in the reference table from which a column is copied."
+                              name="CopyFromReferenceColumn" />
+                          </properties>
+                        </inputColumn>
+                        <inputColumn
+                          refId="Package\DSA_ready\Povoar dim_causa\Lookup.Inputs[Lookup Input].Columns[DescricaoCausa]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="DescricaoCausa"
+                          lineageId="Package\DSA_ready\Povoar dim_causa\importar db_incendios_clean.Outputs[OLE DB Source Output].Columns[DescricaoCausa]">
+                          <properties>
+                            <property
+                              dataType="System.String"
+                              description="Specifies the column in the reference table that a column joins."
+                              name="JoinToReferenceColumn">descricao_causa_dim</property>
+                            <property
+                              dataType="System.Null"
+                              description="Specifies the column in the reference table from which a column is copied."
+                              name="CopyFromReferenceColumn" />
+                          </properties>
+                        </inputColumn>
+                        <inputColumn
+                          refId="Package\DSA_ready\Povoar dim_causa\Lookup.Inputs[Lookup Input].Columns[FonteAlerta]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="FonteAlerta"
+                          lineageId="Package\DSA_ready\Povoar dim_causa\importar db_incendios_clean.Outputs[OLE DB Source Output].Columns[FonteAlerta]">
+                          <properties>
+                            <property
+                              dataType="System.String"
+                              description="Specifies the column in the reference table that a column joins."
+                              name="JoinToReferenceColumn">fonte_alerta_dim</property>
+                            <property
+                              dataType="System.Null"
+                              description="Specifies the column in the reference table from which a column is copied."
+                              name="CopyFromReferenceColumn" />
+                          </properties>
+                        </inputColumn>
                       </inputColumns>
                       <externalMetadataColumns />
                     </input>
@@ -15011,8 +15087,7 @@ where [refTable].[nk_codcausa] = ?</property>
                         </outputColumn>
                         <outputColumn
                           refId="Package\DSA_ready\Povoar dim_causa\Lookup.Outputs[Lookup Match Output].Columns[tipo_causa_dim]"
-                          codePage="1252"
-                          dataType="str"
+                          dataType="wstr"
                           errorOrTruncationOperation="Copy Column"
                           length="100"
                           lineageId="Package\DSA_ready\Povoar dim_causa\Lookup.Outputs[Lookup Match Output].Columns[tipo_causa_dim]"
@@ -15027,8 +15102,7 @@ where [refTable].[nk_codcausa] = ?</property>
                         </outputColumn>
                         <outputColumn
                           refId="Package\DSA_ready\Povoar dim_causa\Lookup.Outputs[Lookup Match Output].Columns[grupo_causa_dim]"
-                          codePage="1252"
-                          dataType="str"
+                          dataType="wstr"
                           errorOrTruncationOperation="Copy Column"
                           length="100"
                           lineageId="Package\DSA_ready\Povoar dim_causa\Lookup.Outputs[Lookup Match Output].Columns[grupo_causa_dim]"
@@ -15043,8 +15117,7 @@ where [refTable].[nk_codcausa] = ?</property>
                         </outputColumn>
                         <outputColumn
                           refId="Package\DSA_ready\Povoar dim_causa\Lookup.Outputs[Lookup Match Output].Columns[descricao_causa_dim]"
-                          codePage="1252"
-                          dataType="str"
+                          dataType="wstr"
                           errorOrTruncationOperation="Copy Column"
                           length="255"
                           lineageId="Package\DSA_ready\Povoar dim_causa\Lookup.Outputs[Lookup Match Output].Columns[descricao_causa_dim]"
@@ -15055,6 +15128,21 @@ where [refTable].[nk_codcausa] = ?</property>
                               dataType="System.String"
                               description="Specifies the column in the reference table from which a column is copied."
                               name="CopyFromReferenceColumn">descricao_causa_dim</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\DSA_ready\Povoar dim_causa\Lookup.Outputs[Lookup Match Output].Columns[fonte_alerta_dim]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Copy Column"
+                          length="255"
+                          lineageId="Package\DSA_ready\Povoar dim_causa\Lookup.Outputs[Lookup Match Output].Columns[fonte_alerta_dim]"
+                          name="fonte_alerta_dim"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.String"
+                              description="Specifies the column in the reference table from which a column is copied."
+                              name="CopyFromReferenceColumn">fonte_alerta_dim</property>
                           </properties>
                         </outputColumn>
                       </outputColumns>
@@ -15122,60 +15210,6 @@ where [refTable].[nk_codcausa] = ?</property>
             <pipeline
               version="1">
               <components>
-                <component
-                  refId="Package\DSA_ready\Povoar dim_localizacao\Conditional Split"
-                  componentClassID="Microsoft.ConditionalSplit"
-                  contactInfo="Conditional Split;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
-                  description="Routes data rows to different outputs depending on the content of the data. Use conditions (SSIS expressions) to specify which rows are routed. For example, separate records that need to be cleaned from those that are ready to be loaded or route only a subset of records."
-                  name="Conditional Split"
-                  usesDispositions="true">
-                  <inputs>
-                    <input
-                      refId="Package\DSA_ready\Povoar dim_localizacao\Conditional Split.Inputs[Conditional Split Input]"
-                      description="Input to the Conditional Split Transformation"
-                      name="Conditional Split Input">
-                      <externalMetadataColumns />
-                    </input>
-                  </inputs>
-                  <outputs>
-                    <output
-                      refId="Package\DSA_ready\Povoar dim_localizacao\Conditional Split.Outputs[Conditional Split Default Output]"
-                      description="Default Output of the Conditional Split Transformation"
-                      exclusionGroup="1"
-                      name="Conditional Split Default Output"
-                      synchronousInputId="Package\DSA_ready\Povoar dim_localizacao\Conditional Split.Inputs[Conditional Split Input]">
-                      <properties>
-                        <property
-                          dataType="System.Boolean"
-                          name="IsDefaultOut">true</property>
-                      </properties>
-                      <externalMetadataColumns />
-                    </output>
-                    <output
-                      refId="Package\DSA_ready\Povoar dim_localizacao\Conditional Split.Outputs[Conditional Split Error Output]"
-                      description="Error Output of the Conditional Split Transformation"
-                      exclusionGroup="1"
-                      isErrorOut="true"
-                      name="Conditional Split Error Output"
-                      synchronousInputId="Package\DSA_ready\Povoar dim_localizacao\Conditional Split.Inputs[Conditional Split Input]">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\DSA_ready\Povoar dim_localizacao\Conditional Split.Outputs[Conditional Split Error Output].Columns[ErrorCode]"
-                          dataType="i4"
-                          lineageId="Package\DSA_ready\Povoar dim_localizacao\Conditional Split.Outputs[Conditional Split Error Output].Columns[ErrorCode]"
-                          name="ErrorCode"
-                          specialFlags="1" />
-                        <outputColumn
-                          refId="Package\DSA_ready\Povoar dim_localizacao\Conditional Split.Outputs[Conditional Split Error Output].Columns[ErrorColumn]"
-                          dataType="i4"
-                          lineageId="Package\DSA_ready\Povoar dim_localizacao\Conditional Split.Outputs[Conditional Split Error Output].Columns[ErrorColumn]"
-                          name="ErrorColumn"
-                          specialFlags="2" />
-                      </outputColumns>
-                      <externalMetadataColumns />
-                    </output>
-                  </outputs>
-                </component>
                 <component
                   refId="Package\DSA_ready\Povoar dim_localizacao\Lookup"
                   componentClassID="Microsoft.Lookup"
@@ -15834,6 +15868,496 @@ FROM DSA_clean.dbo.db_incendios_clean;</property>
             </pipeline>
           </DTS:ObjectData>
         </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\DSA_ready\Povoar Indices Metereologicos"
+          DTS:CreationName="Microsoft.Pipeline"
+          DTS:Description="Data Flow Task"
+          DTS:DTSID="{91DD56A8-ADF3-4835-8751-9602799734CF}"
+          DTS:ExecutableType="Microsoft.Pipeline"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Povoar Indices Metereologicos"
+          DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <pipeline
+              version="1">
+              <components>
+                <component
+                  refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo"
+                  componentClassID="Microsoft.OLEDBDestination"
+                  contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+                  description="OLE DB Destination"
+                  name="dim_indices_meteo"
+                  usesDispositions="true"
+                  version="4">
+                  <properties>
+                    <property
+                      dataType="System.Int32"
+                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                      name="CommandTimeout">0</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the name of the database object used to open a rowset."
+                      name="OpenRowset">[dbo].[dim_indices_meteorologicos]</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the variable that contains the name of the database object used to open a rowset."
+                      name="OpenRowsetVariable"></property>
+                    <property
+                      dataType="System.String"
+                      description="The SQL command to be executed."
+                      name="SqlCommand"
+                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=17.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the column code page to use when code page information is unavailable from the data source."
+                      name="DefaultCodePage">1252</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Forces the use of the DefaultCodePage property value when describing character data."
+                      name="AlwaysUseDefaultCodePage">false</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the mode used to access the database."
+                      name="AccessMode"
+                      typeConverter="AccessMode">3</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepIdentity">false</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepNulls">false</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                      name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                      name="FastLoadMaxInsertCommitSize">2147483647</property>
+                  </properties>
+                  <connections>
+                    <connection
+                      refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Connections[OleDbConnection]"
+                      connectionManagerID="Package.ConnectionManagers[.\TAAD.DSA_ready.sa]"
+                      connectionManagerRefId="Package.ConnectionManagers[.\TAAD.DSA_ready.sa]"
+                      description="The OLE DB runtime connection used to access the database."
+                      name="OleDbConnection" />
+                  </connections>
+                  <inputs>
+                    <input
+                      refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input]"
+                      errorOrTruncationOperation="Insert"
+                      errorRowDisposition="FailComponent"
+                      hasSideEffects="true"
+                      name="OLE DB Destination Input">
+                      <inputColumns>
+                        <inputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].Columns[fwi]"
+                          cachedDataType="numeric"
+                          cachedName="fwi"
+                          cachedPrecision="5"
+                          cachedScale="2"
+                          externalMetadataColumnId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].ExternalColumns[fwi]"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[fwi]" />
+                        <inputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].Columns[isi]"
+                          cachedDataType="numeric"
+                          cachedName="isi"
+                          cachedPrecision="5"
+                          cachedScale="2"
+                          externalMetadataColumnId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].ExternalColumns[isi]"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[isi]" />
+                        <inputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].Columns[dc]"
+                          cachedDataType="numeric"
+                          cachedName="dc"
+                          cachedPrecision="6"
+                          cachedScale="2"
+                          externalMetadataColumnId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].ExternalColumns[dc]"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[dc]" />
+                        <inputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].Columns[dmc]"
+                          cachedDataType="numeric"
+                          cachedName="dmc"
+                          cachedPrecision="6"
+                          cachedScale="2"
+                          externalMetadataColumnId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].ExternalColumns[dmc]"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[dmc]" />
+                        <inputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].Columns[ffmc]"
+                          cachedDataType="numeric"
+                          cachedName="ffmc"
+                          cachedPrecision="6"
+                          cachedScale="2"
+                          externalMetadataColumnId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].ExternalColumns[ffmc]"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[ffmc]" />
+                        <inputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].Columns[bui]"
+                          cachedDataType="numeric"
+                          cachedName="bui"
+                          cachedPrecision="6"
+                          cachedScale="2"
+                          externalMetadataColumnId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].ExternalColumns[bui]"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[bui]" />
+                        <inputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].Columns[classe_severidade_meteo]"
+                          cachedDataType="i4"
+                          cachedName="classe_severidade_meteo"
+                          externalMetadataColumnId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].ExternalColumns[classe_severidade_meteo]"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[classe_severidade_meteo]" />
+                      </inputColumns>
+                      <externalMetadataColumns
+                        isUsed="True">
+                        <externalMetadataColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].ExternalColumns[sk_indices]"
+                          dataType="i4"
+                          name="sk_indices" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].ExternalColumns[fwi]"
+                          dataType="numeric"
+                          name="fwi"
+                          precision="5"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].ExternalColumns[isi]"
+                          dataType="numeric"
+                          name="isi"
+                          precision="5"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].ExternalColumns[dc]"
+                          dataType="numeric"
+                          name="dc"
+                          precision="6"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].ExternalColumns[dmc]"
+                          dataType="numeric"
+                          name="dmc"
+                          precision="6"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].ExternalColumns[ffmc]"
+                          dataType="numeric"
+                          name="ffmc"
+                          precision="6"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].ExternalColumns[bui]"
+                          dataType="numeric"
+                          name="bui"
+                          precision="6"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input].ExternalColumns[classe_severidade_meteo]"
+                          dataType="i4"
+                          name="classe_severidade_meteo" />
+                      </externalMetadataColumns>
+                    </input>
+                  </inputs>
+                  <outputs>
+                    <output
+                      refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Outputs[OLE DB Destination Error Output]"
+                      exclusionGroup="1"
+                      isErrorOut="true"
+                      name="OLE DB Destination Error Output"
+                      synchronousInputId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+                <component
+                  refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean"
+                  componentClassID="Microsoft.OLEDBSource"
+                  contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
+                  description="OLE DB Source"
+                  name="DSA_clean"
+                  usesDispositions="true"
+                  version="7">
+                  <properties>
+                    <property
+                      dataType="System.Int32"
+                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                      name="CommandTimeout">0</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the name of the database object used to open a rowset."
+                      name="OpenRowset"></property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the variable that contains the name of the database object used to open a rowset."
+                      name="OpenRowsetVariable"></property>
+                    <property
+                      dataType="System.String"
+                      description="The SQL command to be executed."
+                      name="SqlCommand"
+                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=17.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">SELECT DISTINCT
+    CAST(FWI  AS DECIMAL(5,2))  AS fwi,
+    CAST(ISI  AS DECIMAL(5,2))  AS isi,
+    CAST(DC   AS DECIMAL(6,2))  AS dc,
+    CAST(DMC  AS DECIMAL(6,2))  AS dmc,
+    CAST(FFMC AS DECIMAL(6,2))  AS ffmc,
+    CAST(BUI  AS DECIMAL(6,2))  AS bui,
+    CASE 
+        WHEN FWI &lt; 5.2    THEN 1
+        WHEN FWI &lt; 11.2   THEN 2
+        WHEN FWI &lt; 21.3   THEN 3
+        WHEN FWI &lt; 38.0   THEN 4
+        ELSE 5
+    END AS classe_severidade_meteo
+FROM dbo.db_incendios_clean;</property>
+                    <property
+                      dataType="System.String"
+                      description="The variable that contains the SQL command to be executed."
+                      name="SqlCommandVariable"></property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the column code page to use when code page information is unavailable from the data source."
+                      name="DefaultCodePage">1252</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Forces the use of the DefaultCodePage property value when describing character data."
+                      name="AlwaysUseDefaultCodePage">false</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the mode used to access the database."
+                      name="AccessMode"
+                      typeConverter="AccessMode">2</property>
+                    <property
+                      dataType="System.String"
+                      description="The mappings between the parameters in the SQL command and variables."
+                      name="ParameterMapping"></property>
+                  </properties>
+                  <connections>
+                    <connection
+                      refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Connections[OleDbConnection]"
+                      connectionManagerID="Package.ConnectionManagers[.\TAAD.DSA_clean.sa]"
+                      connectionManagerRefId="Package.ConnectionManagers[.\TAAD.DSA_clean.sa]"
+                      description="The OLE DB runtime connection used to access the database."
+                      name="OleDbConnection" />
+                  </connections>
+                  <outputs>
+                    <output
+                      refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output]"
+                      name="OLE DB Source Output">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[fwi]"
+                          dataType="numeric"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].ExternalColumns[fwi]"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[fwi]"
+                          name="fwi"
+                          precision="5"
+                          scale="2"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[isi]"
+                          dataType="numeric"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].ExternalColumns[isi]"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[isi]"
+                          name="isi"
+                          precision="5"
+                          scale="2"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[dc]"
+                          dataType="numeric"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].ExternalColumns[dc]"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[dc]"
+                          name="dc"
+                          precision="6"
+                          scale="2"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[dmc]"
+                          dataType="numeric"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].ExternalColumns[dmc]"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[dmc]"
+                          name="dmc"
+                          precision="6"
+                          scale="2"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[ffmc]"
+                          dataType="numeric"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].ExternalColumns[ffmc]"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[ffmc]"
+                          name="ffmc"
+                          precision="6"
+                          scale="2"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[bui]"
+                          dataType="numeric"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].ExternalColumns[bui]"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[bui]"
+                          name="bui"
+                          precision="6"
+                          scale="2"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[classe_severidade_meteo]"
+                          dataType="i4"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].ExternalColumns[classe_severidade_meteo]"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].Columns[classe_severidade_meteo]"
+                          name="classe_severidade_meteo"
+                          truncationRowDisposition="FailComponent" />
+                      </outputColumns>
+                      <externalMetadataColumns
+                        isUsed="True">
+                        <externalMetadataColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].ExternalColumns[fwi]"
+                          dataType="numeric"
+                          name="fwi"
+                          precision="5"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].ExternalColumns[isi]"
+                          dataType="numeric"
+                          name="isi"
+                          precision="5"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].ExternalColumns[dc]"
+                          dataType="numeric"
+                          name="dc"
+                          precision="6"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].ExternalColumns[dmc]"
+                          dataType="numeric"
+                          name="dmc"
+                          precision="6"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].ExternalColumns[ffmc]"
+                          dataType="numeric"
+                          name="ffmc"
+                          precision="6"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].ExternalColumns[bui]"
+                          dataType="numeric"
+                          name="bui"
+                          precision="6"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output].ExternalColumns[classe_severidade_meteo]"
+                          dataType="i4"
+                          name="classe_severidade_meteo" />
+                      </externalMetadataColumns>
+                    </output>
+                    <output
+                      refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Error Output]"
+                      isErrorOut="true"
+                      name="OLE DB Source Error Output">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Error Output].Columns[fwi]"
+                          dataType="numeric"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Error Output].Columns[fwi]"
+                          name="fwi"
+                          precision="5"
+                          scale="2" />
+                        <outputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Error Output].Columns[isi]"
+                          dataType="numeric"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Error Output].Columns[isi]"
+                          name="isi"
+                          precision="5"
+                          scale="2" />
+                        <outputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Error Output].Columns[dc]"
+                          dataType="numeric"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Error Output].Columns[dc]"
+                          name="dc"
+                          precision="6"
+                          scale="2" />
+                        <outputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Error Output].Columns[dmc]"
+                          dataType="numeric"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Error Output].Columns[dmc]"
+                          name="dmc"
+                          precision="6"
+                          scale="2" />
+                        <outputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Error Output].Columns[ffmc]"
+                          dataType="numeric"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Error Output].Columns[ffmc]"
+                          name="ffmc"
+                          precision="6"
+                          scale="2" />
+                        <outputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Error Output].Columns[bui]"
+                          dataType="numeric"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Error Output].Columns[bui]"
+                          name="bui"
+                          precision="6"
+                          scale="2" />
+                        <outputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Error Output].Columns[classe_severidade_meteo]"
+                          dataType="i4"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Error Output].Columns[classe_severidade_meteo]"
+                          name="classe_severidade_meteo" />
+                        <outputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+              </components>
+              <paths>
+                <path
+                  refId="Package\DSA_ready\Povoar Indices Metereologicos.Paths[OLE DB Source Output]"
+                  endId="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo.Inputs[OLE DB Destination Input]"
+                  name="OLE DB Source Output"
+                  startId="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean.Outputs[OLE DB Source Output]" />
+              </paths>
+            </pipeline>
+          </DTS:ObjectData>
+        </DTS:Executable>
       </DTS:Executables>
       <DTS:PrecedenceConstraints>
         <DTS:PrecedenceConstraint
@@ -15852,6 +16376,14 @@ FROM DSA_clean.dbo.db_incendios_clean;</property>
           DTS:LogicalAnd="True"
           DTS:ObjectName="Constraint 1"
           DTS:To="Package\DSA_ready\Povoar dim_causa" />
+        <DTS:PrecedenceConstraint
+          DTS:refId="Package\DSA_ready.PrecedenceConstraints[Constraint 2]"
+          DTS:CreationName=""
+          DTS:DTSID="{54AE50CE-62A3-4F38-996C-F523B839F59C}"
+          DTS:From="Package\DSA_ready\Povoar dim_causa"
+          DTS:LogicalAnd="True"
+          DTS:ObjectName="Constraint 2"
+          DTS:To="Package\DSA_ready\Povoar Indices Metereologicos" />
       </DTS:PrecedenceConstraints>
     </DTS:Executable>
   </DTS:Executables>
@@ -15886,9 +16418,66 @@ FROM DSA_clean.dbo.db_incendios_clean;</property>
       <GraphLayout
         Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
+          Size="156.8,41.6"
+          Id="Package\DSA_clean\Eliminar Colunas"
+          TopLeft="167.024205411416,128.715149958074" />
+        <NodeLayout
+          Size="206.4,41.6"
+          Id="Package\DSA_clean\SQL - Truncate DSA_Clean"
+          TopLeft="134.599964758756,23.4060601403617" />
+        <EdgeLayout
+          Id="Package\DSA_clean.PrecedenceConstraints[Constraint]"
+          TopLeft="241.612085085086,65.0060601403617">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,63.709089817712"
+              Start="0,0"
+              End="0,56.209089817712">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,56.209089817712" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="483.2,632.8"
+          Size="483.2,676"
+          Id="Package\DSA_clean"
+          TopLeft="526.796508013645,64.4259735779639" />
+        <NodeLayout
           Size="138.4,41.6"
           Id="Package\DSA_raw\Calcular ETL"
           TopLeft="74.1216680910292,24.1132277739053" />
+        <NodeLayout
+          Size="164.8,41.6"
+          Id="Package\DSA_raw\Execute SQL Task"
+          TopLeft="230.298908235129,112.088888109437" />
+        <NodeLayout
+          Size="149.6,41.6"
+          Id="Package\DSA_raw\Guardar CutOff"
+          TopLeft="194.92853979731,515.185181602652" />
+        <NodeLayout
+          Size="180.8,41.6"
+          Id="Package\DSA_raw\Importar ds_incendios"
+          TopLeft="237.535386097114,284.440210335384" />
+        <NodeLayout
+          Size="168,41.6"
+          Id="Package\DSA_raw\juntar ds_incendios"
+          TopLeft="97.0856583212118,391.688886916151" />
+        <NodeLayout
+          Size="134.4,41.6"
+          Id="Package\DSA_raw\Limpar DSA"
+          TopLeft="89.3528765844957,193.19682480994" />
         <EdgeLayout
           Id="Package\DSA_raw.PrecedenceConstraints[Constraint]"
           TopLeft="143.321668091029,65.7132277739053">
@@ -15923,10 +16512,6 @@ FROM DSA_clean.dbo.db_incendios_clean;</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="164.8,41.6"
-          Id="Package\DSA_raw\Execute SQL Task"
-          TopLeft="230.298908235129,112.088888109437" />
         <EdgeLayout
           Id="Package\DSA_raw.PrecedenceConstraints[Constraint 1]"
           TopLeft="312.698908235129,153.688888109437">
@@ -15961,10 +16546,6 @@ FROM DSA_clean.dbo.db_incendios_clean;</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="149.6,41.6"
-          Id="Package\DSA_raw\Guardar CutOff"
-          TopLeft="194.92853979731,515.185181602652" />
         <EdgeLayout
           Id="Package\DSA_raw.PrecedenceConstraints[Constraint 2]"
           TopLeft="181.085658321212,433.288886916151">
@@ -15999,10 +16580,6 @@ FROM DSA_clean.dbo.db_incendios_clean;</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="180.8,41.6"
-          Id="Package\DSA_raw\Importar ds_incendios"
-          TopLeft="237.535386097114,284.440210335384" />
         <EdgeLayout
           Id="Package\DSA_raw.PrecedenceConstraints[Constraint 3]"
           TopLeft="156.552876584496,234.79682480994">
@@ -16071,14 +16648,6 @@ FROM DSA_clean.dbo.db_incendios_clean;</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="168,41.6"
-          Id="Package\DSA_raw\juntar ds_incendios"
-          TopLeft="97.0856583212118,391.688886916151" />
-        <NodeLayout
-          Size="134.4,41.6"
-          Id="Package\DSA_raw\Limpar DSA"
-          TopLeft="89.3528765844957,193.19682480994" />
         <ContainerLayout
           HeaderHeight="43.2"
           IsExpanded="True"
@@ -16087,110 +16656,53 @@ FROM DSA_clean.dbo.db_incendios_clean;</property>
           Id="Package\DSA_raw"
           TopLeft="8.12890768476436,58.9562286451542" />
         <NodeLayout
-          Size="206.4,41.6"
-          Id="Package\DSA_clean\SQL - Truncate DSA_Clean"
-          TopLeft="22.9333041932865,23.4060601403617" />
-        <NodeLayout
-          Size="156.8,41.6"
-          Id="Package\DSA_clean\Eliminar Colunas"
-          TopLeft="73.6908771775909,118.315150030394" />
-        <EdgeLayout
-          Id="Package\DSA_clean.PrecedenceConstraints[Constraint]"
-          TopLeft="126.133304193287,65.0060601403617">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="25.9575729843044,53.3090898900323"
-              Start="0,0"
-              End="25.9575729843044,45.8090898900323">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,22.6545449450161" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,22.6545449450161"
-                    Point2="0,26.6545449450161"
-                    Point3="4,26.6545449450161" />
-                  <mssgle:LineSegment
-                    End="21.9575729843044,26.6545449450161" />
-                  <mssgle:CubicBezierSegment
-                    Point1="21.9575729843044,26.6545449450161"
-                    Point2="25.9575729843044,26.6545449450161"
-                    Point3="25.9575729843044,30.6545449450161" />
-                  <mssgle:LineSegment
-                    End="25.9575729843044,45.8090898900323" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <ContainerLayout
-          HeaderHeight="43"
-          IsExpanded="True"
-          PanelSize="483.2,623.2"
-          Size="483.2,666.4"
-          Id="Package\DSA_clean"
-          TopLeft="528.463174589249,71.3593068630838" />
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="493.728907684764,400.957767754119">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="34.7342669044847,0"
-              Start="0,0"
-              End="27.2342669044847,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="27.2342669044847,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="188,41.6"
-          Id="Package\DSA_ready\Povoar dim_localizacao"
-          TopLeft="165.145390097936,125.090907414393" />
-        <NodeLayout
           Size="164.8,41.6"
           Id="Package\DSA_ready\Execute SQL Task"
           TopLeft="162.690843029098,17.9151505727961" />
+        <NodeLayout
+          Size="164.8,41.6"
+          Id="Package\DSA_ready\Povoar dim_causa"
+          TopLeft="167.463570041053,231.82423999439" />
+        <NodeLayout
+          Size="188,41.6"
+          Id="Package\DSA_ready\Povoar dim_localizacao"
+          TopLeft="153.478724068708,128.557574056953" />
         <EdgeLayout
           Id="Package\DSA_ready.PrecedenceConstraints[Constraint]"
-          TopLeft="245.090843029098,59.5151505727961">
+          TopLeft="246.284783548903,59.5151505727961">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="14.0545470688379,65.5757568415973"
+              EndConnector="0,69.0424234841568"
               Start="0,0"
-              End="14.0545470688379,58.0757568415973">
+              End="0,61.5424234841568">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,28.7878784207986" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,28.7878784207986"
-                    Point2="0,32.7878784207986"
-                    Point3="4,32.7878784207986" />
+                    End="0,61.5424234841568" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DSA_ready.PrecedenceConstraints[Constraint 1]"
+          TopLeft="248.671147054881,170.157574056953">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,61.6666659374369"
+              Start="0,0"
+              End="0,54.1666659374369">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
                   <mssgle:LineSegment
-                    End="10.0545470688379,32.7878784207986" />
-                  <mssgle:CubicBezierSegment
-                    Point1="10.0545470688379,32.7878784207986"
-                    Point2="14.0545470688379,32.7878784207986"
-                    Point3="14.0545470688379,36.7878784207986" />
-                  <mssgle:LineSegment
-                    End="14.0545470688379,58.0757568415973" />
+                    End="0,54.1666659374369" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -16200,35 +16712,23 @@ FROM DSA_clean.dbo.db_incendios_clean;</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <NodeLayout
-          Size="164.8,41.6"
-          Id="Package\DSA_ready\Povoar dim_causa"
-          TopLeft="214.963567445768,227.49090669119" />
+          Size="220.8,41.6"
+          Id="Package\DSA_ready\Povoar Indices Metereologicos"
+          TopLeft="145.266601556873,345.199996854067" />
         <EdgeLayout
-          Id="Package\DSA_ready.PrecedenceConstraints[Constraint 1]"
-          TopLeft="259.145390097936,166.690907414393">
+          Id="Package\DSA_ready.PrecedenceConstraints[Constraint 2]"
+          TopLeft="252.765085798963,273.42423999439">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="38.2181773478327,60.7999992767965"
+              EndConnector="0,71.7757568596768"
               Start="0,0"
-              End="38.2181773478327,53.2999992767965">
+              End="0,64.2757568596768">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,26.3999996383982" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,26.3999996383982"
-                    Point2="0,30.3999996383982"
-                    Point3="4,30.3999996383982" />
-                  <mssgle:LineSegment
-                    End="34.2181773478327,30.3999996383982" />
-                  <mssgle:CubicBezierSegment
-                    Point1="34.2181773478327,30.3999996383982"
-                    Point2="38.2181773478327,30.3999996383982"
-                    Point3="38.2181773478327,34.3999996383982" />
-                  <mssgle:LineSegment
-                    End="38.2181773478327,53.2999992767965" />
+                    End="0,64.2757568596768" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -16240,36 +16740,46 @@ FROM DSA_clean.dbo.db_incendios_clean;</property>
         <ContainerLayout
           HeaderHeight="43"
           IsExpanded="True"
-          PanelSize="484.8,324"
-          Size="484.8,367.2"
+          PanelSize="484.8,625.6"
+          Size="484.8,668.8"
           Id="Package\DSA_ready"
-          TopLeft="1046.21206404961,76.4242418927976" />
+          TopLeft="1046.21206404961,64.290908643838" />
         <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="1011.66317458925,404.559306863084">
+          Id="Package.PrecedenceConstraints[Constraint]"
+          TopLeft="493.728907684764,399.891101111559">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="34.5488894603645,-144.535064970286"
+              EndConnector="33.0676003288806,0"
               Start="0,0"
-              End="27.0488894603645,-144.535064970286">
+              End="25.5676003288806,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="13.2744447301823,0" />
-                  <mssgle:CubicBezierSegment
-                    Point1="13.2744447301823,0"
-                    Point2="17.2744447301823,0"
-                    Point3="17.2744447301823,-4" />
+                    End="25.5676003288806,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 1]"
+          TopLeft="1009.99650801365,400.558441110901">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="36.2155560359649,0"
+              Start="0,0"
+              End="28.7155560359649,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
                   <mssgle:LineSegment
-                    End="17.2744447301823,-140.535064970286" />
-                  <mssgle:CubicBezierSegment
-                    Point1="17.2744447301823,-140.535064970286"
-                    Point2="17.2744447301823,-144.535064970286"
-                    Point3="21.2744447301823,-144.535064970286" />
-                  <mssgle:LineSegment
-                    End="27.0488894603645,-144.535064970286" />
+                    End="28.7155560359649,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -16281,6 +16791,82 @@ FROM DSA_clean.dbo.db_incendios_clean;</property>
       </GraphLayout>
     </LayoutInfo>
   </Package>
+  <TaskHost
+    design-time-name="Package\DSA_clean\Eliminar Colunas">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="159.2,41.6"
+          Id="Package\DSA_clean\Eliminar Colunas\Origem DSA_raw"
+          TopLeft="113.199998313189,35.1999994754791" />
+        <NodeLayout
+          Size="170.4,41.6"
+          Id="Package\DSA_clean\Eliminar Colunas\db_incendios_clean"
+          TopLeft="124.799998140335,155.599997681379" />
+        <EdgeLayout
+          Id="Package\DSA_clean\Eliminar Colunas.Paths[OLE DB Source Output]"
+          TopLeft="192.799998313189,76.7999994754791">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="17.1999998271464,78.7999982059002"
+              Start="0,0"
+              End="17.1999998271464,71.2999982059002">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,35.3999991029501" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,35.3999991029501"
+                    Point2="0,39.3999991029501"
+                    Point3="4,39.3999991029501" />
+                  <mssgle:LineSegment
+                    End="13.1999998271464,39.3999991029501" />
+                  <mssgle:CubicBezierSegment
+                    Point1="13.1999998271464,39.3999991029501"
+                    Point2="17.1999998271464,39.3999991029501"
+                    Point3="17.1999998271464,43.3999991029501" />
+                  <mssgle:LineSegment
+                    End="17.1999998271464,71.2999982059002" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\DSA_clean\Eliminar Colunas\db_incendios_clean">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\DSA_clean\Eliminar Colunas\Origem DSA_raw">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
   <TaskHost
     design-time-name="Package\DSA_raw\Importar ds_incendios">
     <LayoutInfo>
@@ -16748,44 +17334,36 @@ FROM DSA_clean.dbo.db_incendios_clean;</property>
     </Properties>
   </PipelineComponentMetadata>
   <TaskHost
-    design-time-name="Package\DSA_clean\Eliminar Colunas">
+    design-time-name="Package\DSA_ready\Povoar dim_causa">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
-          Size="159.2,41.6"
-          Id="Package\DSA_clean\Eliminar Colunas\Origem DSA_raw"
-          TopLeft="113.199998313189,35.1999994754791" />
+          Size="211.2,41.6"
+          Id="Package\DSA_ready\Povoar dim_causa\importar db_incendios_clean"
+          TopLeft="244.615380970331,82.3076910812121" />
         <NodeLayout
-          Size="170.4,41.6"
-          Id="Package\DSA_clean\Eliminar Colunas\db_incendios_clean"
-          TopLeft="124.799998140335,155.599997681379" />
+          Size="133.6,41.6"
+          Id="Package\DSA_ready\Povoar dim_causa\dim_causas"
+          TopLeft="279.999995827675,406.92307085945" />
+        <NodeLayout
+          Size="112.8,41.6"
+          Id="Package\DSA_ready\Povoar dim_causa\Lookup"
+          TopLeft="296.923072498578,228.461535057196" />
         <EdgeLayout
-          Id="Package\DSA_clean\Eliminar Colunas.Paths[OLE DB Source Output]"
-          TopLeft="192.799998313189,76.7999994754791">
+          Id="Package\DSA_ready\Povoar dim_causa.Paths[OLE DB Source Output]"
+          TopLeft="351.769226734454,123.907691081212">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="17.1999998271464,78.7999982059002"
+              EndConnector="0,104.553843975984"
               Start="0,0"
-              End="17.1999998271464,71.2999982059002">
+              End="0,97.0538439759839">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,35.3999991029501" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,35.3999991029501"
-                    Point2="0,39.3999991029501"
-                    Point3="4,39.3999991029501" />
-                  <mssgle:LineSegment
-                    End="13.1999998271464,39.3999991029501" />
-                  <mssgle:CubicBezierSegment
-                    Point1="13.1999998271464,39.3999991029501"
-                    Point2="17.1999998271464,39.3999991029501"
-                    Point3="17.1999998271464,43.3999991029501" />
-                  <mssgle:LineSegment
-                    End="17.1999998271464,71.2999982059002" />
+                    End="0,97.0538439759839" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -16794,11 +17372,43 @@ FROM DSA_clean.dbo.db_incendios_clean;</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DSA_ready\Povoar dim_causa.Paths[Lookup No Match Output]"
+          TopLeft="350.061534163126,270.061535057196">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,136.861535802254"
+              Start="0,0"
+              End="0,129.361535802254">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,129.361535802254" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-55.80638671875,58.876080401127,111.6127734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\DSA_clean\Eliminar Colunas\Origem DSA_raw">
+    design-time-name="Package\DSA_ready\Povoar dim_causa\importar db_incendios_clean">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\DSA_ready\Povoar dim_causa\dim_causas">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -16811,15 +17421,25 @@ FROM DSA_clean.dbo.db_incendios_clean;</property>
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\DSA_clean\Eliminar Colunas\db_incendios_clean">
+    design-time-name="Package\DSA_ready\Povoar dim_causa\Lookup">
     <Properties>
       <Property>
-        <Name>DataSourceViewID</Name>
+        <Name>OverwriteParamsSQLProp</Name>
+        <Value
+          type="q2:boolean">false</Value>
+      </Property>
+      <Property>
+        <Name>UsedTableName</Name>
+        <Value
+          type="q3:string"></Value>
       </Property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q2:string">Table</Value>
+          type="q4:int">0</Value>
+      </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
@@ -16829,55 +17449,17 @@ FROM DSA_clean.dbo.db_incendios_clean;</property>
       <GraphLayout
         Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
-          Size="112.8,41.6"
-          Id="Package\DSA_ready\Povoar dim_localizacao\Lookup"
-          TopLeft="452.904755155955,254.952377153295" />
-        <NodeLayout
           Size="171.2,41.6"
           Id="Package\DSA_ready\Povoar dim_localizacao\OLE DB Destination"
           TopLeft="263.333329409361,409.999993890524" />
         <NodeLayout
-          Size="153.6,41.6"
-          Id="Package\DSA_ready\Povoar dim_localizacao\Conditional Split"
-          TopLeft="111.99999833107,241.999996393919" />
-        <NodeLayout
           Size="152,41.6"
           Id="Package\DSA_ready\Povoar dim_localizacao\OLE DB Source"
           TopLeft="265.999996036291,81.9999987781048" />
-        <EdgeLayout
-          Id="Package\DSA_ready\Povoar dim_localizacao.Paths[OLE DB Source Output]"
-          TopLeft="341.999996036291,123.599998778105">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="167.304759119664,131.35237837519"
-              Start="0,0"
-              End="167.304759119664,123.85237837519">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,61.6761891875949" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,61.6761891875949"
-                    Point2="0,65.6761891875949"
-                    Point3="4,65.6761891875949" />
-                  <mssgle:LineSegment
-                    End="163.304759119664,65.6761891875949" />
-                  <mssgle:CubicBezierSegment
-                    Point1="163.304759119664,65.6761891875949"
-                    Point2="167.304759119664,65.6761891875949"
-                    Point3="167.304759119664,69.6761891875949" />
-                  <mssgle:LineSegment
-                    End="167.304759119664,123.85237837519" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
+        <NodeLayout
+          Size="112.8,41.6"
+          Id="Package\DSA_ready\Povoar dim_localizacao\Lookup"
+          TopLeft="452.904755155955,254.952377153295" />
         <EdgeLayout
           Id="Package\DSA_ready\Povoar dim_localizacao.Paths[Lookup No Match Output]"
           TopLeft="509.304755155955,296.552377153295">
@@ -16914,9 +17496,64 @@ FROM DSA_clean.dbo.db_incendios_clean;</property>
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DSA_ready\Povoar dim_localizacao.Paths[OLE DB Source Output]"
+          TopLeft="341.999996036291,123.599998778105">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="167.304759119664,131.35237837519"
+              Start="0,0"
+              End="167.304759119664,123.85237837519">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,61.6761891875949" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,61.6761891875949"
+                    Point2="0,65.6761891875949"
+                    Point3="4,65.6761891875949" />
+                  <mssgle:LineSegment
+                    End="163.304759119664,65.6761891875949" />
+                  <mssgle:CubicBezierSegment
+                    Point1="163.304759119664,65.6761891875949"
+                    Point2="167.304759119664,65.6761891875949"
+                    Point3="167.304759119664,69.6761891875949" />
+                  <mssgle:LineSegment
+                    End="167.304759119664,123.85237837519" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\DSA_ready\Povoar dim_localizacao\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\DSA_ready\Povoar dim_localizacao\OLE DB Source">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\DSA_ready\Povoar dim_localizacao\Lookup">
     <Properties>
@@ -16940,54 +17577,33 @@ FROM DSA_clean.dbo.db_incendios_clean;</property>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\DSA_ready\Povoar dim_localizacao\OLE DB Destination">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\DSA_ready\Povoar dim_localizacao\OLE DB Source">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
   <TaskHost
-    design-time-name="Package\DSA_ready\Povoar dim_causa">
+    design-time-name="Package\DSA_ready\Povoar Indices Metereologicos">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="211.2,41.6"
-          Id="Package\DSA_ready\Povoar dim_causa\importar db_incendios_clean"
-          TopLeft="244.615380970331,82.3076910812121" />
+          Size="130.4,41.6"
+          Id="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean"
+          TopLeft="340.999994918704,86.999998703599" />
         <NodeLayout
-          Size="112.8,41.6"
-          Id="Package\DSA_ready\Povoar dim_causa\Lookup"
-          TopLeft="296.923072498578,228.461535057196" />
+          Size="168,41.6"
+          Id="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo"
+          TopLeft="329.999995082617,265.999996036291" />
         <EdgeLayout
-          Id="Package\DSA_ready\Povoar dim_causa.Paths[OLE DB Source Output]"
-          TopLeft="351.769226734455,123.907691081212">
+          Id="Package\DSA_ready\Povoar Indices Metereologicos.Paths[OLE DB Source Output]"
+          TopLeft="410.099995000661,128.599998703599">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,104.553843975984"
+              EndConnector="0,137.399997332692"
               Start="0,0"
-              End="0,97.0538439759842">
+              End="0,129.899997332692">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,97.0538439759842" />
+                    End="0,129.899997332692" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -16996,39 +17612,11 @@ FROM DSA_clean.dbo.db_incendios_clean;</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="133.6,41.6"
-          Id="Package\DSA_ready\Povoar dim_causa\dim_causas"
-          TopLeft="279.999995827675,406.92307085945" />
-        <EdgeLayout
-          Id="Package\DSA_ready\Povoar dim_causa.Paths[Lookup No Match Output]"
-          TopLeft="350.061534163127,270.061535057196">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,136.861535802254"
-              Start="0,0"
-              End="0,129.361535802254">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,129.361535802254" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-55.80638671875,58.8760804011271,111.6127734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\DSA_ready\Povoar dim_causa\importar db_incendios_clean">
+    design-time-name="Package\DSA_ready\Povoar Indices Metereologicos\DSA_clean">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -17036,30 +17624,7 @@ FROM DSA_clean.dbo.db_incendios_clean;</property>
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\DSA_ready\Povoar dim_causa\Lookup">
-    <Properties>
-      <Property>
-        <Name>OverwriteParamsSQLProp</Name>
-        <Value
-          type="q2:boolean">false</Value>
-      </Property>
-      <Property>
-        <Name>UsedTableName</Name>
-        <Value
-          type="q3:string"></Value>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q4:int">0</Value>
-      </Property>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\DSA_ready\Povoar dim_causa\dim_causas">
+    design-time-name="Package\DSA_ready\Povoar Indices Metereologicos\dim_indices_meteo">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
