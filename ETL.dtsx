@@ -11,8 +11,8 @@
   DTS:LocaleID="2070"
   DTS:ObjectName="ETL"
   DTS:PackageType="5"
-  DTS:VersionBuild="204"
-  DTS:VersionGUID="{EE0661B5-A844-4054-8BAC-E6AAC844BDF5}">
+  DTS:VersionBuild="205"
+  DTS:VersionGUID="{BA1EF939-A7B1-49F2-948B-931E853BA7F5}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAgEC7lpvsPtOB9cQsUaIy4CAgAQQZImwpAe8jMeXuPUgAAAAAOgAAAAAIAACAAAABWo+Uln8mtbS/bX75qpdTymvSdyBI35kCuY78AnbWSyyAAAAAAvaCWBIEnNZ7sn9ULicJkhRc3kedv6w/RVq3tuLvVbEAAAADNs/79ApizXWPvEAtLKNLpSpk2vavACL9akinVP2p+wtyvbAvWeeuMFy3z/Jf+ZxceObrzZrWPyjhM4uwt/+Sj</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADTbGaACpgL98C1JGOlG4Ski9UgJzr0trIVrsZFXzDZxAAAAAAOgAAAAAIAACAAAADjjqcKN7lPIHc8iIgZ2tj1UYZC363YVhBoeSkdCGRh0iAAAADErfBHw1Ij4x7h5WGSaosvpTDXdea5hJspK5Key0ElwUAAAADKAVw5YjNUw/uMSDn+xSFS9C6p4a8KQWzWj/d3+XF1pERaEcv5OjiIsjFA7VBhjzIFpKj0WzuBbM+81NF2rf1g</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -56,7 +56,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADQy0kJeFmIoLZON0DZa6OFgKRVZu+ridl30WVCNOZeOQAAAAAOgAAAAAIAACAAAAB2qO/bigFCRgoq1M2y7E7rNV0t6gb8h95kAt5WHe5TByAAAADTfixqpvQAav3Dksi/KjqVRoHFIJLvxgPXPu+FqXUV90AAAADES0FVxYvY+NRGfj5fWKotKLCd9R86flksXDqGsxt1Poi6fJQcbyDzgh+IrVivN08PsXbq0mi9+SOkkv7MeFvD</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADeFhnNkw7YLZZuwpTfNPnryZ+xsIuGTB5O6bkmNzsc2wAAAAAOgAAAAAIAACAAAADU0t2N1hu8RJedP5d4I9ejd/fIn0FpvrCYfW5MlvAuhCAAAAAafGa15Va58R0pDzBYLmWZYOnpGX3K0P2tB1cbyhg5QkAAAACTbcz8FL8+njlHVnolyJQFyiG8TyvlLqWIam/an2JYOvY0qRzk3hvVFI41xjwp4aTQcnSWTntx4BhGikXokqtc</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -73,7 +73,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABL+FgJTZaznBr8WRHLV3RPKfEekAqSbnUgwSNeGHN6IAAAAAAOgAAAAAIAACAAAABqD7Tq/G5tSbNQIF86pFxs3wWX1BK+xNgCEf0cpuqvTSAAAAAFk11ZirmD0OZsT/nKzwpaimXhSIEoY7US3uS9m5IOk0AAAABeA6jJGOW6zJ3BMi8GM6ME/Sn/kfNDcXdBF0C1GfBVX4roe0h5M6IYtuMIxrg9IeDQML42XdB1UJrFyqq17+Fu</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABZCgeHoFbcMU0TkqBXuEKUCXNVcyoNwlRxYJZONpLidAAAAAAOgAAAAAIAACAAAADdyQcLwuuj1s+KukMIxl3k1/Q/hl7n6wJgwLqZZpFiDiAAAAABQ2/4ggZuLv/gLo7xnEV9e1F8eBcEIiFHOKONIGSkTkAAAACO/HDbPeVbWaWtdrw7VaRXfX+iPrrI1ukowzCRkkOjIm7Lrma2coOBWIshE8/oeug0xcVmdmWsj9eIW1Bb6gP/</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -184,7 +184,6 @@
       DTS:refId="Package\DSA_clean"
       DTS:CreationName="STOCK:SEQUENCE"
       DTS:Description="Sequence Container"
-      DTS:Disabled="True"
       DTS:DTSID="{DE3C2125-4184-44B0-B158-157E49C597A4}"
       DTS:ExecutableType="STOCK:SEQUENCE"
       DTS:LocaleID="-1"
@@ -1407,7 +1406,6 @@
       DTS:refId="Package\DSA_raw"
       DTS:CreationName="STOCK:SEQUENCE"
       DTS:Description="Sequence Container"
-      DTS:Disabled="True"
       DTS:DTSID="{865F4573-DEE2-4EF0-BFF1-C42D73C43E06}"
       DTS:ExecutableType="STOCK:SEQUENCE"
       DTS:LocaleID="-1"
@@ -18278,6 +18276,19 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
+    design-time-name="Package\DSA_clean\Limpeza e normalização\db_incendios_clean">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
     design-time-name="Package\DSA_clean\Limpeza e normalização\DSA_raw">
     <Properties>
       <Property>
@@ -19241,7 +19252,7 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\DSA_ready\Povoar tabela_factos\Lookup Dim_Dia">
+    design-time-name="Package\DSA_ready\Povoar tabela_factos\Lookup Dim_Localizacao">
     <Properties>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
@@ -19251,7 +19262,7 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
       <Property>
         <Name>UsedTableName</Name>
         <Value
-          type="q3:string">[dbo].[dim_dia]</Value>
+          type="q3:string">[dbo].[dim_localizacao]</Value>
       </Property>
       <Property>
         <Name>TableInfoObjectType</Name>
@@ -19323,7 +19334,7 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\DSA_ready\Povoar tabela_factos\Lookup Dim_Localizacao">
+    design-time-name="Package\DSA_ready\Povoar tabela_factos\Lookup Dim_Dia">
     <Properties>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
@@ -19333,7 +19344,7 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
       <Property>
         <Name>UsedTableName</Name>
         <Value
-          type="q3:string">[dbo].[dim_localizacao]</Value>
+          type="q3:string">[dbo].[dim_dia]</Value>
       </Property>
       <Property>
         <Name>TableInfoObjectType</Name>
@@ -19342,19 +19353,6 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\DSA_clean\Limpeza e normalização\db_incendios_clean">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
