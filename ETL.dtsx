@@ -11,8 +11,8 @@
   DTS:LocaleID="2070"
   DTS:ObjectName="ETL"
   DTS:PackageType="5"
-  DTS:VersionBuild="225"
-  DTS:VersionGUID="{06618E06-19B9-4E15-8306-BAFCB3A361C4}">
+  DTS:VersionBuild="261"
+  DTS:VersionGUID="{6B8439B9-3C12-41E6-8A82-7E6D60E5B314}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABRPnd4feyJXe86BcvSJaHp0hXH6PWER3ryjldAkLN/mwAAAAAOgAAAAAIAACAAAABz0/tgzUXrZr9Nwo9jcS2ITeWkxPkqlofKd/mDia48SCAAAAAmyl2RHNWE2AhK0+o8xJ5YtptIE3gYYCvq0DnpIciyskAAAABktQSsoZll0hda8DWULCze7nZD5uAx2g65k1iRXF/W2R9erWGS6eqwfILHmTLdcbGKer0xhf5wb0GmDYmBEaQm</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADcIpecJJHuyGwexpkxhytd/kOsIT5HyXZNRqbBjQUMBwAAAAAOgAAAAAIAACAAAAAwCJMceHmArnW4CXVeKln9P+NPu1U9jvKN+xQCDJMIvCAAAAAnTH0nkROz8vUSdBCE2G7G+pzAgUUKHI41XDNyhHXToUAAAAAl7nw7Cgwof0e6rOGEJatSohy/9L2IwAW+jlr73coqs/JoNxc3FlJxYZt0SmVawfw4s4hjNoRf8gNWvf245tY8</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -56,7 +56,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB66G+nHHaH/oGv473tqVkNgLQZZsI0Ch6IR9yI1AH5MgAAAAAOgAAAAAIAACAAAAAhsMojeJHSMEcbVCBnNAL97WoZO9zVsy3lw5iG4/9QxCAAAADUTd2MuJsNABq9u90Tf0UxOfDNc63SbBP33zzY4z6VekAAAABNFQjaRXjv0vAeFPxItVElbCmFLeSww363km08P/1eU2PFf4kFAnZEjK4zGrmIlCQYHP85aWQ3t6eE7bK+za86</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAt8OqLd7Raz74qyxXjUf1mZzB+oxGBsXi2FyJnMz5LJwAAAAAOgAAAAAIAACAAAABn73beq6igJdIaVl/1hxs18HcU6nM8Q1Lfd6uJ7ckSSyAAAAC+UuifSuRs+ouyTd8VFcQQ+K7Y03zwngg1s3OD3iCzQkAAAABSFcd6qqxejuUD4aZC3gerDe8tbi9MXzo7GfwO5Rn/cXXEqxZCSUZDZSeiQXXrVzqUifk2nHNjtQwBfwFZSxnr</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -73,7 +73,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAU2ax8Tk/WlCHJxyPS15mUp+IaVrusQrPnr8PhM+iJhQAAAAAOgAAAAAIAACAAAADRS0cVvW8y0Cg8/YMUepaMjRSHmOz0QjYvddQfeHrUfCAAAADI2S1YA+SQ3su1J6rHe2dplvDjtLgZ2rcbWMLiDvJs80AAAAC6eMRb1Ye3oZsZmlacgOutjuQ8n8CwF4IObeyClzfdSu2qC6vfXdGCYVK6Kh+HJzFz6mUfnaytx/KrNztjNKMh</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB5gSuSIEZX9vsZkoBZdlYgPChFaHOHMBD4Wl5eBJ8TbgAAAAAOgAAAAAIAACAAAADwAUD7RrWMGvjcjhClWJu2zbRzwpav0Kr19WYOKz62TCAAAABg5hl+GKv4GxmEBbzslXaFuXJDMhegVitHG9O7YbuwlEAAAAA6N9MfUCDLGybe61GSQouPkUNQ0aovwxHyjjhIkz7fdDRWbYHadTYLADXmG/fThM12XUoiODfl69ioWwtb6iKH</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -86,7 +86,7 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\TAAD\Registos_Incendios_SGIF_2001_2010.xlsx;Extended Properties=&quot;Excel 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\TAAD\Registos_Incendios_SGIF_2001_2010.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -98,7 +98,7 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\TAAD\Registos_Incendios_SGIF_2011_2020.xlsx;Extended Properties=&quot;Excel 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\TAAD\Registos_Incendios_SGIF_2011_2020.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -110,7 +110,7 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\TAAD\Registos_Incendios_SGIF_2021_2024.xlsx;Extended Properties=&quot;Excel 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\TAAD\Registos_Incendios_SGIF_2021_2024.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -158,6 +158,15 @@
   <DTS:Variables>
     <DTS:Variable
       DTS:CreationName=""
+      DTS:DTSID="{6CD191C6-C5CA-4BCC-AA4A-4BE30558D8D8}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="Rejeitados">
+      <DTS:VariableValue
+        DTS:DataType="3">0</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
       DTS:DTSID="{0BBCF142-514F-42B2-B610-440E1A59E903}"
       DTS:IncludeInDebugDump="2345"
       DTS:Namespace="User"
@@ -165,6 +174,15 @@
       <DTS:VariableValue
         DTS:DataType="8"
         xml:space="preserve"></DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{B1776DBE-523C-4080-A4D7-4D83AE92B3BF}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="Validos">
+      <DTS:VariableValue
+        DTS:DataType="3">0</DTS:VariableValue>
     </DTS:Variable>
   </DTS:Variables>
   <DTS:Executables>
@@ -17758,6 +17776,1255 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
           DTS:To="Package\DSA_transform\Limpeza e normalização" />
       </DTS:PrecedenceConstraints>
     </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\INCREMENTAL"
+      DTS:CreationName="STOCK:SEQUENCE"
+      DTS:Description="Sequence Container"
+      DTS:Disabled="True"
+      DTS:DTSID="{149A4A43-F937-42E4-9500-F4B8D04D46F9}"
+      DTS:ExecutableType="STOCK:SEQUENCE"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="INCREMENTAL">
+      <DTS:Variables />
+      <DTS:Executables>
+        <DTS:Executable
+          DTS:refId="Package\INCREMENTAL\DF_Transform_2001_2011"
+          DTS:CreationName="Microsoft.Pipeline"
+          DTS:Description="Data Flow Task"
+          DTS:DTSID="{2EEB5350-717F-43E0-A5B5-21EABCE183E8}"
+          DTS:ExecutableType="Microsoft.Pipeline"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="DF_Transform_2001_2011"
+          DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <pipeline
+              version="1">
+              <components>
+                <component
+                  refId="Package\INCREMENTAL\DF_Transform_2001_2011\Conditional Split"
+                  componentClassID="Microsoft.ConditionalSplit"
+                  contactInfo="Conditional Split;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+                  description="Routes data rows to different outputs depending on the content of the data. Use conditions (SSIS expressions) to specify which rows are routed. For example, separate records that need to be cleaned from those that are ready to be loaded or route only a subset of records."
+                  name="Conditional Split"
+                  usesDispositions="true">
+                  <inputs>
+                    <input
+                      refId="Package\INCREMENTAL\DF_Transform_2001_2011\Conditional Split.Inputs[Conditional Split Input]"
+                      description="Input to the Conditional Split Transformation"
+                      name="Conditional Split Input">
+                      <inputColumns>
+                        <inputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\Conditional Split.Inputs[Conditional Split Input].Columns[EhValida]"
+                          cachedDataType="bool"
+                          cachedName="EhValida"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\Derived Column.Outputs[Derived Column Output].Columns[EhValida]" />
+                      </inputColumns>
+                      <externalMetadataColumns />
+                    </input>
+                  </inputs>
+                  <outputs>
+                    <output
+                      refId="Package\INCREMENTAL\DF_Transform_2001_2011\Conditional Split.Outputs[Registos Validos]"
+                      description="Output 1 of the Conditional Split Transformation"
+                      errorOrTruncationOperation="Computation"
+                      errorRowDisposition="FailComponent"
+                      exclusionGroup="1"
+                      name="Registos Validos"
+                      synchronousInputId="Package\INCREMENTAL\DF_Transform_2001_2011\Conditional Split.Inputs[Conditional Split Input]"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Specifies the expression. This expression version uses lineage identifiers instead of column names."
+                          name="Expression">#{Package\INCREMENTAL\DF_Transform_2001_2011\Derived Column.Outputs[Derived Column Output].Columns[EhValida]}</property>
+                        <property
+                          containsID="true"
+                          dataType="System.String"
+                          description="Specifies the friendly version of the expression. This expression version uses column names."
+                          expressionType="Notify"
+                          name="FriendlyExpression">EhValida</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the position of the condition in the list of conditions that the transformation evaluates. The evaluation order is from the lowest to the highest value."
+                          name="EvaluationOrder">0</property>
+                      </properties>
+                      <externalMetadataColumns />
+                    </output>
+                    <output
+                      refId="Package\INCREMENTAL\DF_Transform_2001_2011\Conditional Split.Outputs[Registos Rejeitados]"
+                      description="Default Output of the Conditional Split Transformation"
+                      exclusionGroup="1"
+                      name="Registos Rejeitados"
+                      synchronousInputId="Package\INCREMENTAL\DF_Transform_2001_2011\Conditional Split.Inputs[Conditional Split Input]">
+                      <properties>
+                        <property
+                          dataType="System.Boolean"
+                          name="IsDefaultOut">true</property>
+                      </properties>
+                      <externalMetadataColumns />
+                    </output>
+                    <output
+                      refId="Package\INCREMENTAL\DF_Transform_2001_2011\Conditional Split.Outputs[Conditional Split Error Output]"
+                      description="Error Output of the Conditional Split Transformation"
+                      exclusionGroup="1"
+                      isErrorOut="true"
+                      name="Conditional Split Error Output"
+                      synchronousInputId="Package\INCREMENTAL\DF_Transform_2001_2011\Conditional Split.Inputs[Conditional Split Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\Conditional Split.Outputs[Conditional Split Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\Conditional Split.Outputs[Conditional Split Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\Conditional Split.Outputs[Conditional Split Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\Conditional Split.Outputs[Conditional Split Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+                <component
+                  refId="Package\INCREMENTAL\DF_Transform_2001_2011\Derived Column"
+                  componentClassID="Microsoft.DerivedColumn"
+                  contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+                  description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
+                  name="Derived Column"
+                  usesDispositions="true">
+                  <inputs>
+                    <input
+                      refId="Package\INCREMENTAL\DF_Transform_2001_2011\Derived Column.Inputs[Derived Column Input]"
+                      description="Input to the Derived Column Transformation"
+                      name="Derived Column Input">
+                      <inputColumns>
+                        <inputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\Derived Column.Inputs[Derived Column Input].Columns[id_natural]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="id_natural"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[id_natural]" />
+                        <inputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\Derived Column.Inputs[Derived Column Input].Columns[data_ocorrencia]"
+                          cachedDataType="dbDate"
+                          cachedName="data_ocorrencia"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[data_ocorrencia]" />
+                      </inputColumns>
+                      <externalMetadataColumns />
+                    </input>
+                  </inputs>
+                  <outputs>
+                    <output
+                      refId="Package\INCREMENTAL\DF_Transform_2001_2011\Derived Column.Outputs[Derived Column Output]"
+                      description="Default Output of the Derived Column Transformation"
+                      exclusionGroup="1"
+                      name="Derived Column Output"
+                      synchronousInputId="Package\INCREMENTAL\DF_Transform_2001_2011\Derived Column.Inputs[Derived Column Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\Derived Column.Outputs[Derived Column Output].Columns[EhValida]"
+                          dataType="bool"
+                          errorOrTruncationOperation="Computation"
+                          errorRowDisposition="FailComponent"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\Derived Column.Outputs[Derived Column Output].Columns[EhValida]"
+                          name="EhValida"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              containsID="true"
+                              dataType="System.String"
+                              description="Derived Column Expression"
+                              name="Expression">![ISNULL](#{Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[data_ocorrencia]}) &amp;&amp; ![ISNULL](#{Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[id_natural]})</property>
+                            <property
+                              containsID="true"
+                              dataType="System.String"
+                              description="Derived Column Friendly Expression"
+                              expressionType="Notify"
+                              name="FriendlyExpression">!ISNULL(data_ocorrencia) &amp;&amp; !ISNULL(id_natural)</property>
+                          </properties>
+                        </outputColumn>
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                    <output
+                      refId="Package\INCREMENTAL\DF_Transform_2001_2011\Derived Column.Outputs[Derived Column Error Output]"
+                      description="Error Output of the Derived Column Transformation"
+                      exclusionGroup="1"
+                      isErrorOut="true"
+                      name="Derived Column Error Output"
+                      synchronousInputId="Package\INCREMENTAL\DF_Transform_2001_2011\Derived Column.Inputs[Derived Column Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\Derived Column.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+                <component
+                  refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination"
+                  componentClassID="Microsoft.OLEDBDestination"
+                  contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+                  description="OLE DB Destination"
+                  name="OLE DB Destination"
+                  usesDispositions="true"
+                  version="4">
+                  <properties>
+                    <property
+                      dataType="System.Int32"
+                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                      name="CommandTimeout">0</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the name of the database object used to open a rowset."
+                      name="OpenRowset">[dbo].[stg_incendios_clean]</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the variable that contains the name of the database object used to open a rowset."
+                      name="OpenRowsetVariable"></property>
+                    <property
+                      dataType="System.String"
+                      description="The SQL command to be executed."
+                      name="SqlCommand"
+                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=17.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the column code page to use when code page information is unavailable from the data source."
+                      name="DefaultCodePage">1252</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Forces the use of the DefaultCodePage property value when describing character data."
+                      name="AlwaysUseDefaultCodePage">false</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the mode used to access the database."
+                      name="AccessMode"
+                      typeConverter="AccessMode">0</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepIdentity">false</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepNulls">false</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                      name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                      name="FastLoadMaxInsertCommitSize">2147483647</property>
+                  </properties>
+                  <connections>
+                    <connection
+                      refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Connections[OleDbConnection]"
+                      connectionManagerID="Package.ConnectionManagers[.\TAAD.DSA_clean.sa]"
+                      connectionManagerRefId="Package.ConnectionManagers[.\TAAD.DSA_clean.sa]"
+                      description="The OLE DB runtime connection used to access the database."
+                      name="OleDbConnection" />
+                  </connections>
+                  <inputs>
+                    <input
+                      refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input]"
+                      errorOrTruncationOperation="Insert"
+                      errorRowDisposition="FailComponent"
+                      hasSideEffects="true"
+                      name="OLE DB Destination Input">
+                      <inputColumns>
+                        <inputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[id_natural]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="id_natural"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[id_natural]"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[id_natural]" />
+                        <inputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[data_ocorrencia]"
+                          cachedDataType="dbDate"
+                          cachedName="data_ocorrencia"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[data_ocorrencia]"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[data_ocorrencia]" />
+                        <inputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[tipo_causa]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="tipo_causa"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[tipo_causa]"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[tipo_causa]" />
+                        <inputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[grupo_causa]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="grupo_causa"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[grupo_causa]"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[grupo_causa]" />
+                        <inputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[descricao_causa]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="descricao_causa"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[descricao_causa]"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[descricao_causa]" />
+                        <inputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[fonte_alerta]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="fonte_alerta"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[fonte_alerta]"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[fonte_alerta]" />
+                        <inputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[distrito]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="distrito"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[distrito]"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[distrito]" />
+                        <inputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[concelho]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="concelho"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[concelho]"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[concelho]" />
+                        <inputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[freguesia]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="freguesia"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[freguesia]"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[freguesia]" />
+                        <inputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[periodo_origem]"
+                          cachedDataType="wstr"
+                          cachedLength="9"
+                          cachedName="periodo_origem"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[periodo_origem]"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[periodo_origem]" />
+                      </inputColumns>
+                      <externalMetadataColumns
+                        isUsed="True">
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[id_natural]"
+                          dataType="wstr"
+                          length="50"
+                          name="id_natural" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[data_ocorrencia]"
+                          dataType="dbDate"
+                          name="data_ocorrencia" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[tipo_causa]"
+                          dataType="wstr"
+                          length="255"
+                          name="tipo_causa" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[grupo_causa]"
+                          dataType="wstr"
+                          length="255"
+                          name="grupo_causa" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[descricao_causa]"
+                          dataType="nText"
+                          name="descricao_causa" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[fonte_alerta]"
+                          dataType="wstr"
+                          length="255"
+                          name="fonte_alerta" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[distrito]"
+                          dataType="wstr"
+                          length="100"
+                          name="distrito" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[concelho]"
+                          dataType="wstr"
+                          length="100"
+                          name="concelho" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[freguesia]"
+                          dataType="wstr"
+                          length="100"
+                          name="freguesia" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[periodo_origem]"
+                          dataType="wstr"
+                          length="20"
+                          name="periodo_origem" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[dt_carga]"
+                          dataType="dbTimeStamp"
+                          name="dt_carga" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[sk_stg_incendio]"
+                          dataType="i4"
+                          name="sk_stg_incendio" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[sk_hora]"
+                          dataType="i4"
+                          name="sk_hora" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[minutos]"
+                          dataType="i4"
+                          name="minutos" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[area_povoamento]"
+                          dataType="numeric"
+                          name="area_povoamento"
+                          precision="10"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[area_mato]"
+                          dataType="numeric"
+                          name="area_mato"
+                          precision="10"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[area_agricola]"
+                          dataType="numeric"
+                          name="area_agricola"
+                          precision="10"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[area_total]"
+                          dataType="numeric"
+                          name="area_total"
+                          precision="10"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[duracao_horas]"
+                          dataType="numeric"
+                          name="duracao_horas"
+                          precision="10"
+                          scale="2" />
+                      </externalMetadataColumns>
+                    </input>
+                  </inputs>
+                  <outputs>
+                    <output
+                      refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Outputs[OLE DB Destination Error Output]"
+                      exclusionGroup="1"
+                      isErrorOut="true"
+                      name="OLE DB Destination Error Output"
+                      synchronousInputId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+                <component
+                  refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1"
+                  componentClassID="Microsoft.OLEDBDestination"
+                  contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+                  description="OLE DB Destination"
+                  name="OLE DB Destination 1"
+                  usesDispositions="true"
+                  version="4">
+                  <properties>
+                    <property
+                      dataType="System.Int32"
+                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                      name="CommandTimeout">0</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the name of the database object used to open a rowset."
+                      name="OpenRowset">[dbo].[stg_incendios_rejeitados]</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the variable that contains the name of the database object used to open a rowset."
+                      name="OpenRowsetVariable"></property>
+                    <property
+                      dataType="System.String"
+                      description="The SQL command to be executed."
+                      name="SqlCommand"
+                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=17.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the column code page to use when code page information is unavailable from the data source."
+                      name="DefaultCodePage">1252</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Forces the use of the DefaultCodePage property value when describing character data."
+                      name="AlwaysUseDefaultCodePage">false</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the mode used to access the database."
+                      name="AccessMode"
+                      typeConverter="AccessMode">0</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepIdentity">false</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepNulls">false</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                      name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                      name="FastLoadMaxInsertCommitSize">2147483647</property>
+                  </properties>
+                  <connections>
+                    <connection
+                      refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Connections[OleDbConnection]"
+                      connectionManagerID="Package.ConnectionManagers[.\TAAD.DSA_clean.sa]"
+                      connectionManagerRefId="Package.ConnectionManagers[.\TAAD.DSA_clean.sa]"
+                      description="The OLE DB runtime connection used to access the database."
+                      name="OleDbConnection" />
+                  </connections>
+                  <inputs>
+                    <input
+                      refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input]"
+                      errorOrTruncationOperation="Insert"
+                      errorRowDisposition="FailComponent"
+                      hasSideEffects="true"
+                      name="OLE DB Destination Input">
+                      <inputColumns>
+                        <inputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].Columns[id_natural]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="id_natural"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[id_natural]"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[id_natural]" />
+                        <inputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].Columns[data_ocorrencia]"
+                          cachedDataType="dbDate"
+                          cachedName="data_ocorrencia"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[data_ocorrencia]"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[data_ocorrencia]" />
+                      </inputColumns>
+                      <externalMetadataColumns
+                        isUsed="True">
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[id_natural]"
+                          dataType="wstr"
+                          length="50"
+                          name="id_natural" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[data_ocorrencia]"
+                          dataType="dbDate"
+                          name="data_ocorrencia" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[dt_carga]"
+                          dataType="dbTimeStamp"
+                          name="dt_carga" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[tipo_causa]"
+                          dataType="wstr"
+                          length="255"
+                          name="tipo_causa" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[grupo_causa]"
+                          dataType="wstr"
+                          length="255"
+                          name="grupo_causa" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[descricao_causa]"
+                          dataType="nText"
+                          name="descricao_causa" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[fonte_alerta]"
+                          dataType="wstr"
+                          length="255"
+                          name="fonte_alerta" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[distrito]"
+                          dataType="wstr"
+                          length="100"
+                          name="distrito" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[concelho]"
+                          dataType="wstr"
+                          length="100"
+                          name="concelho" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[freguesia]"
+                          dataType="wstr"
+                          length="100"
+                          name="freguesia" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[periodo_origem]"
+                          dataType="wstr"
+                          length="20"
+                          name="periodo_origem" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[sk_rejeitado]"
+                          dataType="i4"
+                          name="sk_rejeitado" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[sk_hora]"
+                          dataType="i4"
+                          name="sk_hora" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[minutos]"
+                          dataType="i4"
+                          name="minutos" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[area_povoamento]"
+                          dataType="numeric"
+                          name="area_povoamento"
+                          precision="10"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[area_mato]"
+                          dataType="numeric"
+                          name="area_mato"
+                          precision="10"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[area_agricola]"
+                          dataType="numeric"
+                          name="area_agricola"
+                          precision="10"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[area_total]"
+                          dataType="numeric"
+                          name="area_total"
+                          precision="10"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[duracao_horas]"
+                          dataType="numeric"
+                          name="duracao_horas"
+                          precision="10"
+                          scale="2" />
+                      </externalMetadataColumns>
+                    </input>
+                  </inputs>
+                  <outputs>
+                    <output
+                      refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Outputs[OLE DB Destination Error Output]"
+                      exclusionGroup="1"
+                      isErrorOut="true"
+                      name="OLE DB Destination Error Output"
+                      synchronousInputId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+                <component
+                  refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source"
+                  componentClassID="Microsoft.OLEDBSource"
+                  contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
+                  description="OLE DB Source"
+                  name="OLE DB Source"
+                  usesDispositions="true"
+                  version="7">
+                  <properties>
+                    <property
+                      dataType="System.Int32"
+                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                      name="CommandTimeout">0</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the name of the database object used to open a rowset."
+                      name="OpenRowset">[dbo].[vw_incendios_2001_2011_clean]</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the variable that contains the name of the database object used to open a rowset."
+                      name="OpenRowsetVariable"></property>
+                    <property
+                      dataType="System.String"
+                      description="The SQL command to be executed."
+                      name="SqlCommand"
+                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=17.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
+                    <property
+                      dataType="System.String"
+                      description="The variable that contains the SQL command to be executed."
+                      name="SqlCommandVariable"></property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the column code page to use when code page information is unavailable from the data source."
+                      name="DefaultCodePage">1252</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Forces the use of the DefaultCodePage property value when describing character data."
+                      name="AlwaysUseDefaultCodePage">false</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the mode used to access the database."
+                      name="AccessMode"
+                      typeConverter="AccessMode">0</property>
+                    <property
+                      dataType="System.String"
+                      description="The mappings between the parameters in the SQL command and variables."
+                      name="ParameterMapping"></property>
+                  </properties>
+                  <connections>
+                    <connection
+                      refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Connections[OleDbConnection]"
+                      connectionManagerID="Package.ConnectionManagers[.\TAAD.DSA_raw]"
+                      connectionManagerRefId="Package.ConnectionManagers[.\TAAD.DSA_raw]"
+                      description="The OLE DB runtime connection used to access the database."
+                      name="OleDbConnection" />
+                  </connections>
+                  <outputs>
+                    <output
+                      refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output]"
+                      name="OLE DB Source Output">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[id_natural]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[id_natural]"
+                          length="255"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[id_natural]"
+                          name="id_natural"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[data_ocorrencia]"
+                          dataType="dbDate"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[data_ocorrencia]"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[data_ocorrencia]"
+                          name="data_ocorrencia"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[tipo_causa]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[tipo_causa]"
+                          length="255"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[tipo_causa]"
+                          name="tipo_causa"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[grupo_causa]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[grupo_causa]"
+                          length="255"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[grupo_causa]"
+                          name="grupo_causa"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[descricao_causa]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[descricao_causa]"
+                          length="255"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[descricao_causa]"
+                          name="descricao_causa"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[fonte_alerta]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[fonte_alerta]"
+                          length="255"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[fonte_alerta]"
+                          name="fonte_alerta"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[distrito]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[distrito]"
+                          length="255"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[distrito]"
+                          name="distrito"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[concelho]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[concelho]"
+                          length="255"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[concelho]"
+                          name="concelho"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[freguesia]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[freguesia]"
+                          length="255"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[freguesia]"
+                          name="freguesia"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[periodo_origem]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[periodo_origem]"
+                          length="9"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[periodo_origem]"
+                          name="periodo_origem"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[sk_hora]"
+                          dataType="i4"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[sk_hora]"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[sk_hora]"
+                          name="sk_hora"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[minutos]"
+                          dataType="i4"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[minutos]"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[minutos]"
+                          name="minutos"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[area_povoamento]"
+                          dataType="numeric"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[area_povoamento]"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[area_povoamento]"
+                          name="area_povoamento"
+                          precision="10"
+                          scale="2"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[area_mato]"
+                          dataType="numeric"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[area_mato]"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[area_mato]"
+                          name="area_mato"
+                          precision="10"
+                          scale="2"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[area_agricola]"
+                          dataType="numeric"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[area_agricola]"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[area_agricola]"
+                          name="area_agricola"
+                          precision="10"
+                          scale="2"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[area_total]"
+                          dataType="numeric"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[area_total]"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[area_total]"
+                          name="area_total"
+                          precision="10"
+                          scale="2"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[duracao_horas]"
+                          dataType="numeric"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[duracao_horas]"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].Columns[duracao_horas]"
+                          name="duracao_horas"
+                          precision="10"
+                          scale="2"
+                          truncationRowDisposition="FailComponent" />
+                      </outputColumns>
+                      <externalMetadataColumns
+                        isUsed="True">
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[id_natural]"
+                          dataType="wstr"
+                          length="50"
+                          name="id_natural" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[data_ocorrencia]"
+                          dataType="dbDate"
+                          name="data_ocorrencia" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[tipo_causa]"
+                          dataType="wstr"
+                          length="255"
+                          name="tipo_causa" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[grupo_causa]"
+                          dataType="wstr"
+                          length="255"
+                          name="grupo_causa" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[descricao_causa]"
+                          dataType="wstr"
+                          length="255"
+                          name="descricao_causa" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[fonte_alerta]"
+                          dataType="wstr"
+                          length="255"
+                          name="fonte_alerta" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[distrito]"
+                          dataType="wstr"
+                          length="255"
+                          name="distrito" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[concelho]"
+                          dataType="wstr"
+                          length="255"
+                          name="concelho" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[freguesia]"
+                          dataType="wstr"
+                          length="255"
+                          name="freguesia" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[periodo_origem]"
+                          dataType="wstr"
+                          length="9"
+                          name="periodo_origem" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[sk_hora]"
+                          dataType="i4"
+                          name="sk_hora" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[minutos]"
+                          dataType="i4"
+                          name="minutos" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[area_povoamento]"
+                          dataType="numeric"
+                          name="area_povoamento"
+                          precision="10"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[area_mato]"
+                          dataType="numeric"
+                          name="area_mato"
+                          precision="10"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[area_agricola]"
+                          dataType="numeric"
+                          name="area_agricola"
+                          precision="10"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[area_total]"
+                          dataType="numeric"
+                          name="area_total"
+                          precision="10"
+                          scale="2" />
+                        <externalMetadataColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[duracao_horas]"
+                          dataType="numeric"
+                          name="duracao_horas"
+                          precision="10"
+                          scale="2" />
+                      </externalMetadataColumns>
+                    </output>
+                    <output
+                      refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output]"
+                      isErrorOut="true"
+                      name="OLE DB Source Error Output">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[id_natural]"
+                          dataType="wstr"
+                          length="50"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[id_natural]"
+                          name="id_natural" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[data_ocorrencia]"
+                          dataType="dbDate"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[data_ocorrencia]"
+                          name="data_ocorrencia" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[sk_hora]"
+                          dataType="i4"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[sk_hora]"
+                          name="sk_hora" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[minutos]"
+                          dataType="i4"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[minutos]"
+                          name="minutos" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[area_povoamento]"
+                          dataType="numeric"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[area_povoamento]"
+                          name="area_povoamento"
+                          precision="10"
+                          scale="2" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[area_mato]"
+                          dataType="numeric"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[area_mato]"
+                          name="area_mato"
+                          precision="10"
+                          scale="2" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[area_agricola]"
+                          dataType="numeric"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[area_agricola]"
+                          name="area_agricola"
+                          precision="10"
+                          scale="2" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[area_total]"
+                          dataType="numeric"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[area_total]"
+                          name="area_total"
+                          precision="10"
+                          scale="2" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[duracao_horas]"
+                          dataType="numeric"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[duracao_horas]"
+                          name="duracao_horas"
+                          precision="10"
+                          scale="2" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[tipo_causa]"
+                          dataType="wstr"
+                          length="255"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[tipo_causa]"
+                          name="tipo_causa" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[grupo_causa]"
+                          dataType="wstr"
+                          length="255"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[grupo_causa]"
+                          name="grupo_causa" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[descricao_causa]"
+                          dataType="wstr"
+                          length="255"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[descricao_causa]"
+                          name="descricao_causa" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[fonte_alerta]"
+                          dataType="wstr"
+                          length="255"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[fonte_alerta]"
+                          name="fonte_alerta" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[distrito]"
+                          dataType="wstr"
+                          length="255"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[distrito]"
+                          name="distrito" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[concelho]"
+                          dataType="wstr"
+                          length="255"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[concelho]"
+                          name="concelho" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[freguesia]"
+                          dataType="wstr"
+                          length="255"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[freguesia]"
+                          name="freguesia" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[periodo_origem]"
+                          dataType="wstr"
+                          length="9"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[periodo_origem]"
+                          name="periodo_origem" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+                <component
+                  refId="Package\INCREMENTAL\DF_Transform_2001_2011\Row Count"
+                  componentClassID="Microsoft.RowCount"
+                  contactInfo="Row Count;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+                  description="Counts rows as they pass through a data flow. For example, use the number of rows processed to determine whether or not to perform cleanup operations, or update text in an e-mail message to communicate processing status."
+                  name="Row Count">
+                  <properties>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the variable to hold the row count."
+                      name="VariableName">User::Validos</property>
+                  </properties>
+                  <inputs>
+                    <input
+                      refId="Package\INCREMENTAL\DF_Transform_2001_2011\Row Count.Inputs[Row Count Input 1]"
+                      hasSideEffects="true"
+                      name="Row Count Input 1">
+                      <externalMetadataColumns />
+                    </input>
+                  </inputs>
+                  <outputs>
+                    <output
+                      refId="Package\INCREMENTAL\DF_Transform_2001_2011\Row Count.Outputs[Row Count Output 1]"
+                      name="Row Count Output 1"
+                      synchronousInputId="Package\INCREMENTAL\DF_Transform_2001_2011\Row Count.Inputs[Row Count Input 1]">
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+                <component
+                  refId="Package\INCREMENTAL\DF_Transform_2001_2011\Row Count 1"
+                  componentClassID="Microsoft.RowCount"
+                  contactInfo="Row Count;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+                  description="Counts rows as they pass through a data flow. For example, use the number of rows processed to determine whether or not to perform cleanup operations, or update text in an e-mail message to communicate processing status."
+                  name="Row Count 1">
+                  <properties>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the variable to hold the row count."
+                      name="VariableName">User::Rejeitados</property>
+                  </properties>
+                  <inputs>
+                    <input
+                      refId="Package\INCREMENTAL\DF_Transform_2001_2011\Row Count 1.Inputs[Row Count Input 1]"
+                      hasSideEffects="true"
+                      name="Row Count Input 1">
+                      <externalMetadataColumns />
+                    </input>
+                  </inputs>
+                  <outputs>
+                    <output
+                      refId="Package\INCREMENTAL\DF_Transform_2001_2011\Row Count 1.Outputs[Row Count Output 1]"
+                      name="Row Count Output 1"
+                      synchronousInputId="Package\INCREMENTAL\DF_Transform_2001_2011\Row Count 1.Inputs[Row Count Input 1]">
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+              </components>
+              <paths>
+                <path
+                  refId="Package\INCREMENTAL\DF_Transform_2001_2011.Paths[Derived Column Output]"
+                  endId="Package\INCREMENTAL\DF_Transform_2001_2011\Conditional Split.Inputs[Conditional Split Input]"
+                  name="Derived Column Output"
+                  startId="Package\INCREMENTAL\DF_Transform_2001_2011\Derived Column.Outputs[Derived Column Output]" />
+                <path
+                  refId="Package\INCREMENTAL\DF_Transform_2001_2011.Paths[OLE DB Source Output]"
+                  endId="Package\INCREMENTAL\DF_Transform_2001_2011\Derived Column.Inputs[Derived Column Input]"
+                  name="OLE DB Source Output"
+                  startId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source.Outputs[OLE DB Source Output]" />
+                <path
+                  refId="Package\INCREMENTAL\DF_Transform_2001_2011.Paths[Registos Rejeitados]"
+                  endId="Package\INCREMENTAL\DF_Transform_2001_2011\Row Count 1.Inputs[Row Count Input 1]"
+                  name="Registos Rejeitados"
+                  startId="Package\INCREMENTAL\DF_Transform_2001_2011\Conditional Split.Outputs[Registos Rejeitados]" />
+                <path
+                  refId="Package\INCREMENTAL\DF_Transform_2001_2011.Paths[Registos Validos]"
+                  endId="Package\INCREMENTAL\DF_Transform_2001_2011\Row Count.Inputs[Row Count Input 1]"
+                  name="Registos Validos"
+                  startId="Package\INCREMENTAL\DF_Transform_2001_2011\Conditional Split.Outputs[Registos Validos]" />
+                <path
+                  refId="Package\INCREMENTAL\DF_Transform_2001_2011.Paths[Row Count Output 1]"
+                  endId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1.Inputs[OLE DB Destination Input]"
+                  name="Row Count Output 1"
+                  startId="Package\INCREMENTAL\DF_Transform_2001_2011\Row Count 1.Outputs[Row Count Output 1]" />
+                <path
+                  refId="Package\INCREMENTAL\DF_Transform_2001_2011.Paths[Row Count Output 11]"
+                  endId="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination.Inputs[OLE DB Destination Input]"
+                  name="Row Count Output 1"
+                  startId="Package\INCREMENTAL\DF_Transform_2001_2011\Row Count.Outputs[Row Count Output 1]" />
+              </paths>
+            </pipeline>
+          </DTS:ObjectData>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\INCREMENTAL\Execute SQL Task"
+          DTS:CreationName="Microsoft.ExecuteSQLTask"
+          DTS:Description="Execute SQL Task"
+          DTS:DTSID="{EA16001E-B3CF-4249-A5B8-D70069DB2888}"
+          DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Execute SQL Task"
+          DTS:ThreadHint="1">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <SQLTask:SqlTaskData
+              SQLTask:Connection="{431DC510-E2BC-4788-9252-327B12A055BE}"
+              SQLTask:SqlStatementSource="INSERT INTO audit_cargas_incendios (fonte_origem, linhas_lidas, linhas_validas, linhas_rejeitadas)&#xA;VALUES ('2001-2011', ?, ?, ?);" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          </DTS:ObjectData>
+        </DTS:Executable>
+      </DTS:Executables>
+      <DTS:PrecedenceConstraints>
+        <DTS:PrecedenceConstraint
+          DTS:refId="Package\INCREMENTAL.PrecedenceConstraints[Constraint]"
+          DTS:CreationName=""
+          DTS:DTSID="{F0E85613-7818-42D6-AA63-59B0C7244BFA}"
+          DTS:From="Package\INCREMENTAL\DF_Transform_2001_2011"
+          DTS:LogicalAnd="True"
+          DTS:ObjectName="Constraint"
+          DTS:To="Package\INCREMENTAL\Execute SQL Task" />
+      </DTS:PrecedenceConstraints>
+    </DTS:Executable>
   </DTS:Executables>
   <DTS:PrecedenceConstraints>
     <DTS:PrecedenceConstraint
@@ -17790,69 +19057,6 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
       <GraphLayout
         Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="191.2,41.6"
-          Id="Package\DSA_transform\Limpeza e normalização"
-          TopLeft="129.524207460325,276.048482266869" />
-        <NodeLayout
-          Size="168,41.6"
-          Id="Package\DSA_transform\juntar ds_incendios"
-          TopLeft="141.085626631411,149.355555240158" />
-        <NodeLayout
-          Size="164.8,41.6"
-          Id="Package\DSA_transform\Limpar DSA_clean"
-          TopLeft="139.333295997648,34.2666653769545" />
-        <EdgeLayout
-          Id="Package\DSA_transform.PrecedenceConstraints[Constraint]"
-          TopLeft="223.409461314529,75.8666653769545">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,73.4888898632037"
-              Start="0,0"
-              End="0,65.9888898632037">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,65.9888898632037" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\DSA_transform.PrecedenceConstraints[Constraint 1]"
-          TopLeft="225.104917045868,190.955555240158">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,85.0929270267113"
-              Start="0,0"
-              End="0,77.5929270267113">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,77.5929270267113" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <ContainerLayout
-          HeaderHeight="43"
-          IsExpanded="True"
-          PanelSize="483.2,635.2"
-          Size="483.2,678.4"
-          Id="Package\DSA_transform"
-          TopLeft="544.296507057487,107.759306609963" />
-        <NodeLayout
           Size="138.4,41.6"
           Id="Package\DSA_extract\Calcular ETL"
           TopLeft="139.954997827388,34.513227701585" />
@@ -17867,7 +19071,7 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
         <NodeLayout
           Size="180.8,41.6"
           Id="Package\DSA_extract\Importar ds_incendios"
-          TopLeft="125.035392243843,326.906876706743" />
+          TopLeft="130.035391970655,339.040209955703" />
         <NodeLayout
           Size="156.8,41.6"
           Id="Package\DSA_extract\Limpar DSA_raw"
@@ -17918,18 +19122,18 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
         </EdgeLayout>
         <EdgeLayout
           Id="Package\DSA_extract.PrecedenceConstraints[Constraint 2]"
-          TopLeft="214.927466472626,269.463491235539">
+          TopLeft="217.427466336032,269.463491235539">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,57.4433854712039"
+              EndConnector="0,69.576718720164"
               Start="0,0"
-              End="0,49.9433854712039">
+              End="0,62.076718720164">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,49.9433854712039" />
+                    End="0,62.076718720164" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -17940,18 +19144,18 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
         </EdgeLayout>
         <EdgeLayout
           Id="Package\DSA_extract.PrecedenceConstraints[Constraint 3]"
-          TopLeft="217.165300742615,368.506876706743">
+          TopLeft="219.665300606022,380.640209955703">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,75.6116387234314"
+              EndConnector="0,63.478305474471"
               Start="0,0"
-              End="0,68.1116387234314">
+              End="0,55.978305474471">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,68.1116387234314" />
+                    End="0,55.978305474471" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -17963,10 +19167,10 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
         <ContainerLayout
           HeaderHeight="43.2"
           IsExpanded="True"
-          PanelSize="485.6,633.6"
-          Size="485.6,676.8"
+          PanelSize="485.6,624"
+          Size="485.6,667.2"
           Id="Package\DSA_extract"
-          TopLeft="8.12890768476436,104.022894998433" />
+          TopLeft="18.1289071383883,113.556228265473" />
         <NodeLayout
           Size="164.8,41.6"
           Id="Package\DSA_load\Execute SQL Task"
@@ -17989,14 +19193,14 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,83.7757567150365"
+              EndConnector="0,83.7757567150369"
               Start="0,0"
-              End="0,76.2757567150365">
+              End="0,76.2757567150369">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,76.2757567150365" />
+                    End="0,76.2757567150369" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -18056,20 +19260,120 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
           Size="481.6,680.8"
           Id="Package\DSA_load"
           TopLeft="1068.71206282026,110.457579824496" />
+        <NodeLayout
+          Size="168,41.6"
+          Id="Package\DSA_transform\juntar ds_incendios"
+          TopLeft="148.585626221629,283.688887639354" />
+        <NodeLayout
+          Size="164.8,41.6"
+          Id="Package\DSA_transform\Limpar DSA_clean"
+          TopLeft="146.833295587866,168.599997776151" />
+        <NodeLayout
+          Size="191.2,41.6"
+          Id="Package\DSA_transform\Limpeza e normalização"
+          TopLeft="137.024207050543,410.381814666065" />
         <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="493.728907684764,444.691100804198">
+          Id="Package\DSA_transform.PrecedenceConstraints[Constraint]"
+          TopLeft="230.909460904747,210.199997776151">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="50.5675993727226,0"
+              EndConnector="0,73.4888898632037"
               Start="0,0"
-              End="43.0675993727226,0">
+              End="0,65.9888898632037">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="43.0675993727226,0" />
+                    End="0,65.9888898632037" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DSA_transform.PrecedenceConstraints[Constraint 1]"
+          TopLeft="232.604916636086,325.288887639354">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,85.0929270267113"
+              Start="0,0"
+              End="0,77.5929270267113">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,77.5929270267113" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="483.2,635.2"
+          Size="483.2,678.4"
+          Id="Package\DSA_transform"
+          TopLeft="545.129840345289,109.492639931243" />
+        <NodeLayout
+          Size="203.2,41.6"
+          Id="Package\INCREMENTAL\DF_Transform_2001_2011"
+          TopLeft="10.1332342571723,8.86666478031202" />
+        <NodeLayout
+          Size="164.8,41.6"
+          Id="Package\INCREMENTAL\Execute SQL Task"
+          TopLeft="23.4665668620046,99.8666641475095" />
+        <EdgeLayout
+          Id="Package\INCREMENTAL.PrecedenceConstraints[Constraint]"
+          TopLeft="108.799900559588,50.466664780312">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,49.3999993671975"
+              Start="0,0"
+              End="0,41.8999993671975">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,41.8999993671975" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="992.8,196.8"
+          Size="992.8,240"
+          Id="Package\INCREMENTAL"
+          TopLeft="544.999970222514,825.933327589896" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint]"
+          TopLeft="503.728907138388,447.924434098358">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="41.4009332069007,0"
+              Start="0,0"
+              End="33.9009332069007,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="33.9009332069007,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -18080,18 +19384,18 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="1027.49650705749,448.90844321723">
+          TopLeft="1028.32984034529,449.775109877869">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="41.215555762773,0"
+              EndConnector="40.3822224749708,0"
               Start="0,0"
-              End="33.715555762773,0">
+              End="32.8822224749708,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="33.715555762773,0" />
+                    End="32.8822224749708,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -18104,100 +19408,10 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
     </LayoutInfo>
   </Package>
   <TaskHost
-    design-time-name="Package\DSA_transform\Limpeza e normalização">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="247.2,41.6"
-          Id="Package\DSA_transform\Limpeza e normalização\Preencher data causa desconhecida"
-          TopLeft="92.9642868622073,202.142854130694" />
-        <NodeLayout
-          Size="170.4,41.6"
-          Id="Package\DSA_transform\Limpeza e normalização\db_incendios_clean"
-          TopLeft="126.916665056927,395.933327385253" />
-        <NodeLayout
-          Size="224,41.6"
-          Id="Package\DSA_transform\Limpeza e normalização\Limpar colunas desnecessarias"
-          TopLeft="101.785714060423,37.1428565893855" />
-        <EdgeLayout
-          Id="Package\DSA_transform\Limpeza e normalização.Paths[OLE DB Source Output]"
-          TopLeft="215.175000461315,78.7428565893855">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,123.399997541309"
-              Start="0,0"
-              End="0,115.899997541309">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,115.899997541309" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\DSA_transform\Limpeza e normalização.Paths[Derived Column Output]"
-          TopLeft="214.340475959567,243.742854130694">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,152.190473254559"
-              Start="0,0"
-              End="0,144.690473254559">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,144.690473254559" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\DSA_transform\Limpeza e normalização\db_incendios_clean">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\DSA_transform\Limpeza e normalização\Limpar colunas desnecessarias">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
     design-time-name="Package\DSA_extract\Importar ds_incendios">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="168.8,41.6"
           Id="Package\DSA_extract\Importar ds_incendios\db_incendios_2011"
@@ -18241,7 +19455,9 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -18263,7 +19479,9 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -18285,7 +19503,9 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -18358,263 +19578,6 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\DSA_extract\Importar ds_incendios\ds_incendios_2001">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\DSA_transform\juntar ds_incendios">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="209.6,41.6"
-          Id="Package\DSA_transform\juntar ds_incendios\importar db_incendios_2001"
-          TopLeft="105.499998427927,77.8333321735263" />
-        <NodeLayout
-          Size="153.6,41.6"
-          Id="Package\DSA_transform\juntar ds_incendios\ordenação 2011"
-          TopLeft="376.166661061347,166.266665703059" />
-        <NodeLayout
-          Size="132,41.6"
-          Id="Package\DSA_transform\juntar ds_incendios\unir tabelas"
-          TopLeft="380.666660994291,302.666662156582" />
-        <NodeLayout
-          Size="153.6,41.6"
-          Id="Package\DSA_transform\juntar ds_incendios\ordenação 2001"
-          TopLeft="139.166664592921,167.666664168239" />
-        <NodeLayout
-          Size="209.6,41.6"
-          Id="Package\DSA_transform\juntar ds_incendios\importar db_incendios_2021"
-          TopLeft="591.166657857598,75.0333352431655" />
-        <NodeLayout
-          Size="209.6,41.6"
-          Id="Package\DSA_transform\juntar ds_incendios\importar db_incendios_2011"
-          TopLeft="345.833328180016,77.4333336934448" />
-        <NodeLayout
-          Size="153.6,41.6"
-          Id="Package\DSA_transform\juntar ds_incendios\ordenação 2021"
-          TopLeft="621.833324067295,161.933332434297" />
-        <EdgeLayout
-          Id="Package\DSA_transform\juntar ds_incendios.Paths[Sort Output2]"
-          TopLeft="698.633324067295,203.533332434297">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-220.966663073004,99.1333297222851"
-              Start="0,0"
-              End="-220.966663073004,91.6333297222851">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,60.7801956601071" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,60.7801956601071"
-                    Point2="0,64.7801956601071"
-                    Point3="-4,64.7801956601071" />
-                  <mssgle:LineSegment
-                    End="-216.966663073004,64.7801956601071" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-216.966663073004,64.7801956601071"
-                    Point2="-220.966663073004,64.7801956601071"
-                    Point3="-220.966663073004,68.7801956601071" />
-                  <mssgle:LineSegment
-                    End="-220.966663073004,91.6333297222851" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\DSA_transform\juntar ds_incendios.Paths[Sort Output1]"
-          TopLeft="449.816661027819,207.866665703059">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,94.7999964535232"
-              Start="0,0"
-              End="0,87.2999964535232">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,87.2999964535232" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\DSA_transform\juntar ds_incendios.Paths[Sort Output]"
-          TopLeft="215.966664592921,209.266664168239">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="199.69999640137,93.3999979883428"
-              Start="0,0"
-              End="199.69999640137,85.8999979883428">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,57.0336620517884" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,57.0336620517884"
-                    Point2="0,61.0336620517884"
-                    Point3="4,61.0336620517884" />
-                  <mssgle:LineSegment
-                    End="195.69999640137,61.0336620517884" />
-                  <mssgle:CubicBezierSegment
-                    Point1="195.69999640137,61.0336620517884"
-                    Point2="199.69999640137,61.0336620517884"
-                    Point3="199.69999640137,65.0336620517884" />
-                  <mssgle:LineSegment
-                    End="199.69999640137,85.8999979883428" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\DSA_transform\juntar ds_incendios.Paths[OLE DB Source Output2]"
-          TopLeft="697.299990962446,116.633335243165">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,45.2999971911312"
-              Start="0,0"
-              End="0,37.7999971911312">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,37.7999971911312" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\DSA_transform\juntar ds_incendios.Paths[OLE DB Source Output1]"
-          TopLeft="451.799994620681,119.033333693445">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,47.2333320096138"
-              Start="0,0"
-              End="0,39.7333320096138">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,39.7333320096138" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\DSA_transform\juntar ds_incendios.Paths[OLE DB Source Output]"
-          TopLeft="213.133331510424,119.433332173526">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,48.2333319947127"
-              Start="0,0"
-              End="0,40.7333319947127">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,40.7333319947127" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="162.4,41.6"
-          Id="Package\DSA_transform\juntar ds_incendios\db_incendios_raw"
-          TopLeft="370.09999447912,407.999993920326" />
-        <EdgeLayout
-          Id="Package\DSA_transform\juntar ds_incendios.Paths[Union All Output 1]"
-          TopLeft="448.983327736706,344.266662156582">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,63.7333317637445"
-              Start="0,0"
-              End="0,56.2333317637445">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,56.2333317637445" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\DSA_transform\juntar ds_incendios\importar db_incendios_2001">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\DSA_transform\juntar ds_incendios\importar db_incendios_2021">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\DSA_transform\juntar ds_incendios\importar db_incendios_2011">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -18744,6 +19707,10 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
       <GraphLayout
         Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
+          Size="144,41.6"
+          Id="Package\DSA_load\Povoar dim_localizacao\Procurar (join)"
+          TopLeft="294.238090853606,234.285710794586" />
+        <NodeLayout
           Size="194.4,41.6"
           Id="Package\DSA_load\Povoar dim_localizacao\carregar dim_localização"
           TopLeft="276.666662544012,418.666660428047" />
@@ -18751,10 +19718,6 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
           Size="188,41.6"
           Id="Package\DSA_load\Povoar dim_localizacao\Ler db_incendios_clean"
           TopLeft="265.999996036291,81.9999987781048" />
-        <NodeLayout
-          Size="144,41.6"
-          Id="Package\DSA_load\Povoar dim_localizacao\Procurar (join)"
-          TopLeft="294.238090853606,234.285710794586" />
         <EdgeLayout
           Id="Package\DSA_load\Povoar dim_localizacao.Paths[Lookup No Match Output]"
           TopLeft="370.052376698809,275.885710794586">
@@ -18798,33 +19761,14 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\DSA_load\Povoar dim_localizacao\carregar dim_localização">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\DSA_load\Povoar dim_localizacao\Ler db_incendios_clean">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\DSA_load\Povoar dim_localizacao\Procurar (join)">
     <Properties>
@@ -18843,6 +19787,27 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
         <Value
           type="q4:string">0</Value>
       </Property>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\DSA_load\Povoar dim_localizacao\carregar dim_localização">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\DSA_load\Povoar dim_localizacao\Ler db_incendios_clean">
+    <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
       </Property>
@@ -19210,6 +20175,264 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
       </Property>
     </Properties>
   </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\DSA_transform\juntar ds_incendios">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="209.6,41.6"
+          Id="Package\DSA_transform\juntar ds_incendios\importar db_incendios_2001"
+          TopLeft="105.499998427927,77.8333321735263" />
+        <NodeLayout
+          Size="153.6,41.6"
+          Id="Package\DSA_transform\juntar ds_incendios\ordenação 2011"
+          TopLeft="376.166661061347,166.266665703059" />
+        <NodeLayout
+          Size="132,41.6"
+          Id="Package\DSA_transform\juntar ds_incendios\unir tabelas"
+          TopLeft="380.666660994291,302.666662156582" />
+        <NodeLayout
+          Size="153.6,41.6"
+          Id="Package\DSA_transform\juntar ds_incendios\ordenação 2001"
+          TopLeft="139.166664592921,167.666664168239" />
+        <NodeLayout
+          Size="209.6,41.6"
+          Id="Package\DSA_transform\juntar ds_incendios\importar db_incendios_2021"
+          TopLeft="591.166657857598,75.0333352431655" />
+        <NodeLayout
+          Size="162.4,41.6"
+          Id="Package\DSA_transform\juntar ds_incendios\db_incendios_raw"
+          TopLeft="370.09999447912,407.999993920326" />
+        <NodeLayout
+          Size="209.6,41.6"
+          Id="Package\DSA_transform\juntar ds_incendios\importar db_incendios_2011"
+          TopLeft="345.833328180016,77.4333336934448" />
+        <NodeLayout
+          Size="153.6,41.6"
+          Id="Package\DSA_transform\juntar ds_incendios\ordenação 2021"
+          TopLeft="621.833324067295,161.933332434297" />
+        <EdgeLayout
+          Id="Package\DSA_transform\juntar ds_incendios.Paths[Union All Output 1]"
+          TopLeft="448.983327736706,344.266662156582">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,63.7333317637445"
+              Start="0,0"
+              End="0,56.2333317637445">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,56.2333317637445" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DSA_transform\juntar ds_incendios.Paths[Sort Output2]"
+          TopLeft="698.633324067295,203.533332434297">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-220.966663073004,99.1333297222851"
+              Start="0,0"
+              End="-220.966663073004,91.6333297222851">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,60.7801956601071" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,60.7801956601071"
+                    Point2="0,64.7801956601071"
+                    Point3="-4,64.7801956601071" />
+                  <mssgle:LineSegment
+                    End="-216.966663073004,64.7801956601071" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-216.966663073004,64.7801956601071"
+                    Point2="-220.966663073004,64.7801956601071"
+                    Point3="-220.966663073004,68.7801956601071" />
+                  <mssgle:LineSegment
+                    End="-220.966663073004,91.6333297222851" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DSA_transform\juntar ds_incendios.Paths[Sort Output1]"
+          TopLeft="449.816661027819,207.866665703059">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,94.7999964535232"
+              Start="0,0"
+              End="0,87.2999964535232">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,87.2999964535232" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DSA_transform\juntar ds_incendios.Paths[Sort Output]"
+          TopLeft="215.966664592921,209.266664168239">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="199.69999640137,93.3999979883428"
+              Start="0,0"
+              End="199.69999640137,85.8999979883428">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,57.0336620517884" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,57.0336620517884"
+                    Point2="0,61.0336620517884"
+                    Point3="4,61.0336620517884" />
+                  <mssgle:LineSegment
+                    End="195.69999640137,61.0336620517884" />
+                  <mssgle:CubicBezierSegment
+                    Point1="195.69999640137,61.0336620517884"
+                    Point2="199.69999640137,61.0336620517884"
+                    Point3="199.69999640137,65.0336620517884" />
+                  <mssgle:LineSegment
+                    End="199.69999640137,85.8999979883428" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DSA_transform\juntar ds_incendios.Paths[OLE DB Source Output2]"
+          TopLeft="697.299990962446,116.633335243165">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,45.2999971911312"
+              Start="0,0"
+              End="0,37.7999971911312">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,37.7999971911312" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DSA_transform\juntar ds_incendios.Paths[OLE DB Source Output1]"
+          TopLeft="451.799994620681,119.033333693445">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,47.2333320096138"
+              Start="0,0"
+              End="0,39.7333320096138">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,39.7333320096138" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DSA_transform\juntar ds_incendios.Paths[OLE DB Source Output]"
+          TopLeft="213.133331510424,119.433332173526">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,48.2333319947127"
+              Start="0,0"
+              End="0,40.7333319947127">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,40.7333319947127" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\DSA_transform\juntar ds_incendios\importar db_incendios_2001">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\DSA_transform\juntar ds_incendios\importar db_incendios_2021">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\DSA_transform\juntar ds_incendios\db_incendios_raw">
     <Properties>
@@ -19220,6 +20443,348 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
         <Name>TableInfoObjectType</Name>
         <Value
           type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\DSA_transform\juntar ds_incendios\importar db_incendios_2011">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\DSA_transform\Limpeza e normalização">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="224,41.6"
+          Id="Package\DSA_transform\Limpeza e normalização\Limpar colunas desnecessarias"
+          TopLeft="101.785714060423,37.1428565893855" />
+        <NodeLayout
+          Size="247.2,41.6"
+          Id="Package\DSA_transform\Limpeza e normalização\Preencher data causa desconhecida"
+          TopLeft="92.9642868622073,202.142854130694" />
+        <NodeLayout
+          Size="170.4,41.6"
+          Id="Package\DSA_transform\Limpeza e normalização\db_incendios_clean"
+          TopLeft="126.916665056927,395.933327385253" />
+        <EdgeLayout
+          Id="Package\DSA_transform\Limpeza e normalização.Paths[OLE DB Source Output]"
+          TopLeft="215.175000461315,78.7428565893855">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,123.399997541309"
+              Start="0,0"
+              End="0,115.899997541309">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,115.899997541309" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DSA_transform\Limpeza e normalização.Paths[Derived Column Output]"
+          TopLeft="214.340475959567,243.742854130694">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,152.190473254559"
+              Start="0,0"
+              End="0,144.690473254559">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,144.690473254559" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\DSA_transform\Limpeza e normalização\Limpar colunas desnecessarias">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\DSA_transform\Limpeza e normalização\db_incendios_clean">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\INCREMENTAL\DF_Transform_2001_2011">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="180,41.6"
+          Id="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1"
+          TopLeft="765.777766587557,613.888879867505" />
+        <NodeLayout
+          Size="129.6,41.6"
+          Id="Package\INCREMENTAL\DF_Transform_2001_2011\Row Count 1"
+          TopLeft="797.333321584596,488.266659652657" />
+        <NodeLayout
+          Size="129.6,41.6"
+          Id="Package\INCREMENTAL\DF_Transform_2001_2011\Row Count"
+          TopLeft="292.16666227993,484.199993136128" />
+        <NodeLayout
+          Size="153.6,41.6"
+          Id="Package\INCREMENTAL\DF_Transform_2001_2011\Conditional Split"
+          TopLeft="533.05554855063,370.888883385173" />
+        <EdgeLayout
+          Id="Package\INCREMENTAL\DF_Transform_2001_2011.Paths[Row Count Output 1]"
+          TopLeft="858.955544086077,529.866659652657">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,84.0222202148479"
+              Start="0,0"
+              End="0,76.5222202148479">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,76.5222202148479" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\INCREMENTAL\DF_Transform_2001_2011.Paths[Registos Validos]"
+          TopLeft="585.588881883963,412.488883385173">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-228.622219604033,71.7111097509548"
+              Start="0,0"
+              End="-228.622219604033,64.2111097509548">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,25.1280177751301" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,25.1280177751301"
+                    Point2="0,29.1280177751301"
+                    Point3="-4,29.1280177751301" />
+                  <mssgle:LineSegment
+                    End="-224.622219604033,29.1280177751301" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-224.622219604033,29.1280177751301"
+                    Point2="-228.622219604033,29.1280177751301"
+                    Point3="-228.622219604033,33.1280177751301" />
+                  <mssgle:LineSegment
+                    End="-228.622219604033,64.2111097509548" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-150.513687927017,34.1280177751301,72.40515625,11.6630859375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\INCREMENTAL\DF_Transform_2001_2011.Paths[Registos Rejeitados]"
+          TopLeft="634.122215217297,412.488883385173">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="228.011106367299,75.7777762674842"
+              Start="0,0"
+              End="228.011106367299,68.2777762674842">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,26.7798390199884" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,26.7798390199884"
+                    Point2="0,30.7798390199884"
+                    Point3="4,30.7798390199884" />
+                  <mssgle:LineSegment
+                    End="224.011106367299,30.7798390199884" />
+                  <mssgle:CubicBezierSegment
+                    Point1="224.011106367299,30.7798390199884"
+                    Point2="228.011106367299,30.7798390199884"
+                    Point3="228.011106367299,34.7798390199884" />
+                  <mssgle:LineSegment
+                    End="228.011106367299,68.2777762674842" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="70.4879750586495,35.7798390199884,87.03515625,11.6630859375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="171.2,41.6"
+          Id="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination"
+          TopLeft="274.166651686861,597.711106954703" />
+        <EdgeLayout
+          Id="Package\INCREMENTAL\DF_Transform_2001_2011.Paths[Row Count Output 11]"
+          TopLeft="358.366656983396,525.799993136128">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,71.9111138185749"
+              Start="0,0"
+              End="0,64.4111138185749">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,64.4111138185749" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="152,41.6"
+          Id="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source"
+          TopLeft="540.833303783504,108.622221466877" />
+        <NodeLayout
+          Size="152.8,41.6"
+          Id="Package\INCREMENTAL\DF_Transform_2001_2011\Derived Column"
+          TopLeft="538.555548303105,238.777774231191" />
+        <EdgeLayout
+          Id="Package\INCREMENTAL\DF_Transform_2001_2011.Paths[OLE DB Source Output]"
+          TopLeft="615.894426043305,150.222221466877">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,88.555552764314"
+              Start="0,0"
+              End="0,81.055552764314">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,81.055552764314" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\INCREMENTAL\DF_Transform_2001_2011.Paths[Derived Column Output]"
+          TopLeft="612.405548426868,280.377774231191">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,90.511109153982"
+              Start="0,0"
+              End="0,83.011109153982">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,83.011109153982" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination 1">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\INCREMENTAL\DF_Transform_2001_2011\OLE DB Source">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">View</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
