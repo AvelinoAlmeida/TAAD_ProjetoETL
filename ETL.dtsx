@@ -7,12 +7,12 @@
   DTS:CreatorName="LAPTOP\LT-AVELINO"
   DTS:DTSID="{2A86A3D5-A46B-450E-BED7-4D8707B39666}"
   DTS:ExecutableType="Microsoft.Package"
-  DTS:LastModifiedProductVersion="17.0.1008.3"
+  DTS:LastModifiedProductVersion="17.0.1010.2"
   DTS:LocaleID="2070"
   DTS:ObjectName="ETL"
   DTS:PackageType="5"
-  DTS:VersionBuild="288"
-  DTS:VersionGUID="{D1903DE4-1A47-41C4-8FCC-EEE6B6864CDE}">
+  DTS:VersionBuild="300"
+  DTS:VersionGUID="{C324DA94-4028-4FE1-8DAC-34E87972114D}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABX7yTQldq/b/QMZx8nqszC/sc2LzlSFB0hOkYcE0H1cAAAAAAOgAAAAAIAACAAAAApUvcKxbwAITwv0db+2mhuZdRd3aT26rLlcjDWLULoRCAAAAAqFSHp6WtqriAfTiWzxPJOT/mbbyJdybpIJUSjQz7XRUAAAACIJn0Rl3qiXGH7qAR40DGRXt4LEX2d/gSMazN+jOXZ3e8rN4iGoTthMGkKAqjKrVnrEg9CNGm2uCmo0MoBp9qc</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA/SVl9y2YNIqKG4yrNkFdBIGby9PDz/6+5af70opBtUgAAAAAOgAAAAAIAACAAAABdrt5JKAp7NgMb89pdU9v2pTtL+3gDJ/dkDikzgNkp6iAAAADf+6JRxaj2o3PfUUvo/IEoqWdrFzk9B4rtJAEj7IaA50AAAAC1lEcyEHAkaujfOTjf4ckTZxB7O0tqPC38C1n20fjErMowK4WjzPS+gZzNYkuqO61YAEloDx453PNJYngEy9HK</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -56,7 +56,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAQTVGgsekFPtYUMZ9wygnz8hWWEoAbkWDWg3jyr/e/uwAAAAAOgAAAAAIAACAAAABumoKvfd1muj24iMMxtxBbKGGF6PqwGwIAiy3R3J6U/yAAAAAk8e/oka5PmFH4eWH06J3VNc4RGA/5IkOUnGEOyUzlekAAAADWE8e821SFVGwHM+1YaiOBaK4jLO4IqPhWy4SPC8PVpAJ66fVCE3S3WIt7W2vRp1fepFyju9logpEIewv4fBQz</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACQGMMJtAYHM4d4N3TLco2aCqLz4Hv3NvsTjxHxPVDrJAAAAAAOgAAAAAIAACAAAACLaJXMM5GlQiiajnP/59pdpN83RiTMKg6yEkkQWk8kBiAAAADAJIzOPSf4048sNqbhrYzne34QqTB7X6IsLTh1FultiEAAAAAE9vghr25FvzDdzvwcLchSrZmZq3wQEgMFOMOzoix8gW02cayGuNtitJPKbJ60lFydCIOE4b2eS0bwN+6GGJQM</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -73,7 +73,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1vKzAmq8CkCUoWh1y/L5dQAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABP3sTk3uS9XOXodcBThi+frRnUeSbsnXQdVG2DHlsjOQAAAAAOgAAAAAIAACAAAAA/FAuGjK92uRaogqQergVHRn9qrgBp2gM6l3eh4tLjzyAAAAA+nv6VSxLLGKv/25QO2gOp6RyUDAXWH1djiQvjMu+DRkAAAAAVzWqsMDCroL8rSk9uq84J4UIHpc9es1LXtHaIljMLsdv8enbDhjQflPhlT6Xgg2DEhzg1B0xHZb6ODdCDh19m</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAATsIltoRqiJapwEQuas1k7S4JZ4dzcI50TI060ZTpTEgAAAAAOgAAAAAIAACAAAADaDmWyt3jFJ7xSAV158NmOaebrphok7K6VQTIicvkV2SAAAAB7ibrGt3PPkT2mNrGQgmKtclOR1kYRaekxC6Na0EC9rkAAAACj3tXV54KgYxHvDfDeo+LVPFs7pkr1BPo+ECuV0oktsXvnemZ9pOEEUsQOgOWS00mDXTw/xRKNJ602AOubz5Jl</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -152,6 +152,23 @@
       <DTS:ObjectData>
         <DTS:ConnectionManager
           DTS:ConnectionString="C:\TAAD\Registos_Incendios_SGIF_2021_2024.xlsx" />
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[taad2025fire.database.windows.net.datawarehouse.taad]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{F01BDAE3-1C70-42A7-BFF8-AFEF6CA1E195}"
+      DTS:ObjectName="taad2025fire.database.windows.net.datawarehouse.taad">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=taad2025fire.database.windows.net;User ID=taad;Initial Catalog=datawarehouse;Provider=MSOLEDBSQL19.1;Persist Security Info=False;Initial File Name=;Server SPN=;Authentication=;Access Token=;Host Name In Certificate=;Server Certificate=;Application Name=SSIS-ETL-{F01BDAE3-1C70-42A7-BFF8-AFEF6CA1E195}taad2025fire.database.windows.net.datawarehouse.taad;Auto Translate=False;">
+          <DTS:Password
+            DTS:Name="Password"
+            Sensitive="1"
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABeWxJ/33UQFkTOXntTzHWeRKWymd8xEOdNut/77HJ9DwAAAAAOgAAAAAIAACAAAAD9r1ubjcB4vKzYGZLEYz2j3VrHP41IaRiucI6R51W+ciAAAABSgUniGLbkDVpP6HwsD+kvgyAzYIDsQxzbEVXkXK+ow0AAAABoEIHm0ZwPyVhdSIT0MOLnJ1YyQfN/zDCbpiNUlJkCOUzRUd0Sy4mPPYaCCKC8P7eGsergDmgQiya89uT1brhe</DTS:Password>
+        </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
@@ -1415,7 +1432,7 @@
           DTS:ExecutableType="Microsoft.ExpressionTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Calcular ETL"
-          DTS:ThreadHint="0">
+          DTS:ThreadHint="1">
           <DTS:Variables />
           <DTS:ObjectData>
             <ExpressionTask
@@ -1430,7 +1447,7 @@
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Execute SQL Task"
-          DTS:ThreadHint="0">
+          DTS:ThreadHint="1">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -1446,7 +1463,7 @@
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Guardar CutOff"
-          DTS:ThreadHint="0">
+          DTS:ThreadHint="1">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -5682,7 +5699,7 @@
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpar DSA_raw"
-          DTS:ThreadHint="0">
+          DTS:ThreadHint="1">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -5744,7 +5761,7 @@
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Execute SQL Task"
-          DTS:ThreadHint="0">
+          DTS:ThreadHint="1">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -17774,7 +17791,7 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Limpar DSA_clean"
-          DTS:ThreadHint="0">
+          DTS:ThreadHint="1">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -19001,6 +19018,494 @@ where [refTable].[distrito] = ? and [refTable].[concelho] = ? and [refTable].[fr
         <SQLTask:SqlTaskData
           SQLTask:Connection="{431DC510-E2BC-4788-9252-327B12A055BE}"
           SQLTask:SqlStatementSource="INSERT INTO audit_cargas_incendios (fonte_origem, linhas_lidas, linhas_validas, linhas_rejeitadas)&#xA;VALUES ('2001-2011', ?, ?, ?);" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Exportar AZURE"
+      DTS:CreationName="Microsoft.Pipeline"
+      DTS:Description="Data Flow Task"
+      DTS:DTSID="{A6267649-B7BA-4BAD-B35F-AB0656C83115}"
+      DTS:ExecutableType="Microsoft.Pipeline"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Exportar AZURE"
+      DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <pipeline
+          version="1">
+          <components>
+            <component
+              refId="Package\Exportar AZURE\Azure SQL"
+              componentClassID="Microsoft.OLEDBDestination"
+              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+              description="OLE DB Destination"
+              name="Azure SQL"
+              usesDispositions="true"
+              version="4">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[dim_causa]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=17.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">3</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepIdentity">true</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Exportar AZURE\Azure SQL.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[taad2025fire.database.windows.net.datawarehouse.taad]"
+                  connectionManagerRefId="Package.ConnectionManagers[taad2025fire.database.windows.net.datawarehouse.taad]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input]"
+                  errorOrTruncationOperation="Insert"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="OLE DB Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].Columns[nk_codcausa]"
+                      cachedDataType="i4"
+                      cachedName="nk_codcausa"
+                      externalMetadataColumnId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].ExternalColumns[nk_codcausa]"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[nk_codcausa]" />
+                    <inputColumn
+                      refId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].Columns[tipo_causa]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="tipo_causa"
+                      externalMetadataColumnId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].ExternalColumns[tipo_causa]"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[tipo_causa]" />
+                    <inputColumn
+                      refId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].Columns[grupo_causa]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="grupo_causa"
+                      externalMetadataColumnId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].ExternalColumns[grupo_causa]"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[grupo_causa]" />
+                    <inputColumn
+                      refId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].Columns[descricao_causa]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="descricao_causa"
+                      externalMetadataColumnId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].ExternalColumns[descricao_causa]"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[descricao_causa]" />
+                    <inputColumn
+                      refId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].Columns[fonte_alerta]"
+                      cachedDataType="wstr"
+                      cachedLength="255"
+                      cachedName="fonte_alerta"
+                      externalMetadataColumnId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].ExternalColumns[fonte_alerta]"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[fonte_alerta]" />
+                    <inputColumn
+                      refId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].Columns[dt_inicio]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="dt_inicio"
+                      externalMetadataColumnId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].ExternalColumns[dt_inicio]"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[dt_inicio]" />
+                    <inputColumn
+                      refId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].Columns[dt_fim]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="dt_fim"
+                      externalMetadataColumnId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].ExternalColumns[dt_fim]"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[dt_fim]" />
+                    <inputColumn
+                      refId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].Columns[fl_ativo]"
+                      cachedDataType="bool"
+                      cachedName="fl_ativo"
+                      externalMetadataColumnId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].ExternalColumns[fl_ativo]"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[fl_ativo]" />
+                    <inputColumn
+                      refId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].Columns[sk_causa]"
+                      cachedDataType="i4"
+                      cachedName="sk_causa"
+                      externalMetadataColumnId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].ExternalColumns[sk_causa]"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[sk_causa]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].ExternalColumns[sk_causa]"
+                      dataType="i4"
+                      name="sk_causa" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].ExternalColumns[nk_codcausa]"
+                      dataType="i4"
+                      name="nk_codcausa" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].ExternalColumns[tipo_causa]"
+                      dataType="wstr"
+                      length="255"
+                      name="tipo_causa" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].ExternalColumns[grupo_causa]"
+                      dataType="wstr"
+                      length="255"
+                      name="grupo_causa" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].ExternalColumns[descricao_causa]"
+                      dataType="wstr"
+                      length="255"
+                      name="descricao_causa" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].ExternalColumns[fonte_alerta]"
+                      dataType="wstr"
+                      length="255"
+                      name="fonte_alerta" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].ExternalColumns[dt_inicio]"
+                      dataType="dbTimeStamp"
+                      name="dt_inicio" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].ExternalColumns[dt_fim]"
+                      dataType="dbTimeStamp"
+                      name="dt_fim" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input].ExternalColumns[fl_ativo]"
+                      dataType="bool"
+                      name="fl_ativo" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Exportar AZURE\Azure SQL.Outputs[OLE DB Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="OLE DB Destination Error Output"
+                  synchronousInputId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Exportar AZURE\Azure SQL.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Exportar AZURE\Azure SQL.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Exportar AZURE\Azure SQL.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Exportar AZURE\Azure SQL.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Exportar AZURE\OLE DB Source"
+              componentClassID="Microsoft.OLEDBSource"
+              contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
+              description="OLE DB Source"
+              name="OLE DB Source"
+              usesDispositions="true"
+              version="7">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[dim_causa]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=17.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
+                <property
+                  dataType="System.String"
+                  description="The variable that contains the SQL command to be executed."
+                  name="SqlCommandVariable"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">0</property>
+                <property
+                  dataType="System.String"
+                  description="The mappings between the parameters in the SQL command and variables."
+                  name="ParameterMapping"></property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Exportar AZURE\OLE DB Source.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[.\TAAD.DSA_ready.sa]"
+                  connectionManagerRefId="Package.ConnectionManagers[.\TAAD.DSA_ready.sa]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <outputs>
+                <output
+                  refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output]"
+                  name="OLE DB Source Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[sk_causa]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[sk_causa]"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[sk_causa]"
+                      name="sk_causa"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[nk_codcausa]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[nk_codcausa]"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[nk_codcausa]"
+                      name="nk_codcausa"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[tipo_causa]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[tipo_causa]"
+                      length="255"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[tipo_causa]"
+                      name="tipo_causa"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[grupo_causa]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[grupo_causa]"
+                      length="255"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[grupo_causa]"
+                      name="grupo_causa"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[descricao_causa]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[descricao_causa]"
+                      length="255"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[descricao_causa]"
+                      name="descricao_causa"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[fonte_alerta]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[fonte_alerta]"
+                      length="255"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[fonte_alerta]"
+                      name="fonte_alerta"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[dt_inicio]"
+                      dataType="dbTimeStamp"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[dt_inicio]"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[dt_inicio]"
+                      name="dt_inicio"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[dt_fim]"
+                      dataType="dbTimeStamp"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[dt_fim]"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[dt_fim]"
+                      name="dt_fim"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[fl_ativo]"
+                      dataType="bool"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[fl_ativo]"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].Columns[fl_ativo]"
+                      name="fl_ativo"
+                      truncationRowDisposition="FailComponent" />
+                  </outputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[sk_causa]"
+                      dataType="i4"
+                      name="sk_causa" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[nk_codcausa]"
+                      dataType="i4"
+                      name="nk_codcausa" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[tipo_causa]"
+                      dataType="wstr"
+                      length="255"
+                      name="tipo_causa" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[grupo_causa]"
+                      dataType="wstr"
+                      length="255"
+                      name="grupo_causa" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[descricao_causa]"
+                      dataType="wstr"
+                      length="255"
+                      name="descricao_causa" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[fonte_alerta]"
+                      dataType="wstr"
+                      length="255"
+                      name="fonte_alerta" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[dt_inicio]"
+                      dataType="dbTimeStamp"
+                      name="dt_inicio" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[dt_fim]"
+                      dataType="dbTimeStamp"
+                      name="dt_fim" />
+                    <externalMetadataColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[fl_ativo]"
+                      dataType="bool"
+                      name="fl_ativo" />
+                  </externalMetadataColumns>
+                </output>
+                <output
+                  refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output]"
+                  isErrorOut="true"
+                  name="OLE DB Source Error Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[sk_causa]"
+                      dataType="i4"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[sk_causa]"
+                      name="sk_causa" />
+                    <outputColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[nk_codcausa]"
+                      dataType="i4"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[nk_codcausa]"
+                      name="nk_codcausa" />
+                    <outputColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[tipo_causa]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[tipo_causa]"
+                      name="tipo_causa" />
+                    <outputColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[grupo_causa]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[grupo_causa]"
+                      name="grupo_causa" />
+                    <outputColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[descricao_causa]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[descricao_causa]"
+                      name="descricao_causa" />
+                    <outputColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[fonte_alerta]"
+                      dataType="wstr"
+                      length="255"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[fonte_alerta]"
+                      name="fonte_alerta" />
+                    <outputColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[dt_inicio]"
+                      dataType="dbTimeStamp"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[dt_inicio]"
+                      name="dt_inicio" />
+                    <outputColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[dt_fim]"
+                      dataType="dbTimeStamp"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[dt_fim]"
+                      name="dt_fim" />
+                    <outputColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[fl_ativo]"
+                      dataType="bool"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[fl_ativo]"
+                      name="fl_ativo" />
+                    <outputColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+          </components>
+          <paths>
+            <path
+              refId="Package\Exportar AZURE.Paths[OLE DB Source Output]"
+              endId="Package\Exportar AZURE\Azure SQL.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\Exportar AZURE\OLE DB Source.Outputs[OLE DB Source Output]" />
+          </paths>
+        </pipeline>
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -21039,7 +21544,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Execute SQL Task"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -21085,6 +21590,14 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 1"
       DTS:To="Package\DSA_load" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 2]"
+      DTS:CreationName=""
+      DTS:DTSID="{F7487503-651B-4B75-8E25-5640E0C639E8}"
+      DTS:From="Package\INCREMENTAL"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 2"
+      DTS:To="Package\Exportar AZURE" />
   </DTS:PrecedenceConstraints>
   <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
 <!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
@@ -21098,6 +21611,14 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
     <LayoutInfo>
       <GraphLayout
         Capacity="64" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="156,41.6"
+          Id="Package\Exportar AZURE"
+          TopLeft="1637.49991053095,939.466660133733" />
+        <NodeLayout
+          Size="203.2,41.6"
+          Id="Package\DF_Transform_2001_2011"
+          TopLeft="158.876112864796,849.285712485455" />
         <NodeLayout
           Size="138.4,41.6"
           Id="Package\DSA_extract\Calcular ETL"
@@ -21367,12 +21888,16 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           TopLeft="545.129840345289,109.492639931243" />
         <NodeLayout
           Size="164.8,41.6"
-          Id="Package\INCREMENTAL\Execute SQL Task"
-          TopLeft="44.1142537122696,20.4380910968974" />
+          Id="Package\Execute SQL Task"
+          TopLeft="172.209445469629,940.285711852653" />
         <NodeLayout
           Size="150.4,41.6"
           Id="Package\INCREMENTAL\Data Flow Task"
           TopLeft="50.0666343394267,105.77142384478" />
+        <NodeLayout
+          Size="164.8,41.6"
+          Id="Package\INCREMENTAL\Execute SQL Task"
+          TopLeft="44.1142537122696,20.4380910968974" />
         <EdgeLayout
           Id="Package\INCREMENTAL.PrecedenceConstraints[Constraint]"
           TopLeft="125.890444025848,62.0380910968974">
@@ -21401,7 +21926,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           PanelSize="992.8,204.8"
           Size="992.8,248"
           Id="Package\INCREMENTAL"
-          TopLeft="542.619017971651,806.123803918125" />
+          TopLeft="545.952351122859,832.123803737324" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
           TopLeft="503.728907138388,447.924434098358">
@@ -21416,6 +21941,28 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
                   Capacity="5">
                   <mssgle:LineSegment
                     End="33.9009332069007,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint1]"
+          TopLeft="257.542779167212,890.885712485455">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,49.3999993671973"
+              Start="0,0"
+              End="0,41.8999993671973">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,41.8999993671973" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -21446,24 +21993,20 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="203.2,41.6"
-          Id="Package\DF_Transform_2001_2011"
-          TopLeft="158.876112864796,849.285712485455" />
         <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint1]"
-          TopLeft="257.542779167212,890.885712485455">
+          Id="Package.PrecedenceConstraints[Constraint 2]"
+          TopLeft="1538.75235112286,958.195231935529">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,49.3999993671973"
+              EndConnector="98.7475594080904,0"
               Start="0,0"
-              End="0,41.8999993671973">
+              End="91.2475594080904,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,41.8999993671973" />
+                    End="91.2475594080904,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -21472,13 +22015,308 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="164.8,41.6"
-          Id="Package\Execute SQL Task"
-          TopLeft="172.209445469629,940.285711852653" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
+  <TaskHost
+    design-time-name="Package\Exportar AZURE">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="152,41.6"
+          Id="Package\Exportar AZURE\OLE DB Source"
+          TopLeft="299.999995529652,132.999998018146" />
+        <NodeLayout
+          Size="128.8,41.6"
+          Id="Package\Exportar AZURE\Azure SQL"
+          TopLeft="307.999995410442,280.999995812774" />
+        <EdgeLayout
+          Id="Package\Exportar AZURE.Paths[OLE DB Source Output]"
+          TopLeft="374.199995470047,174.599998018146">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,106.399997794628"
+              Start="0,0"
+              End="0,98.8999977946282">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,98.8999977946282" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Exportar AZURE\Azure SQL">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Exportar AZURE\OLE DB Source">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\DF_Transform_2001_2011">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="152.8,41.6"
+          Id="Package\DF_Transform_2001_2011\Derived Column"
+          TopLeft="538.555548303105,238.777774231191" />
+        <NodeLayout
+          Size="129.6,41.6"
+          Id="Package\DF_Transform_2001_2011\Row Count 1"
+          TopLeft="797.333321584596,488.266659652657" />
+        <NodeLayout
+          Size="171.2,41.6"
+          Id="Package\DF_Transform_2001_2011\OLE DB Destination"
+          TopLeft="274.166651686861,597.711106954703" />
+        <NodeLayout
+          Size="152,41.6"
+          Id="Package\DF_Transform_2001_2011\OLE DB Source"
+          TopLeft="540.833303783504,108.622221466877" />
+        <NodeLayout
+          Size="129.6,41.6"
+          Id="Package\DF_Transform_2001_2011\Row Count"
+          TopLeft="292.16666227993,484.199993136128" />
+        <NodeLayout
+          Size="180,41.6"
+          Id="Package\DF_Transform_2001_2011\OLE DB Destination 1"
+          TopLeft="765.777766587557,613.888879867505" />
+        <NodeLayout
+          Size="153.6,41.6"
+          Id="Package\DF_Transform_2001_2011\Conditional Split"
+          TopLeft="533.05554855063,370.888883385173" />
+        <EdgeLayout
+          Id="Package\DF_Transform_2001_2011.Paths[Registos Validos]"
+          TopLeft="585.588881883963,412.488883385173">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-228.622219604033,71.7111097509548"
+              Start="0,0"
+              End="-228.622219604033,64.2111097509548">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,25.1280177751301" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,25.1280177751301"
+                    Point2="0,29.1280177751301"
+                    Point3="-4,29.1280177751301" />
+                  <mssgle:LineSegment
+                    End="-224.622219604033,29.1280177751301" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-224.622219604033,29.1280177751301"
+                    Point2="-228.622219604033,29.1280177751301"
+                    Point3="-228.622219604033,33.1280177751301" />
+                  <mssgle:LineSegment
+                    End="-228.622219604033,64.2111097509548" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-150.513687927017,34.1280177751301,72.40515625,11.6630859375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DF_Transform_2001_2011.Paths[Registos Rejeitados]"
+          TopLeft="634.122215217297,412.488883385173">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="228.011106367299,75.7777762674842"
+              Start="0,0"
+              End="228.011106367299,68.2777762674842">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,26.7798390199884" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,26.7798390199884"
+                    Point2="0,30.7798390199884"
+                    Point3="4,30.7798390199884" />
+                  <mssgle:LineSegment
+                    End="224.011106367299,30.7798390199884" />
+                  <mssgle:CubicBezierSegment
+                    Point1="224.011106367299,30.7798390199884"
+                    Point2="228.011106367299,30.7798390199884"
+                    Point3="228.011106367299,34.7798390199884" />
+                  <mssgle:LineSegment
+                    End="228.011106367299,68.2777762674842" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="70.4879750586495,35.7798390199884,87.03515625,11.6630859375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DF_Transform_2001_2011.Paths[OLE DB Source Output]"
+          TopLeft="615.894426043305,150.222221466877">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,88.555552764314"
+              Start="0,0"
+              End="0,81.055552764314">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,81.055552764314" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DF_Transform_2001_2011.Paths[Derived Column Output]"
+          TopLeft="612.405548426868,280.377774231191">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,90.511109153982"
+              Start="0,0"
+              End="0,83.011109153982">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,83.011109153982" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DF_Transform_2001_2011.Paths[Row Count Output 11]"
+          TopLeft="358.366656983396,525.799993136128">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,71.9111138185749"
+              Start="0,0"
+              End="0,64.4111138185749">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,64.4111138185749" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DF_Transform_2001_2011.Paths[Row Count Output 1]"
+          TopLeft="858.955544086077,529.866659652657">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,84.0222202148479"
+              Start="0,0"
+              End="0,76.5222202148479">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,76.5222202148479" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\DF_Transform_2001_2011\OLE DB Destination">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\DF_Transform_2001_2011\OLE DB Source">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">View</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\DF_Transform_2001_2011\OLE DB Destination 1">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
   <TaskHost
     design-time-name="Package\DSA_extract\Importar ds_incendios">
     <LayoutInfo>
@@ -22626,241 +23464,6 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
     </Properties>
   </PipelineComponentMetadata>
   <TaskHost
-    design-time-name="Package\DF_Transform_2001_2011">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
-        <NodeLayout
-          Size="152.8,41.6"
-          Id="Package\DF_Transform_2001_2011\Derived Column"
-          TopLeft="538.555548303105,238.777774231191" />
-        <NodeLayout
-          Size="129.6,41.6"
-          Id="Package\DF_Transform_2001_2011\Row Count 1"
-          TopLeft="797.333321584596,488.266659652657" />
-        <NodeLayout
-          Size="171.2,41.6"
-          Id="Package\DF_Transform_2001_2011\OLE DB Destination"
-          TopLeft="274.166651686861,597.711106954703" />
-        <NodeLayout
-          Size="152,41.6"
-          Id="Package\DF_Transform_2001_2011\OLE DB Source"
-          TopLeft="540.833303783504,108.622221466877" />
-        <NodeLayout
-          Size="129.6,41.6"
-          Id="Package\DF_Transform_2001_2011\Row Count"
-          TopLeft="292.16666227993,484.199993136128" />
-        <NodeLayout
-          Size="180,41.6"
-          Id="Package\DF_Transform_2001_2011\OLE DB Destination 1"
-          TopLeft="765.777766587557,613.888879867505" />
-        <NodeLayout
-          Size="153.6,41.6"
-          Id="Package\DF_Transform_2001_2011\Conditional Split"
-          TopLeft="533.05554855063,370.888883385173" />
-        <EdgeLayout
-          Id="Package\DF_Transform_2001_2011.Paths[Registos Validos]"
-          TopLeft="585.588881883963,412.488883385173">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-228.622219604033,71.7111097509548"
-              Start="0,0"
-              End="-228.622219604033,64.2111097509548">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,25.1280177751301" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,25.1280177751301"
-                    Point2="0,29.1280177751301"
-                    Point3="-4,29.1280177751301" />
-                  <mssgle:LineSegment
-                    End="-224.622219604033,29.1280177751301" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-224.622219604033,29.1280177751301"
-                    Point2="-228.622219604033,29.1280177751301"
-                    Point3="-228.622219604033,33.1280177751301" />
-                  <mssgle:LineSegment
-                    End="-228.622219604033,64.2111097509548" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-150.513687927017,34.1280177751301,72.40515625,11.6630859375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\DF_Transform_2001_2011.Paths[Registos Rejeitados]"
-          TopLeft="634.122215217297,412.488883385173">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="228.011106367299,75.7777762674842"
-              Start="0,0"
-              End="228.011106367299,68.2777762674842">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,26.7798390199884" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,26.7798390199884"
-                    Point2="0,30.7798390199884"
-                    Point3="4,30.7798390199884" />
-                  <mssgle:LineSegment
-                    End="224.011106367299,30.7798390199884" />
-                  <mssgle:CubicBezierSegment
-                    Point1="224.011106367299,30.7798390199884"
-                    Point2="228.011106367299,30.7798390199884"
-                    Point3="228.011106367299,34.7798390199884" />
-                  <mssgle:LineSegment
-                    End="228.011106367299,68.2777762674842" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="70.4879750586495,35.7798390199884,87.03515625,11.6630859375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\DF_Transform_2001_2011.Paths[OLE DB Source Output]"
-          TopLeft="615.894426043305,150.222221466877">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,88.555552764314"
-              Start="0,0"
-              End="0,81.055552764314">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,81.055552764314" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\DF_Transform_2001_2011.Paths[Derived Column Output]"
-          TopLeft="612.405548426868,280.377774231191">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,90.511109153982"
-              Start="0,0"
-              End="0,83.011109153982">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,83.011109153982" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\DF_Transform_2001_2011.Paths[Row Count Output 11]"
-          TopLeft="358.366656983396,525.799993136128">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,71.9111138185749"
-              Start="0,0"
-              End="0,64.4111138185749">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,64.4111138185749" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\DF_Transform_2001_2011.Paths[Row Count Output 1]"
-          TopLeft="858.955544086077,529.866659652657">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,84.0222202148479"
-              Start="0,0"
-              End="0,76.5222202148479">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,76.5222202148479" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\DF_Transform_2001_2011\OLE DB Destination">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\DF_Transform_2001_2011\OLE DB Source">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">View</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\DF_Transform_2001_2011\OLE DB Destination 1">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
     design-time-name="Package\INCREMENTAL\Data Flow Task">
     <LayoutInfo>
       <GraphLayout
@@ -23085,25 +23688,12 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\INCREMENTAL\Data Flow Task\OLE DB Source">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">View</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
     design-time-name="Package\INCREMENTAL\Data Flow Task\Lookup">
     <Properties>
       <Property>
         <Name>OverwriteParamsSQLProp</Name>
         <Value
-          type="q2:boolean">false</Value>
+          type="q2:string">false</Value>
       </Property>
       <Property>
         <Name>UsedTableName</Name>
@@ -23113,10 +23703,23 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
       <Property>
         <Name>TableInfoObjectType</Name>
         <Value
-          type="q4:int">0</Value>
+          type="q4:string">0</Value>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\INCREMENTAL\Data Flow Task\OLE DB Source">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">View</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
