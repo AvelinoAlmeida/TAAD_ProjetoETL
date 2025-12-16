@@ -11,8 +11,8 @@
   DTS:LocaleID="2070"
   DTS:ObjectName="ETL"
   DTS:PackageType="5"
-  DTS:VersionBuild="584"
-  DTS:VersionGUID="{CA80A606-6AC7-426D-981E-9BB36E2EC932}">
+  DTS:VersionBuild="597"
+  DTS:VersionGUID="{94721CD4-8BAB-450E-857F-D3D3B49A7958}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADq1XEIHRqAh0aD3v35q3laciKYd0q4YUVmOEFGkEu9AgAAAAAOgAAAAAIAACAAAAA9HgTh9vZNJuOxPer7kQy3VEcLGaAUqOmchqkOlWN3LSAAAABypx5QSMMQR60EeFFW3VWU34IvT9r4UeZXoN7j7Ik0fkAAAAAO4Zk11YgdOUxypFBiPnnYX3OwKxjXNeQqhgUxQ+gV8EsOGtdZuF4ZYIeEO9yCOH2cLRl6gHJRr3rdaKcwAPhT</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACTDwy4C4oo9+5+lGFhkyPtVg+2GCKz/5P6Ae+5W8lyqwAAAAAOgAAAAAIAACAAAABmvus7Djco4I6KP/EW4kctZhNMA9BRh9KR53yTaFGayyAAAAC/2O+jDaYKJKJ7JqYYMLQroPs5nM5g7BtEypeIC53X/0AAAAD5UsuIP/s7Qr+zHNBNWs6o6D+4CAXJpRvhBlYnilcon7gPzjD519Y6Rr162UPdr00ekaDkDsM5ePTSZwy4uRL4</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -56,7 +56,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACkKnCu9J4pDggRpwNkkZdeupTJpSg3jGTd9hgWamPYFAAAAAAOgAAAAAIAACAAAACzLZkJ9mqSgbVWXCJ5gxf2fAqATjMZuRklUqB+ZCs5EiAAAACjFgso8KzjqhI0kjj3suB/rqtXkHDzvmqvKXUHXLZ730AAAAB6379U5RiG8Bot1YnoPZ3L+e8AOGZCjuKyGYTDu50InJ+/YSze1jcxcghnavHGRXb04O01xbh3zG1DB1tN0Wf2</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADYg4t8hweY1PkyvVf8xkNFGEPlBKIr1nKMfmMnda8GPgAAAAAOgAAAAAIAACAAAAAEAyMsYPcjJuxpPmcHuGxrJJY7bjZJYycQak+4TFXKpyAAAAAYqLqtFTMe4hdCp+ow89VMYlxr2zJ49B/3WhC68MnX0UAAAAByHE0uumhfpdXZk6+xYP3emC8xSYAfTN/epZ/GoHmGRVeHFTDZRURJfDrkmphnqkzzbhKH9lWcgCJlIRPgHZsI</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -73,7 +73,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADlRlNf7vM0oBbB963Thoc2evr74SpHXKu/vbR37JPqAgAAAAAOgAAAAAIAACAAAADgixjksEleaADop1vrbzYwrXDEsLJVFEtvjkt++WS8CCAAAAA1gcCJpuImOoX7H42LIgC9FWq9cGWvx5tIQjRRl0Dg6UAAAABO+egqvxWz+ZHAwA5qlFhMa1j8f6V3uR4FciT7+c5oDfpFnwkadrAG3WQjLfmUDQMx1g3PsbWmQk652aH7TrO6</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABHp2tKdJlAu+S3bXh7Vx8HnL2Vg2ougEhGlZo54ZhcHQAAAAAOgAAAAAIAACAAAADED15GxsSwMdvOo2SvcjweAGqtidfdf+x7yuwi4WFBOiAAAACqpooz2r3+hr6tOnf9ebpErLkMEiwkO6429FH3nSMRjUAAAADrSed8lzDzALb7HGH6oLY24QYF0FDbUqK+gwv17BcdqVyDEnL7mfF/qslG350tzMP+Ndi6uBVH1kSx304SRVmC</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -191,7 +191,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADgzTooNLsFSiXd7a6DacWOzFtFoyB5gFHIQXBXZlO3NgAAAAAOgAAAAAIAACAAAAAT3tfH7yQfmRAcPxaBgmWIMgcYHLO/In8mFvdfBoNfRCAAAAAoUi0qaOAN6H+o8hfT4YrpcvY86KkAIqUwQTUzJFA//EAAAACodOyxXM7fxB/freAOy5Hs61eLBrM3Qt8mGthV5Cj7JY4y074wDZUh+ibngq6cYnB86wLVI3oxlwndEvAQpGDM</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACjfZAJq4uNUIdtlTZPTiFSmW89vczc/wq3opeEOgxSPwAAAAAOgAAAAAIAACAAAAA/5xVsj/ol4CBbnACCl9+boQa8DKR35ZIs8g/8+QWQOyAAAADeqGWwbSJVnBju5499SFYaTGplXf6IoTDe9k5P5PE8YUAAAACtL3c9XvKoiJj/kWRwtbKbR/4zPxrDldPucMq3mo+Jo1zN9Q/DGmU6mJ24DUr1XnYyip/Ncb7D3WpVC9DmByyx</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -235,7 +235,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="TargetETLCutoffTime">
       <DTS:VariableValue
-        DTS:DataType="7">12/16/2025 8:19:48 PM</DTS:VariableValue>
+        DTS:DataType="7">12/16/2025 8:45:11 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -246,7 +246,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="TargetETLCutoffTime_ISO">
       <DTS:VariableValue
-        DTS:DataType="8">2025-12-16 20:19:48</DTS:VariableValue>
+        DTS:DataType="8">2025-12-16 20:45:11</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -257,7 +257,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="TargetETLCutoffTime_Str">
       <DTS:VariableValue
-        DTS:DataType="8">16/12/2025 20:19:48</DTS:VariableValue>
+        DTS:DataType="8">16/12/2025 20:45:11</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -7080,7 +7080,7 @@ FROM dbo.fact_incendios;</property>
                     <property
                       dataType="System.Boolean"
                       description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepIdentity">false</property>
+                      name="FastLoadKeepIdentity">true</property>
                     <property
                       dataType="System.Boolean"
                       description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
@@ -10955,7 +10955,7 @@ where [refTable].[nk_ine_freguesia] = ?</property>
                     <property
                       dataType="System.String"
                       description="Specifies the name of the database object used to open a rowset."
-                      name="OpenRowset">[dim_causa]</property>
+                      name="OpenRowset">[dbo].[dim_causa]</property>
                     <property
                       dataType="System.String"
                       description="Specifies the variable that contains the name of the database object used to open a rowset."
@@ -11110,6 +11110,11 @@ where [refTable].[nk_ine_freguesia] = ?</property>
                           dataType="wstr"
                           length="255"
                           name="descricao_causa" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Azure2021\dim_causa.Inputs[OLE DB Destination Input].ExternalColumns[fonte_alerta]"
+                          dataType="wstr"
+                          length="100"
+                          name="fonte_alerta" />
                       </externalMetadataColumns>
                     </input>
                   </inputs>
@@ -11504,7 +11509,7 @@ where [refTable].[nk_ine_freguesia] = ?</property>
                     <property
                       dataType="System.String"
                       description="Specifies the name of the database object used to open a rowset."
-                      name="OpenRowset">[dim_localizacao]</property>
+                      name="OpenRowset">[dbo].[dim_localizacao]</property>
                     <property
                       dataType="System.String"
                       description="Specifies the variable that contains the name of the database object used to open a rowset."
@@ -11617,6 +11622,22 @@ where [refTable].[nk_ine_freguesia] = ?</property>
                           cachedName="sk_localizacao"
                           externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\dim_localizacao.Inputs[OLE DB Destination Input].ExternalColumns[sk_localizacao]"
                           lineageId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Output].Columns[sk_localizacao]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Azure2021\dim_localizacao.Inputs[OLE DB Destination Input].Columns[latitude]"
+                          cachedDataType="numeric"
+                          cachedName="latitude"
+                          cachedPrecision="9"
+                          cachedScale="6"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\dim_localizacao.Inputs[OLE DB Destination Input].ExternalColumns[latitude]"
+                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Output].Columns[latitude]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Azure2021\dim_localizacao.Inputs[OLE DB Destination Input].Columns[longitude]"
+                          cachedDataType="numeric"
+                          cachedName="longitude"
+                          cachedPrecision="9"
+                          cachedScale="6"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\dim_localizacao.Inputs[OLE DB Destination Input].ExternalColumns[longitude]"
+                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Output].Columns[longitude]" />
                       </inputColumns>
                       <externalMetadataColumns
                         isUsed="True">
@@ -11659,6 +11680,18 @@ where [refTable].[nk_ine_freguesia] = ?</property>
                           refId="Package\DSA_Incremental_2021\Azure2021\dim_localizacao.Inputs[OLE DB Destination Input].ExternalColumns[dt_carga]"
                           dataType="dbTimeStamp2"
                           name="dt_carga" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Azure2021\dim_localizacao.Inputs[OLE DB Destination Input].ExternalColumns[latitude]"
+                          dataType="numeric"
+                          name="latitude"
+                          precision="9"
+                          scale="6" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Azure2021\dim_localizacao.Inputs[OLE DB Destination Input].ExternalColumns[longitude]"
+                          dataType="numeric"
+                          name="longitude"
+                          precision="9"
+                          scale="6" />
                       </externalMetadataColumns>
                     </input>
                   </inputs>
@@ -11936,7 +11969,7 @@ where [refTable].[nk_ine_freguesia] = ?</property>
                     <property
                       dataType="System.String"
                       description="Specifies the name of the database object used to open a rowset."
-                      name="OpenRowset">[DSA_ready].[dim_causa]</property>
+                      name="OpenRowset">[dbo].[dim_causa]</property>
                     <property
                       dataType="System.String"
                       description="Specifies the variable that contains the name of the database object used to open a rowset."
@@ -12065,6 +12098,16 @@ where [refTable].[nk_ine_freguesia] = ?</property>
                           lineageId="Package\DSA_Incremental_2021\Azure2021\local_causa.Outputs[OLE DB Source Output].Columns[descricao_causa]"
                           name="descricao_causa"
                           truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\DSA_Incremental_2021\Azure2021\local_causa.Outputs[OLE DB Source Output].Columns[fonte_alerta]"
+                          dataType="wstr"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\local_causa.Outputs[OLE DB Source Output].ExternalColumns[fonte_alerta]"
+                          length="100"
+                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_causa.Outputs[OLE DB Source Output].Columns[fonte_alerta]"
+                          name="fonte_alerta"
+                          truncationRowDisposition="FailComponent" />
                       </outputColumns>
                       <externalMetadataColumns
                         isUsed="True">
@@ -12107,6 +12150,11 @@ where [refTable].[nk_ine_freguesia] = ?</property>
                           dataType="wstr"
                           length="255"
                           name="descricao_causa" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Azure2021\local_causa.Outputs[OLE DB Source Output].ExternalColumns[fonte_alerta]"
+                          dataType="wstr"
+                          length="100"
+                          name="fonte_alerta" />
                       </externalMetadataColumns>
                     </output>
                     <output
@@ -12142,6 +12190,12 @@ where [refTable].[nk_ine_freguesia] = ?</property>
                           length="255"
                           lineageId="Package\DSA_Incremental_2021\Azure2021\local_causa.Outputs[OLE DB Source Error Output].Columns[descricao_causa]"
                           name="descricao_causa" />
+                        <outputColumn
+                          refId="Package\DSA_Incremental_2021\Azure2021\local_causa.Outputs[OLE DB Source Error Output].Columns[fonte_alerta]"
+                          dataType="wstr"
+                          length="100"
+                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_causa.Outputs[OLE DB Source Error Output].Columns[fonte_alerta]"
+                          name="fonte_alerta" />
                         <outputColumn
                           refId="Package\DSA_Incremental_2021\Azure2021\local_causa.Outputs[OLE DB Source Error Output].Columns[dt_inicio]"
                           dataType="dbDate"
@@ -12948,7 +13002,7 @@ FROM dbo.fact_incendios;</property>
                     <property
                       dataType="System.String"
                       description="Specifies the name of the database object used to open a rowset."
-                      name="OpenRowset">[DSA_ready].[dim_localizacao]</property>
+                      name="OpenRowset">[dbo].[dim_localizacao]</property>
                     <property
                       dataType="System.String"
                       description="Specifies the variable that contains the name of the database object used to open a rowset."
@@ -13077,6 +13131,28 @@ FROM dbo.fact_incendios;</property>
                           lineageId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Output].Columns[dt_carga]"
                           name="dt_carga"
                           truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Output].Columns[latitude]"
+                          dataType="numeric"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Output].ExternalColumns[latitude]"
+                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Output].Columns[latitude]"
+                          name="latitude"
+                          precision="9"
+                          scale="6"
+                          truncationRowDisposition="FailComponent" />
+                        <outputColumn
+                          refId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Output].Columns[longitude]"
+                          dataType="numeric"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Output].ExternalColumns[longitude]"
+                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Output].Columns[longitude]"
+                          name="longitude"
+                          precision="9"
+                          scale="6"
+                          truncationRowDisposition="FailComponent" />
                       </outputColumns>
                       <externalMetadataColumns
                         isUsed="True">
@@ -13086,22 +13162,24 @@ FROM dbo.fact_incendios;</property>
                           name="sk_localizacao" />
                         <externalMetadataColumn
                           refId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Output].ExternalColumns[nk_ine_freguesia]"
-                          dataType="i4"
+                          codePage="1252"
+                          dataType="str"
+                          length="6"
                           name="nk_ine_freguesia" />
                         <externalMetadataColumn
                           refId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Output].ExternalColumns[distrito]"
                           dataType="wstr"
-                          length="100"
+                          length="255"
                           name="distrito" />
                         <externalMetadataColumn
                           refId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Output].ExternalColumns[concelho]"
                           dataType="wstr"
-                          length="100"
+                          length="255"
                           name="concelho" />
                         <externalMetadataColumn
                           refId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Output].ExternalColumns[freguesia]"
                           dataType="wstr"
-                          length="150"
+                          length="255"
                           name="freguesia" />
                         <externalMetadataColumn
                           refId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Output].ExternalColumns[dt_inicio]"
@@ -13119,6 +13197,18 @@ FROM dbo.fact_incendios;</property>
                           refId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Output].ExternalColumns[dt_carga]"
                           dataType="dbTimeStamp2"
                           name="dt_carga" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Output].ExternalColumns[latitude]"
+                          dataType="numeric"
+                          name="latitude"
+                          precision="9"
+                          scale="6" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Output].ExternalColumns[longitude]"
+                          dataType="numeric"
+                          name="longitude"
+                          precision="9"
+                          scale="6" />
                       </externalMetadataColumns>
                     </output>
                     <output
@@ -13133,27 +13223,43 @@ FROM dbo.fact_incendios;</property>
                           name="sk_localizacao" />
                         <outputColumn
                           refId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Error Output].Columns[nk_ine_freguesia]"
-                          dataType="i4"
+                          codePage="1252"
+                          dataType="str"
+                          length="6"
                           lineageId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Error Output].Columns[nk_ine_freguesia]"
                           name="nk_ine_freguesia" />
                         <outputColumn
                           refId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Error Output].Columns[distrito]"
                           dataType="wstr"
-                          length="100"
+                          length="255"
                           lineageId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Error Output].Columns[distrito]"
                           name="distrito" />
                         <outputColumn
                           refId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Error Output].Columns[concelho]"
                           dataType="wstr"
-                          length="100"
+                          length="255"
                           lineageId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Error Output].Columns[concelho]"
                           name="concelho" />
                         <outputColumn
                           refId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Error Output].Columns[freguesia]"
                           dataType="wstr"
-                          length="150"
+                          length="255"
                           lineageId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Error Output].Columns[freguesia]"
                           name="freguesia" />
+                        <outputColumn
+                          refId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Error Output].Columns[latitude]"
+                          dataType="numeric"
+                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Error Output].Columns[latitude]"
+                          name="latitude"
+                          precision="9"
+                          scale="6" />
+                        <outputColumn
+                          refId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Error Output].Columns[longitude]"
+                          dataType="numeric"
+                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Error Output].Columns[longitude]"
+                          name="longitude"
+                          precision="9"
+                          scale="6" />
                         <outputColumn
                           refId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Error Output].Columns[dt_inicio]"
                           dataType="dbDate"
@@ -13278,7 +13384,7 @@ FROM dbo.fact_incendios;</property>
                     <property
                       dataType="System.Boolean"
                       description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepIdentity">false</property>
+                      name="FastLoadKeepIdentity">true</property>
                     <property
                       dataType="System.Boolean"
                       description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
@@ -13304,7 +13410,7 @@ FROM dbo.fact_incendios;</property>
                     <input
                       refId="Package\DSA_Incremental_2021\Dados 2021\incendios_clean.Inputs[OLE DB Destination Input]"
                       errorOrTruncationOperation="Insert"
-                      errorRowDisposition="FailComponent"
+                      errorRowDisposition="RedirectRow"
                       hasSideEffects="true"
                       name="OLE DB Destination Input">
                       <inputColumns>
@@ -13742,13 +13848,13 @@ where [refTable].[Codigo_SGIF] = ?</property>
                               containsID="true"
                               dataType="System.String"
                               description="Derived Column Expression"
-                              name="Expression">[UPPER]([TRIM](#{Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021.Outputs[OLE DB Source Output].Columns[Distrito]}))</property>
+                              name="Expression">(DT_WSTR,255)[SUBSTRING]([TRIM](#{Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021.Outputs[OLE DB Source Output].Columns[Distrito]}),1,255)</property>
                             <property
                               containsID="true"
                               dataType="System.String"
                               description="Derived Column Friendly Expression"
                               expressionType="Notify"
-                              name="FriendlyExpression">UPPER(TRIM(Distrito))</property>
+                              name="FriendlyExpression">(DT_WSTR,255)SUBSTRING(TRIM(Distrito),1,255)</property>
                           </properties>
                         </inputColumn>
                         <inputColumn
@@ -14037,6 +14143,433 @@ where [refTable].[Codigo_SGIF] = ?</property>
                           refId="Package\DSA_Incremental_2021\Dados 2021\Nulos.Outputs[Conditional Split Error Output].Columns[ErrorColumn]"
                           dataType="i4"
                           lineageId="Package\DSA_Incremental_2021\Dados 2021\Nulos.Outputs[Conditional Split Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+                <component
+                  refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena"
+                  componentClassID="Microsoft.OLEDBDestination"
+                  contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+                  description="OLE DB Destination"
+                  name="tabela_quarentena"
+                  usesDispositions="true"
+                  version="4">
+                  <properties>
+                    <property
+                      dataType="System.Int32"
+                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                      name="CommandTimeout">0</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the name of the database object used to open a rowset."
+                      name="OpenRowset">[tabela_quarentena]</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the variable that contains the name of the database object used to open a rowset."
+                      name="OpenRowsetVariable"></property>
+                    <property
+                      dataType="System.String"
+                      description="The SQL command to be executed."
+                      name="SqlCommand"
+                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=17.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the column code page to use when code page information is unavailable from the data source."
+                      name="DefaultCodePage">1252</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Forces the use of the DefaultCodePage property value when describing character data."
+                      name="AlwaysUseDefaultCodePage">false</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the mode used to access the database."
+                      name="AccessMode"
+                      typeConverter="AccessMode">3</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepIdentity">false</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepNulls">false</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                      name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                      name="FastLoadMaxInsertCommitSize">2147483647</property>
+                  </properties>
+                  <connections>
+                    <connection
+                      refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Connections[OleDbConnection]"
+                      connectionManagerID="Package.ConnectionManagers[.\TAAD.DSA_ready.sa]"
+                      connectionManagerRefId="Package.ConnectionManagers[.\TAAD.DSA_ready.sa]"
+                      description="The OLE DB runtime connection used to access the database."
+                      name="OleDbConnection" />
+                  </connections>
+                  <inputs>
+                    <input
+                      refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input]"
+                      errorOrTruncationOperation="Insert"
+                      errorRowDisposition="FailComponent"
+                      hasSideEffects="true"
+                      name="OLE DB Destination Input">
+                      <inputColumns>
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[Codigo_SGIF]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="Codigo_SGIF"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Codigo_SGIF]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021.Outputs[OLE DB Source Output].Columns[Codigo_SGIF]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[DataHoraAlerta]"
+                          cachedDataType="dbTimeStamp"
+                          cachedName="DataHoraAlerta"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[DataHoraAlerta]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021.Outputs[OLE DB Source Output].Columns[DataHoraAlerta]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[Distrito]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="Distrito"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Distrito]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021.Outputs[OLE DB Source Output].Columns[Distrito]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[Concelho]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="Concelho"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Concelho]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021.Outputs[OLE DB Source Output].Columns[Concelho]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[Freguesia]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="Freguesia"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Freguesia]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021.Outputs[OLE DB Source Output].Columns[Freguesia]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[Latitude]"
+                          cachedDataType="r8"
+                          cachedName="Latitude"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Latitude]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021.Outputs[OLE DB Source Output].Columns[Latitude]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[Longitude]"
+                          cachedDataType="r8"
+                          cachedName="Longitude"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Longitude]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021.Outputs[OLE DB Source Output].Columns[Longitude]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[CodCausa]"
+                          cachedDataType="r8"
+                          cachedName="CodCausa"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[CodCausa]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021.Outputs[OLE DB Source Output].Columns[CodCausa]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[TipoCausa]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="TipoCausa"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[TipoCausa]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021.Outputs[OLE DB Source Output].Columns[TipoCausa]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[GrupoCausa]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="GrupoCausa"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[GrupoCausa]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021.Outputs[OLE DB Source Output].Columns[GrupoCausa]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[DescricaoCausa]"
+                          cachedDataType="wstr"
+                          cachedLength="255"
+                          cachedName="DescricaoCausa"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[DescricaoCausa]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021.Outputs[OLE DB Source Output].Columns[DescricaoCausa]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[AreaPov_ha]"
+                          cachedDataType="r8"
+                          cachedName="AreaPov_ha"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[AreaPov_ha]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021.Outputs[OLE DB Source Output].Columns[AreaPov_ha]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[AreaMato_ha]"
+                          cachedDataType="r8"
+                          cachedName="AreaMato_ha"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[AreaMato_ha]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021.Outputs[OLE DB Source Output].Columns[AreaMato_ha]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[AreaAgric_ha]"
+                          cachedDataType="r8"
+                          cachedName="AreaAgric_ha"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[AreaAgric_ha]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021.Outputs[OLE DB Source Output].Columns[AreaAgric_ha]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[AreaTotal_ha]"
+                          cachedDataType="r8"
+                          cachedName="AreaTotal_ha"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[AreaTotal_ha]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021.Outputs[OLE DB Source Output].Columns[AreaTotal_ha]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[Duracao_Horas]"
+                          cachedDataType="r8"
+                          cachedName="Duracao_Horas"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Duracao_Horas]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021.Outputs[OLE DB Source Output].Columns[Duracao_Horas]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[periodo_origem]"
+                          cachedCodepage="1252"
+                          cachedDataType="str"
+                          cachedLength="9"
+                          cachedName="periodo_origem"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[periodo_origem]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021.Outputs[OLE DB Source Output].Columns[periodo_origem]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[DTCCFR]"
+                          cachedDataType="r8"
+                          cachedName="DTCCFR"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[DTCCFR]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021.Outputs[OLE DB Source Output].Columns[DTCCFR]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[DataHoraAlerta_dt2]"
+                          cachedDataType="dbTimeStamp2"
+                          cachedName="DataHoraAlerta_dt2"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[DataHoraAlerta_dt2]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\Tipos de Data.Outputs[Data Conversion Output].Columns[DataHoraAlerta_dt2]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[Latitude_dec]"
+                          cachedDataType="numeric"
+                          cachedName="Latitude_dec"
+                          cachedPrecision="18"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Latitude_dec]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\Tipos de Data.Outputs[Data Conversion Output].Columns[Latitude_dec]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[Longitude_dec]"
+                          cachedDataType="numeric"
+                          cachedName="Longitude_dec"
+                          cachedPrecision="18"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Longitude_dec]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\Tipos de Data.Outputs[Data Conversion Output].Columns[Longitude_dec]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[AreaPov_ha_dec]"
+                          cachedDataType="numeric"
+                          cachedName="AreaPov_ha_dec"
+                          cachedPrecision="18"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[AreaPov_ha_dec]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\Tipos de Data.Outputs[Data Conversion Output].Columns[AreaPov_ha_dec]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[AreaMato_ha_dec]"
+                          cachedDataType="numeric"
+                          cachedName="AreaMato_ha_dec"
+                          cachedPrecision="18"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[AreaMato_ha_dec]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\Tipos de Data.Outputs[Data Conversion Output].Columns[AreaMato_ha_dec]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[AreaAgric_ha_dec]"
+                          cachedDataType="numeric"
+                          cachedName="AreaAgric_ha_dec"
+                          cachedPrecision="18"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[AreaAgric_ha_dec]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\Tipos de Data.Outputs[Data Conversion Output].Columns[AreaAgric_ha_dec]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[AreaTotal_ha_dec]"
+                          cachedDataType="numeric"
+                          cachedName="AreaTotal_ha_dec"
+                          cachedPrecision="18"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[AreaTotal_ha_dec]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\Tipos de Data.Outputs[Data Conversion Output].Columns[AreaTotal_ha_dec]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[Duracao_Horas_dec]"
+                          cachedDataType="numeric"
+                          cachedName="Duracao_Horas_dec"
+                          cachedPrecision="18"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Duracao_Horas_dec]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\Tipos de Data.Outputs[Data Conversion Output].Columns[Duracao_Horas_dec]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[Copy of periodo_origem]"
+                          cachedDataType="wstr"
+                          cachedLength="9"
+                          cachedName="Copy of periodo_origem"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Copy of periodo_origem]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\Tipos de Data.Outputs[Data Conversion Output].Columns[Copy of periodo_origem]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[ErrorCode]"
+                          cachedDataType="i4"
+                          cachedName="ErrorCode"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[ErrorCode]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\incendios_clean.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]" />
+                        <inputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].Columns[ErrorColumn]"
+                          cachedDataType="i4"
+                          cachedName="ErrorColumn"
+                          externalMetadataColumnId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[ErrorColumn]"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\incendios_clean.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]" />
+                      </inputColumns>
+                      <externalMetadataColumns
+                        isUsed="True">
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Codigo_SGIF]"
+                          dataType="wstr"
+                          length="255"
+                          name="Codigo_SGIF" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[DataHoraAlerta]"
+                          dataType="dbTimeStamp"
+                          name="DataHoraAlerta" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Distrito]"
+                          dataType="wstr"
+                          length="255"
+                          name="Distrito" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Concelho]"
+                          dataType="wstr"
+                          length="255"
+                          name="Concelho" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Freguesia]"
+                          dataType="wstr"
+                          length="255"
+                          name="Freguesia" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Latitude]"
+                          dataType="r8"
+                          name="Latitude" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Longitude]"
+                          dataType="r8"
+                          name="Longitude" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[CodCausa]"
+                          dataType="r8"
+                          name="CodCausa" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[TipoCausa]"
+                          dataType="wstr"
+                          length="255"
+                          name="TipoCausa" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[GrupoCausa]"
+                          dataType="wstr"
+                          length="255"
+                          name="GrupoCausa" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[DescricaoCausa]"
+                          dataType="wstr"
+                          length="255"
+                          name="DescricaoCausa" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[AreaPov_ha]"
+                          dataType="r8"
+                          name="AreaPov_ha" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[AreaMato_ha]"
+                          dataType="r8"
+                          name="AreaMato_ha" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[AreaAgric_ha]"
+                          dataType="r8"
+                          name="AreaAgric_ha" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[AreaTotal_ha]"
+                          dataType="r8"
+                          name="AreaTotal_ha" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Duracao_Horas]"
+                          dataType="r8"
+                          name="Duracao_Horas" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[periodo_origem]"
+                          codePage="1252"
+                          dataType="str"
+                          length="9"
+                          name="periodo_origem" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[DTCCFR]"
+                          dataType="r8"
+                          name="DTCCFR" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[DataHoraAlerta_dt2]"
+                          dataType="dbTimeStamp2"
+                          name="DataHoraAlerta_dt2" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Latitude_dec]"
+                          dataType="numeric"
+                          name="Latitude_dec"
+                          precision="18" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Longitude_dec]"
+                          dataType="numeric"
+                          name="Longitude_dec"
+                          precision="18" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[AreaPov_ha_dec]"
+                          dataType="numeric"
+                          name="AreaPov_ha_dec"
+                          precision="18" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[AreaMato_ha_dec]"
+                          dataType="numeric"
+                          name="AreaMato_ha_dec"
+                          precision="18" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[AreaAgric_ha_dec]"
+                          dataType="numeric"
+                          name="AreaAgric_ha_dec"
+                          precision="18" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[AreaTotal_ha_dec]"
+                          dataType="numeric"
+                          name="AreaTotal_ha_dec"
+                          precision="18" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Duracao_Horas_dec]"
+                          dataType="numeric"
+                          name="Duracao_Horas_dec"
+                          precision="18" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[Copy of periodo_origem]"
+                          dataType="wstr"
+                          length="9"
+                          name="Copy of periodo_origem" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[ErrorCode]"
+                          dataType="i4"
+                          name="ErrorCode" />
+                        <externalMetadataColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input].ExternalColumns[ErrorColumn]"
+                          dataType="i4"
+                          name="ErrorColumn" />
+                      </externalMetadataColumns>
+                    </input>
+                  </inputs>
+                  <outputs>
+                    <output
+                      refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Outputs[OLE DB Destination Error Output]"
+                      exclusionGroup="1"
+                      isErrorOut="true"
+                      name="OLE DB Destination Error Output"
+                      synchronousInputId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
                           name="ErrorColumn"
                           specialFlags="2" />
                       </outputColumns>
@@ -14791,6 +15324,11 @@ FROM DSA_raw.vw_incendios_2021;</property>
                   endId="Package\DSA_Incremental_2021\Dados 2021\incendios_clean.Inputs[OLE DB Destination Input]"
                   name="OK"
                   startId="Package\DSA_Incremental_2021\Dados 2021\Nulos.Outputs[OK]" />
+                <path
+                  refId="Package\DSA_Incremental_2021\Dados 2021.Paths[OLE DB Destination Error Output]"
+                  endId="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena.Inputs[OLE DB Destination Input]"
+                  name="OLE DB Destination Error Output"
+                  startId="Package\DSA_Incremental_2021\Dados 2021\incendios_clean.Outputs[OLE DB Destination Error Output]" />
                 <path
                   refId="Package\DSA_Incremental_2021\Dados 2021.Paths[OLE DB Source Output]"
                   endId="Package\DSA_Incremental_2021\Dados 2021\Normalização.Inputs[Derived Column Input]"
@@ -22026,7 +22564,7 @@ FROM dbo.fact_incendios;</property>
                     <property
                       dataType="System.Boolean"
                       description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepIdentity">false</property>
+                      name="FastLoadKeepIdentity">true</property>
                     <property
                       dataType="System.Boolean"
                       description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
@@ -23878,14 +24416,14 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,55.0499999954794"
+              EndConnector="0,55.04999999548"
               Start="0,0"
-              End="0,47.5499999954794">
+              End="0,47.54999999548">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,47.5499999954794" />
+                    End="0,47.54999999548" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -23900,14 +24438,14 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,45.9333327246382"
+              EndConnector="0,45.933332724638"
               Start="0,0"
-              End="0,38.4333327246382">
+              End="0,38.433332724638">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,38.4333327246382" />
+                    End="0,38.433332724638" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -23922,14 +24460,14 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,96.8333323539953"
+              EndConnector="0,96.833332353996"
               Start="0,0"
-              End="0,89.3333323539953">
+              End="0,89.333332353996">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,89.3333323539953" />
+                    End="0,89.333332353996" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -24185,21 +24723,21 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         <NodeLayout
           Size="172,41.6"
           Id="Package\DSA_transform\Normalização Inicial"
-          TopLeft="65.0333002320613,310.771427442715" />
+          TopLeft="65.0333002320613,312.504760763995" />
         <EdgeLayout
           Id="Package\DSA_transform.PrecedenceConstraints[Constraint]"
           TopLeft="150.648776323344,265.304761373552">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,45.4666660691631"
+              EndConnector="0,47.199999390443"
               Start="0,0"
-              End="0,37.9666660691631">
+              End="0,39.699999390443">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,37.9666660691631" />
+                    End="0,39.699999390443" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -24492,27 +25030,15 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
     design-time-name="Package\DSA_Incremental_2011\Azure2011">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="144.8,41.6"
-          Id="Package\DSA_Incremental_2011\Azure2011\fact_incendios"
-          TopLeft="1047.52775773668,347.699995738368" />
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="152.8,41.6"
           Id="Package\DSA_Incremental_2011\Azure2011\dim_localizacao"
           TopLeft="526.527765500187,341.099994322757" />
         <NodeLayout
-          Size="157.6,41.6"
-          Id="Package\DSA_Incremental_2011\Azure2011\local_localização"
-          TopLeft="529.527765455483,115.699999195437" />
-        <NodeLayout
           Size="119.2,41.6"
           Id="Package\DSA_Incremental_2011\Azure2011\local_dia"
           TopLeft="117.527771594762,121.300000625949" />
-        <NodeLayout
-          Size="149.6,41.6"
-          Id="Package\DSA_Incremental_2011\Azure2011\local_incendios"
-          TopLeft="1050.52775769197,130.69999897192" />
         <NodeLayout
           Size="126.4,41.6"
           Id="Package\DSA_Incremental_2011\Azure2011\local_hora"
@@ -24522,6 +25048,14 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           Id="Package\DSA_Incremental_2011\Azure2011\local_causa"
           TopLeft="776.061098560332,119.699999135833" />
         <NodeLayout
+          Size="157.6,41.6"
+          Id="Package\DSA_Incremental_2011\Azure2011\local_localização"
+          TopLeft="529.527765455483,115.699999195437" />
+        <NodeLayout
+          Size="149.6,41.6"
+          Id="Package\DSA_Incremental_2011\Azure2011\local_incendios"
+          TopLeft="1050.52775769197,130.69999897192" />
+        <NodeLayout
           Size="121.6,41.6"
           Id="Package\DSA_Incremental_2011\Azure2011\dim_hora"
           TopLeft="311.527768703937,346.099994248252" />
@@ -24529,6 +25063,10 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           Size="115.2,41.6"
           Id="Package\DSA_Incremental_2011\Azure2011\dim_dia"
           TopLeft="111.527771684169,343.699995797973" />
+        <NodeLayout
+          Size="144.8,41.6"
+          Id="Package\DSA_Incremental_2011\Azure2011\fact_incendios"
+          TopLeft="1047.52775773668,347.699995738368" />
         <NodeLayout
           Size="128.8,41.6"
           Id="Package\DSA_Incremental_2011\Azure2011\dim_causa"
@@ -24552,7 +25090,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -24574,7 +25114,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -24596,7 +25138,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -24618,7 +25162,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -24640,7 +25186,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -24894,9 +25442,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
       <GraphLayout
         Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
-          Size="156,41.6"
-          Id="Package\DSA_Incremental_2011\fact_incendios\Incêndios limpos"
-          TopLeft="60,60" />
+          Size="152.8,41.6"
+          Id="Package\DSA_Incremental_2011\fact_incendios\Derived Column"
+          TopLeft="293.925404545009,67.5058270730803" />
         <NodeLayout
           Size="155.2,41.6"
           Id="Package\DSA_Incremental_2011\fact_incendios\Lookup Dim_Dia"
@@ -24910,29 +25458,29 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           Id="Package\DSA_Incremental_2011\fact_incendios\Duplicados"
           TopLeft="1066.30127892748,344.446149542143" />
         <NodeLayout
-          Size="152.8,41.6"
-          Id="Package\DSA_Incremental_2011\fact_incendios\Derived Column"
-          TopLeft="293.925404545009,67.5058270730803" />
-        <NodeLayout
-          Size="162.4,41.6"
-          Id="Package\DSA_Incremental_2011\fact_incendios\Lookup Dim_Hora"
-          TopLeft="744.301283725656,156.946155703773" />
+          Size="152,41.6"
+          Id="Package\DSA_Incremental_2011\fact_incendios\Tabela de Erros"
+          TopLeft="1048.1345725633,240.179486302611" />
         <NodeLayout
           Size="169.6,41.6"
           Id="Package\DSA_Incremental_2011\fact_incendios\Lookup Dim_Causa"
           TopLeft="732.134617240287,337.11282092751" />
         <NodeLayout
-          Size="156,43.2"
-          Id="Package\DSA_Incremental_2011\fact_incendios\Data Conversion"
-          TopLeft="517.801275312295,64.5794864879143" />
+          Size="162.4,41.6"
+          Id="Package\DSA_Incremental_2011\fact_incendios\Lookup Dim_Hora"
+          TopLeft="744.301283725656,156.946155703773" />
         <NodeLayout
           Size="171.2,41.6"
           Id="Package\DSA_Incremental_2011\fact_incendios\OLE DB Destination"
           TopLeft="1050.3012791659,499.446147232463" />
         <NodeLayout
-          Size="152,41.6"
-          Id="Package\DSA_Incremental_2011\fact_incendios\Tabela de Erros"
-          TopLeft="1048.1345725633,240.179486302611" />
+          Size="156,43.2"
+          Id="Package\DSA_Incremental_2011\fact_incendios\Data Conversion"
+          TopLeft="517.801275312295,64.5794864879143" />
+        <NodeLayout
+          Size="156,41.6"
+          Id="Package\DSA_Incremental_2011\fact_incendios\Incêndios limpos"
+          TopLeft="60,60" />
         <EdgeLayout
           Id="Package\DSA_Incremental_2011\fact_incendios.Paths[OLE DB Source Output]"
           TopLeft="216,84.5529135365402">
@@ -24952,7 +25500,33 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DSA_Incremental_2011\fact_incendios.Paths[Lookup No Match Output1]"
+          TopLeft="922.034617307342,262.779487643782">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="126.099955255955,0"
+              Start="0,0"
+              End="118.599955255955,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="118.599955255955,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="3.49359090922734,5,111.6127734375,11.609375"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -24976,78 +25550,6 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
               BoundingBox="-55.80638671875,47.14531134516,111.6127734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\DSA_Incremental_2011\fact_incendios.Paths[Lookup Match Output]"
-          TopLeft="901.734617240287,361.579485234827">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="164.566661687195,0"
-              Start="0,0"
-              End="157.066661687195,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="157.066661687195,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="30.3419441248475,5,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\DSA_Incremental_2011\fact_incendios.Paths[Lookup Match Output1]"
-          TopLeft="820.884617273814,285.379488984952">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,51.7333319425581"
-              Start="0,0"
-              End="0,44.2333319425581">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,44.2333319425581" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-48.19138671875,16.3119784712791,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\DSA_Incremental_2011\fact_incendios.Paths[Lookup Match Output2]"
-          TopLeft="825.167950516499,198.546155703773">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,45.2333332811789"
-              Start="0,0"
-              End="0,37.7333332811789">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,37.7333332811789" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-48.19138671875,13.0619791405895,96.3827734375,11.609375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -25076,6 +25578,78 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
+          Id="Package\DSA_Incremental_2011\fact_incendios.Paths[Lookup Match Output2]"
+          TopLeft="825.167950516499,198.546155703773">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,45.2333332811789"
+              Start="0,0"
+              End="0,37.7333332811789">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,37.7333332811789" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-48.19138671875,13.0619791405895,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DSA_Incremental_2011\fact_incendios.Paths[Lookup Match Output1]"
+          TopLeft="820.884617273814,285.379488984952">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,51.7333319425581"
+              Start="0,0"
+              End="0,44.2333319425581">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,44.2333319425581" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-48.19138671875,16.3119784712791,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DSA_Incremental_2011\fact_incendios.Paths[Lookup Match Output]"
+          TopLeft="901.734617240287,361.579485234827">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="164.566661687195,0"
+              Start="0,0"
+              End="157.066661687195,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="157.066661687195,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="30.3419441248475,5,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
           Id="Package\DSA_Incremental_2011\fact_incendios.Paths[Derived Column Output]"
           TopLeft="446.725404545009,87.2426567804973">
           <EdgeLayout.Curve>
@@ -25094,7 +25668,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -25116,30 +25692,8 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\DSA_Incremental_2011\fact_incendios.Paths[Lookup No Match Output1]"
-          TopLeft="922.034617307342,262.779487643782">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="126.099955255955,0"
-              Start="0,0"
-              End="118.599955255955,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="118.599955255955,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="3.49359090922734,5,111.6127734375,11.609375"
+              BoundingBox="0,0,0,0"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -25150,7 +25704,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
     design-time-name="Package\DSA_Incremental_2021\Azure2021">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="144.8,41.6"
           Id="Package\DSA_Incremental_2021\Azure2021\fact_incendios"
@@ -25192,30 +25746,6 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           Id="Package\DSA_Incremental_2021\Azure2021\dim_causa"
           TopLeft="758.394432156919,342.433327636222" />
         <EdgeLayout
-          Id="Package\DSA_Incremental_2021\Azure2021.Paths[OLE DB Source Output]"
-          TopLeft="1159.62775716298,157.299999195437">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,175.399996766448"
-              Start="0,0"
-              End="0,167.899996766448">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,167.899996766448" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
           Id="Package\DSA_Incremental_2021\Azure2021.Paths[OLE DB Source Output4]"
           TopLeft="173.127771639465,162.900000625949">
           <EdgeLayout.Curve>
@@ -25234,9 +25764,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -25258,9 +25786,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -25282,9 +25808,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -25306,19 +25830,107 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DSA_Incremental_2021\Azure2021.Paths[OLE DB Source Output]"
+          TopLeft="1159.62775716298,157.299999195437">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,175.399996766448"
+              Start="0,0"
+              End="0,167.899996766448">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,167.899996766448" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\DSA_Incremental_2021\Azure2021\dim_localizacao">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\DSA_Incremental_2021\Azure2021\local_localização">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\DSA_Incremental_2021\Azure2021\local_causa">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\DSA_Incremental_2021\Azure2021\dim_causa">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
   <TaskHost
     design-time-name="Package\DSA_Incremental_2021\Dados 2021">
     <LayoutInfo>
       <GraphLayout
         Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="142.4,41.6"
+          Id="Package\DSA_Incremental_2021\Dados 2021\Normalização"
+          TopLeft="314.980764537191,212.587908920105" />
+        <NodeLayout
+          Size="169.6,41.6"
+          Id="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021"
+          TopLeft="306.837907515671,121.23076742429" />
+        <NodeLayout
+          Size="104.8,41.6"
+          Id="Package\DSA_Incremental_2021\Dados 2021\Nulos"
+          TopLeft="327.730764347201,512.421237785574" />
+        <NodeLayout
+          Size="97.6,41.6"
+          Id="Package\DSA_Incremental_2021\Dados 2021\Join"
+          TopLeft="336.59614883048,407.780213703821" />
         <NodeLayout
           Size="143.2,41.6"
           Id="Package\DSA_Incremental_2021\Dados 2021\Tipos de Data"
@@ -25326,23 +25938,31 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         <NodeLayout
           Size="152.8,41.6"
           Id="Package\DSA_Incremental_2021\Dados 2021\incendios_clean"
-          TopLeft="303.71428118859,648.238085578595" />
-        <NodeLayout
-          Size="142.4,41.6"
-          Id="Package\DSA_Incremental_2021\Dados 2021\Normalização"
-          TopLeft="314.980764537191,212.587908920105" />
-        <NodeLayout
-          Size="97.6,41.6"
-          Id="Package\DSA_Incremental_2021\Dados 2021\Join"
-          TopLeft="336.59614883048,407.780213703821" />
-        <NodeLayout
-          Size="104.8,41.6"
-          Id="Package\DSA_Incremental_2021\Dados 2021\Nulos"
-          TopLeft="327.730764347201,512.421237785574" />
-        <NodeLayout
-          Size="169.6,41.6"
-          Id="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021"
-          TopLeft="306.837907515671,121.23076742429" />
+          TopLeft="304.547614476392,651.704752221155" />
+        <EdgeLayout
+          Id="Package\DSA_Incremental_2021\Dados 2021.Paths[OK]"
+          TopLeft="380.539189411796,554.021237785574">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,97.6835144355808"
+              Start="0,0"
+              End="0,90.1835144355808">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,90.1835144355808" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-7.3964453125,40.3051361240404,14.792890625,9.5732421875"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <EdgeLayout
           Id="Package\DSA_Incremental_2021\Dados 2021.Paths[Lookup No Match Output]"
           TopLeft="382.76345658884,449.380213703821">
@@ -25390,30 +26010,6 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\DSA_Incremental_2021\Dados 2021.Paths[OK]"
-          TopLeft="380.122522767896,554.021237785574">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,94.216847793021"
-              Start="0,0"
-              End="0,86.716847793021">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,86.716847793021" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-7.3964453125,38.5718028027605,14.792890625,9.5732421875"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
           Id="Package\DSA_Incremental_2021\Dados 2021.Paths[Data Conversion Output]"
           TopLeft="386.030123349881,357.43790738156">
           <EdgeLayout.Curve>
@@ -25457,6 +26053,34 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <NodeLayout
+          Size="164.8,41.6"
+          Id="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena"
+          TopLeft="698.333295178084,649.133328819341" />
+        <EdgeLayout
+          Id="Package\DSA_Incremental_2021\Dados 2021.Paths[OLE DB Destination Error Output]"
+          TopLeft="457.347614476392,671.219040520248">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="240.985680701692,0"
+              Start="0,0"
+              End="233.485680701692,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="233.485680701692,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="43.533934100846,5,146.4178125,11.43359375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
@@ -25487,41 +26111,41 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
       <GraphLayout
         Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
-          Size="162.4,41.6"
-          Id="Package\DSA_Incremental_2021\fact_incendios\Lookup Dim_Hora"
-          TopLeft="744.301283725656,156.946155703773" />
-        <NodeLayout
-          Size="156,43.2"
-          Id="Package\DSA_Incremental_2021\fact_incendios\Data Conversion"
-          TopLeft="517.801275312295,64.5794864879143" />
-        <NodeLayout
-          Size="194.4,41.6"
-          Id="Package\DSA_Incremental_2021\fact_incendios\Lookup Dim_Localizacao"
-          TopLeft="727.634617307342,243.779488984952" />
-        <NodeLayout
           Size="152.8,41.6"
           Id="Package\DSA_Incremental_2021\fact_incendios\Derived Column"
           TopLeft="293.925404545009,67.5058270730803" />
-        <NodeLayout
-          Size="169.6,41.6"
-          Id="Package\DSA_Incremental_2021\fact_incendios\Lookup Dim_Causa"
-          TopLeft="732.134617240287,337.11282092751" />
-        <NodeLayout
-          Size="152,41.6"
-          Id="Package\DSA_Incremental_2021\fact_incendios\Tabela de Erros"
-          TopLeft="1048.1345725633,240.179486302611" />
         <NodeLayout
           Size="155.2,41.6"
           Id="Package\DSA_Incremental_2021\fact_incendios\Lookup Dim_Dia"
           TopLeft="743.46795040474,65.6128231154982" />
         <NodeLayout
+          Size="194.4,41.6"
+          Id="Package\DSA_Incremental_2021\fact_incendios\Lookup Dim_Localizacao"
+          TopLeft="727.634617307342,243.779488984952" />
+        <NodeLayout
           Size="129.6,41.6"
           Id="Package\DSA_Incremental_2021\fact_incendios\Duplicados"
           TopLeft="1066.30127892748,344.446149542143" />
         <NodeLayout
+          Size="152,41.6"
+          Id="Package\DSA_Incremental_2021\fact_incendios\Tabela de Erros"
+          TopLeft="1048.1345725633,240.179486302611" />
+        <NodeLayout
+          Size="169.6,41.6"
+          Id="Package\DSA_Incremental_2021\fact_incendios\Lookup Dim_Causa"
+          TopLeft="732.134617240287,337.11282092751" />
+        <NodeLayout
+          Size="162.4,41.6"
+          Id="Package\DSA_Incremental_2021\fact_incendios\Lookup Dim_Hora"
+          TopLeft="744.301283725656,156.946155703773" />
+        <NodeLayout
           Size="171.2,41.6"
           Id="Package\DSA_Incremental_2021\fact_incendios\OLE DB Destination"
           TopLeft="1050.3012791659,499.446147232463" />
+        <NodeLayout
+          Size="156,43.2"
+          Id="Package\DSA_Incremental_2021\fact_incendios\Data Conversion"
+          TopLeft="517.801275312295,64.5794864879143" />
         <NodeLayout
           Size="156,41.6"
           Id="Package\DSA_Incremental_2021\fact_incendios\Incêndios limpos"
@@ -25545,9 +26169,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -25575,50 +26197,26 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\DSA_Incremental_2021\fact_incendios.Paths[Data Conversion Output]"
-          TopLeft="673.801275312295,86.2961548017062">
+          Id="Package\DSA_Incremental_2021\fact_incendios.Paths[Lookup No Match Output]"
+          TopLeft="1133.50127904669,386.046149542143">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="69.6666750924446,0"
+              EndConnector="0,113.39999769032"
               Start="0,0"
-              End="62.1666750924446,0">
+              End="0,105.89999769032">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="62.1666750924446,0" />
+                    End="0,105.89999769032" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\DSA_Incremental_2021\fact_incendios.Paths[Derived Column Output]"
-          TopLeft="446.725404545009,87.2426567804973">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="71.0758707672861,0"
-              Start="0,0"
-              End="63.5758707672861,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="63.5758707672861,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
+              BoundingBox="-55.80638671875,47.14531134516,111.6127734375,11.609375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -25719,27 +26317,47 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\DSA_Incremental_2021\fact_incendios.Paths[Lookup No Match Output]"
-          TopLeft="1133.50127904669,386.046149542143">
+          Id="Package\DSA_Incremental_2021\fact_incendios.Paths[Derived Column Output]"
+          TopLeft="446.725404545009,87.2426567804973">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,113.39999769032"
+              EndConnector="71.0758707672861,0"
               Start="0,0"
-              End="0,105.89999769032">
+              End="63.5758707672861,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,105.89999769032" />
+                    End="63.5758707672861,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-55.80638671875,47.14531134516,111.6127734375,11.609375"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DSA_Incremental_2021\fact_incendios.Paths[Data Conversion Output]"
+          TopLeft="673.801275312295,86.2961548017062">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="69.6666750924446,0"
+              Start="0,0"
+              End="62.1666750924446,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="62.1666750924446,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -25751,9 +26369,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
       <GraphLayout
         Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
-          Size="156,41.6"
-          Id="Package\DSA_load\Povoar tabela_factos\Incêndios limpos"
-          TopLeft="17.6987058137289,55.5538453914619" />
+          Size="152.8,41.6"
+          Id="Package\DSA_load\Povoar tabela_factos\Derived Column"
+          TopLeft="251.624110358738,63.0596724645422" />
         <NodeLayout
           Size="155.2,41.6"
           Id="Package\DSA_load\Povoar tabela_factos\Lookup Dim_Dia"
@@ -25767,25 +26385,29 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           Id="Package\DSA_load\Povoar tabela_factos\Duplicados"
           TopLeft="1023.99998474121,339.999994933605" />
         <NodeLayout
-          Size="152.8,41.6"
-          Id="Package\DSA_load\Povoar tabela_factos\Derived Column"
-          TopLeft="251.624110358738,63.0596724645422" />
-        <NodeLayout
-          Size="162.4,41.6"
-          Id="Package\DSA_load\Povoar tabela_factos\Lookup Dim_Hora"
-          TopLeft="701.999989539385,152.500001095235" />
+          Size="152,41.6"
+          Id="Package\DSA_load\Povoar tabela_factos\Tabela de Erros"
+          TopLeft="1005.83327837703,235.733331694073" />
         <NodeLayout
           Size="169.6,41.6"
           Id="Package\DSA_load\Povoar tabela_factos\Lookup Dim_Causa"
           TopLeft="689.833323054016,332.666666318972" />
         <NodeLayout
-          Size="156,43.2"
-          Id="Package\DSA_load\Povoar tabela_factos\Data Conversion"
-          TopLeft="475.499981126024,60.1333318793762" />
+          Size="162.4,41.6"
+          Id="Package\DSA_load\Povoar tabela_factos\Lookup Dim_Hora"
+          TopLeft="701.999989539385,152.500001095235" />
         <NodeLayout
           Size="171.2,41.6"
           Id="Package\DSA_load\Povoar tabela_factos\OLE DB Destination"
           TopLeft="1007.99998497963,494.999992623925" />
+        <NodeLayout
+          Size="156,43.2"
+          Id="Package\DSA_load\Povoar tabela_factos\Data Conversion"
+          TopLeft="475.499981126024,60.1333318793762" />
+        <NodeLayout
+          Size="156,41.6"
+          Id="Package\DSA_load\Povoar tabela_factos\Incêndios limpos"
+          TopLeft="17.6987058137289,55.5538453914619" />
         <EdgeLayout
           Id="Package\DSA_load\Povoar tabela_factos.Paths[OLE DB Source Output]"
           TopLeft="173.698705813729,80.1067589280021">
@@ -25805,7 +26427,33 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DSA_load\Povoar tabela_factos.Paths[Lookup No Match Output1]"
+          TopLeft="879.733323121071,258.333333035244">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="126.099955255955,0"
+              Start="0,0"
+              End="118.599955255955,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="118.599955255955,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="3.49359090922734,5,111.6127734375,11.609375"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -25947,7 +26595,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -25969,34 +26619,8 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="152,41.6"
-          Id="Package\DSA_load\Povoar tabela_factos\Tabela de Erros"
-          TopLeft="1005.83327837703,235.733331694073" />
-        <EdgeLayout
-          Id="Package\DSA_load\Povoar tabela_factos.Paths[Lookup No Match Output1]"
-          TopLeft="879.733323121071,258.333333035244">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="126.099955255955,0"
-              Start="0,0"
-              End="118.599955255955,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="118.599955255955,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="3.49359090922734,5,111.6127734375,11.609375"
+              BoundingBox="0,0,0,0"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -26161,27 +26785,15 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
     design-time-name="Package\DSA_load\Povoar_Azure_2001">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="144.8,41.6"
-          Id="Package\DSA_load\Povoar_Azure_2001\fact_incendios"
-          TopLeft="1079.99998390675,388.999994203448" />
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="152.8,41.6"
           Id="Package\DSA_load\Povoar_Azure_2001\dim_localizacao"
           TopLeft="521.999992221594,397.39999256432" />
         <NodeLayout
-          Size="157.6,41.6"
-          Id="Package\DSA_load\Povoar_Azure_2001\local_localização"
-          TopLeft="524.99999217689,171.999997437" />
-        <NodeLayout
           Size="119.2,41.6"
           Id="Package\DSA_load\Povoar_Azure_2001\local_dia"
           TopLeft="112.999998316169,177.599998867512" />
-        <NodeLayout
-          Size="149.6,41.6"
-          Id="Package\DSA_load\Povoar_Azure_2001\local_incendios"
-          TopLeft="1082.99998386204,171.999997437" />
         <NodeLayout
           Size="126.4,41.6"
           Id="Package\DSA_load\Povoar_Azure_2001\local_hora"
@@ -26191,6 +26803,14 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           Id="Package\DSA_load\Povoar_Azure_2001\local_causa"
           TopLeft="749.533325609565,175.999997377396" />
         <NodeLayout
+          Size="157.6,41.6"
+          Id="Package\DSA_load\Povoar_Azure_2001\local_localização"
+          TopLeft="524.99999217689,171.999997437" />
+        <NodeLayout
+          Size="149.6,41.6"
+          Id="Package\DSA_load\Povoar_Azure_2001\local_incendios"
+          TopLeft="1082.99998386204,171.999997437" />
+        <NodeLayout
           Size="121.6,41.6"
           Id="Package\DSA_load\Povoar_Azure_2001\dim_hora"
           TopLeft="306.999995425344,402.399992489815" />
@@ -26198,6 +26818,10 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           Size="115.2,41.6"
           Id="Package\DSA_load\Povoar_Azure_2001\dim_dia"
           TopLeft="106.999998405576,399.999994039536" />
+        <NodeLayout
+          Size="144.8,41.6"
+          Id="Package\DSA_load\Povoar_Azure_2001\fact_incendios"
+          TopLeft="1079.99998390675,388.999994203448" />
         <NodeLayout
           Size="128.8,41.6"
           Id="Package\DSA_load\Povoar_Azure_2001\dim_causa"
@@ -26221,7 +26845,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -26243,7 +26869,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -26265,7 +26893,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -26287,7 +26917,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -26309,7 +26941,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -26457,7 +27091,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         <NodeLayout
           Size="145.6,41.6"
           Id="Package\DSA_transform\Normalização Inicial\tipos de dados"
-          TopLeft="193.7499971129,252.749996233731" />
+          TopLeft="193.7499971129,254.749996203929" />
         <NodeLayout
           Size="140,41.6"
           Id="Package\DSA_transform\Normalização Inicial\normalização"
@@ -26550,14 +27184,14 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,59.916665140175"
+              EndConnector="0,61.9166651103727"
               Start="0,0"
-              End="0,52.416665140175">
+              End="0,54.4166651103727">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,52.416665140175" />
+                    End="0,54.4166651103727" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -26568,18 +27202,18 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\DSA_transform\Normalização Inicial.Paths[Data Conversion Output]"
-          TopLeft="269.032139754242,294.349996233731">
+          TopLeft="269.032139754242,296.349996203929">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,44.0785701518613"
+              EndConnector="0,42.0785701816633"
               Start="0,0"
-              End="0,36.5785701518613">
+              End="0,34.5785701816633">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,36.5785701518613" />
+                    End="0,34.5785701816633" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -26637,6 +27271,19 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
