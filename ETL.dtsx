@@ -11,8 +11,8 @@
   DTS:LocaleID="2070"
   DTS:ObjectName="ETL"
   DTS:PackageType="5"
-  DTS:VersionBuild="597"
-  DTS:VersionGUID="{94721CD4-8BAB-450E-857F-D3D3B49A7958}">
+  DTS:VersionBuild="602"
+  DTS:VersionGUID="{E7075A08-8FC6-4D55-9DD7-95CD68AA93B6}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACTDwy4C4oo9+5+lGFhkyPtVg+2GCKz/5P6Ae+5W8lyqwAAAAAOgAAAAAIAACAAAABmvus7Djco4I6KP/EW4kctZhNMA9BRh9KR53yTaFGayyAAAAC/2O+jDaYKJKJ7JqYYMLQroPs5nM5g7BtEypeIC53X/0AAAAD5UsuIP/s7Qr+zHNBNWs6o6D+4CAXJpRvhBlYnilcon7gPzjD519Y6Rr162UPdr00ekaDkDsM5ePTSZwy4uRL4</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACRuNo7cFoTNCeI4h+qgqW8wUuUp1Xzy4IWf6Jm7kB36wAAAAAOgAAAAAIAACAAAABJcpZRs5myW3i8P24c1iGABrQra3iKHszlgjWiL6c98iAAAAB/4b1RHxPeUi7u28jdAwovpIHNHazW6RI2algNZKGhs0AAAAChvBVpSwEAkyCeN2kG+SsNlNHkCOjndE478mK5cMN1qtUFpzalPKbHAdA7BdQCShl7P8hDY3OUc/Uee5Zs100z</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -56,7 +56,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADYg4t8hweY1PkyvVf8xkNFGEPlBKIr1nKMfmMnda8GPgAAAAAOgAAAAAIAACAAAAAEAyMsYPcjJuxpPmcHuGxrJJY7bjZJYycQak+4TFXKpyAAAAAYqLqtFTMe4hdCp+ow89VMYlxr2zJ49B/3WhC68MnX0UAAAAByHE0uumhfpdXZk6+xYP3emC8xSYAfTN/epZ/GoHmGRVeHFTDZRURJfDrkmphnqkzzbhKH9lWcgCJlIRPgHZsI</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADPf+9PT2f+xawCjSk+JO3KCJg3IGjBQTfntemL0fIjzQAAAAAOgAAAAAIAACAAAAAuAaZaeaN8IL9JotpFLHJcozPYF7EfGdrDIOOVr35LqSAAAADueELwf37GClIwN3P4QT8HrAEZ4K5Rn+pPfMelENKUW0AAAAD+9GQgG3DGPMTUoqCHjMUzmxoWtG4Hxi0rWrP6hcLDjBkGDa1sdUJ85yk6Uru6IU/1XVYWoQ36Xidmja9XVXPj</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -73,7 +73,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABHp2tKdJlAu+S3bXh7Vx8HnL2Vg2ougEhGlZo54ZhcHQAAAAAOgAAAAAIAACAAAADED15GxsSwMdvOo2SvcjweAGqtidfdf+x7yuwi4WFBOiAAAACqpooz2r3+hr6tOnf9ebpErLkMEiwkO6429FH3nSMRjUAAAADrSed8lzDzALb7HGH6oLY24QYF0FDbUqK+gwv17BcdqVyDEnL7mfF/qslG350tzMP+Ndi6uBVH1kSx304SRVmC</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACdxw0teyAs2ivhac8iOGaHe+2H5ltxGBWdiflTzwBt5gAAAAAOgAAAAAIAACAAAABELd6UdJgirVvl8Lb5coV25NkKoVmF235RwX0mq3b6ICAAAAB+dR1Ergd54sywiPwUFccNRoGFSDhMsXwNCd7sbPjjVkAAAABHz9zqYXJoVA83wwRjMorJHSsWgHW1JeRXQ39BObjPkU+4IR04NM9AonhC9qNpDinX/O5I5Cw6lkGTSvp7uswC</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -191,7 +191,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACjfZAJq4uNUIdtlTZPTiFSmW89vczc/wq3opeEOgxSPwAAAAAOgAAAAAIAACAAAAA/5xVsj/ol4CBbnACCl9+boQa8DKR35ZIs8g/8+QWQOyAAAADeqGWwbSJVnBju5499SFYaTGplXf6IoTDe9k5P5PE8YUAAAACtL3c9XvKoiJj/kWRwtbKbR/4zPxrDldPucMq3mo+Jo1zN9Q/DGmU6mJ24DUr1XnYyip/Ncb7D3WpVC9DmByyx</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADc2DEoVINMg5Za+PzyJTz+4yvDzN6Wx+BvhVeCxMwvEQAAAAAOgAAAAAIAACAAAABFT1t7wFE2uOtSwTEKe5hIPNs+tFzeqsXGz26CncMEbCAAAABTZC8XKB8jpUVVo0naiYn48Bxj4j9l5hqyl9WCp9jvUEAAAABXPC4CMf712izs0j5xHHDVrlqcWFcH6XN2pq4qarUr4cYFaNwD1OsRAMx3DtgIUIDoSuH0byGQzfb/x2u+Bc2z</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -235,7 +235,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="TargetETLCutoffTime">
       <DTS:VariableValue
-        DTS:DataType="7">12/16/2025 8:45:11 PM</DTS:VariableValue>
+        DTS:DataType="7">12/16/2025 9:59:26 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -246,7 +246,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="TargetETLCutoffTime_ISO">
       <DTS:VariableValue
-        DTS:DataType="8">2025-12-16 20:45:11</DTS:VariableValue>
+        DTS:DataType="8">2025-12-16 21:59:26</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -257,7 +257,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="TargetETLCutoffTime_Str">
       <DTS:VariableValue
-        DTS:DataType="8">16/12/2025 20:45:11</DTS:VariableValue>
+        DTS:DataType="8">16/12/2025 21:59:26</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -4840,356 +4840,6 @@
                   </outputs>
                 </component>
                 <component
-                  refId="Package\DSA_Incremental_2011\Azure2011\dim_dia"
-                  componentClassID="Microsoft.OLEDBDestination"
-                  contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
-                  description="OLE DB Destination"
-                  name="dim_dia"
-                  usesDispositions="true"
-                  version="4">
-                  <properties>
-                    <property
-                      dataType="System.Int32"
-                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                      name="CommandTimeout">0</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the name of the database object used to open a rowset."
-                      name="OpenRowset">[dim_dia]</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the variable that contains the name of the database object used to open a rowset."
-                      name="OpenRowsetVariable"></property>
-                    <property
-                      dataType="System.String"
-                      description="The SQL command to be executed."
-                      name="SqlCommand"
-                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=17.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies the column code page to use when code page information is unavailable from the data source."
-                      name="DefaultCodePage">1252</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Forces the use of the DefaultCodePage property value when describing character data."
-                      name="AlwaysUseDefaultCodePage">false</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies the mode used to access the database."
-                      name="AccessMode"
-                      typeConverter="AccessMode">3</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepIdentity">false</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepNulls">false</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
-                      name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
-                      name="FastLoadMaxInsertCommitSize">2147483647</property>
-                  </properties>
-                  <connections>
-                    <connection
-                      refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Connections[OleDbConnection]"
-                      connectionManagerID="Package.ConnectionManagers[taad2025fire.database.windows.net.datawarehouse.taad]"
-                      connectionManagerRefId="Package.ConnectionManagers[taad2025fire.database.windows.net.datawarehouse.taad]"
-                      description="The OLE DB runtime connection used to access the database."
-                      name="OleDbConnection" />
-                  </connections>
-                  <inputs>
-                    <input
-                      refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input]"
-                      errorOrTruncationOperation="Insert"
-                      errorRowDisposition="FailComponent"
-                      hasSideEffects="true"
-                      name="OLE DB Destination Input">
-                      <inputColumns>
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].Columns[sk_dia]"
-                          cachedDataType="i4"
-                          cachedName="sk_dia"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[sk_dia]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[sk_dia]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].Columns[data]"
-                          cachedDataType="dbDate"
-                          cachedName="data"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[data]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[data]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].Columns[dia]"
-                          cachedDataType="ui1"
-                          cachedName="dia"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[dia]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[dia]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].Columns[mes]"
-                          cachedDataType="ui1"
-                          cachedName="mes"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[mes]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[mes]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].Columns[trimestre]"
-                          cachedDataType="ui1"
-                          cachedName="trimestre"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[trimestre]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[trimestre]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].Columns[semestre]"
-                          cachedDataType="ui1"
-                          cachedName="semestre"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[semestre]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[semestre]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].Columns[ano]"
-                          cachedDataType="i2"
-                          cachedName="ano"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[ano]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[ano]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].Columns[dia_semana]"
-                          cachedDataType="ui1"
-                          cachedName="dia_semana"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[dia_semana]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[dia_semana]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].Columns[is_fim_semana]"
-                          cachedDataType="bool"
-                          cachedName="is_fim_semana"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[is_fim_semana]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[is_fim_semana]" />
-                      </inputColumns>
-                      <externalMetadataColumns
-                        isUsed="True">
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[sk_dia]"
-                          dataType="i4"
-                          name="sk_dia" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[data]"
-                          dataType="dbDate"
-                          name="data" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[dia]"
-                          dataType="ui1"
-                          name="dia" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[mes]"
-                          dataType="ui1"
-                          name="mes" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[trimestre]"
-                          dataType="ui1"
-                          name="trimestre" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[semestre]"
-                          dataType="ui1"
-                          name="semestre" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[ano]"
-                          dataType="i2"
-                          name="ano" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[dia_semana]"
-                          dataType="ui1"
-                          name="dia_semana" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[is_fim_semana]"
-                          dataType="bool"
-                          name="is_fim_semana" />
-                      </externalMetadataColumns>
-                    </input>
-                  </inputs>
-                  <outputs>
-                    <output
-                      refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Outputs[OLE DB Destination Error Output]"
-                      exclusionGroup="1"
-                      isErrorOut="true"
-                      name="OLE DB Destination Error Output"
-                      synchronousInputId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input]">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                          dataType="i4"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                          name="ErrorCode"
-                          specialFlags="1" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                          dataType="i4"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                          name="ErrorColumn"
-                          specialFlags="2" />
-                      </outputColumns>
-                      <externalMetadataColumns />
-                    </output>
-                  </outputs>
-                </component>
-                <component
-                  refId="Package\DSA_Incremental_2011\Azure2011\dim_hora"
-                  componentClassID="Microsoft.OLEDBDestination"
-                  contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
-                  description="OLE DB Destination"
-                  name="dim_hora"
-                  usesDispositions="true"
-                  version="4">
-                  <properties>
-                    <property
-                      dataType="System.Int32"
-                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                      name="CommandTimeout">0</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the name of the database object used to open a rowset."
-                      name="OpenRowset">[dim_hora]</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the variable that contains the name of the database object used to open a rowset."
-                      name="OpenRowsetVariable"></property>
-                    <property
-                      dataType="System.String"
-                      description="The SQL command to be executed."
-                      name="SqlCommand"
-                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=17.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies the column code page to use when code page information is unavailable from the data source."
-                      name="DefaultCodePage">1252</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Forces the use of the DefaultCodePage property value when describing character data."
-                      name="AlwaysUseDefaultCodePage">false</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies the mode used to access the database."
-                      name="AccessMode"
-                      typeConverter="AccessMode">3</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepIdentity">false</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepNulls">false</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
-                      name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
-                      name="FastLoadMaxInsertCommitSize">2147483647</property>
-                  </properties>
-                  <connections>
-                    <connection
-                      refId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Connections[OleDbConnection]"
-                      connectionManagerID="Package.ConnectionManagers[taad2025fire.database.windows.net.datawarehouse.taad]"
-                      connectionManagerRefId="Package.ConnectionManagers[taad2025fire.database.windows.net.datawarehouse.taad]"
-                      description="The OLE DB runtime connection used to access the database."
-                      name="OleDbConnection" />
-                  </connections>
-                  <inputs>
-                    <input
-                      refId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Inputs[OLE DB Destination Input]"
-                      errorOrTruncationOperation="Insert"
-                      errorRowDisposition="FailComponent"
-                      hasSideEffects="true"
-                      name="OLE DB Destination Input">
-                      <inputColumns>
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Inputs[OLE DB Destination Input].Columns[sk_hora]"
-                          cachedDataType="ui1"
-                          cachedName="sk_hora"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Inputs[OLE DB Destination Input].ExternalColumns[sk_hora]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].Columns[sk_hora]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Inputs[OLE DB Destination Input].Columns[hora_24]"
-                          cachedDataType="ui1"
-                          cachedName="hora_24"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Inputs[OLE DB Destination Input].ExternalColumns[hora_24]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].Columns[hora_24]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Inputs[OLE DB Destination Input].Columns[hora_12]"
-                          cachedDataType="ui1"
-                          cachedName="hora_12"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Inputs[OLE DB Destination Input].ExternalColumns[hora_12]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].Columns[hora_12]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Inputs[OLE DB Destination Input].Columns[periodo_dia]"
-                          cachedDataType="wstr"
-                          cachedLength="20"
-                          cachedName="periodo_dia"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Inputs[OLE DB Destination Input].ExternalColumns[periodo_dia]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].Columns[periodo_dia]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Inputs[OLE DB Destination Input].Columns[hora_descricao]"
-                          cachedDataType="wstr"
-                          cachedLength="20"
-                          cachedName="hora_descricao"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Inputs[OLE DB Destination Input].ExternalColumns[hora_descricao]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].Columns[hora_descricao]" />
-                      </inputColumns>
-                      <externalMetadataColumns
-                        isUsed="True">
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Inputs[OLE DB Destination Input].ExternalColumns[sk_hora]"
-                          dataType="ui1"
-                          name="sk_hora" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Inputs[OLE DB Destination Input].ExternalColumns[hora_24]"
-                          dataType="ui1"
-                          name="hora_24" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Inputs[OLE DB Destination Input].ExternalColumns[hora_12]"
-                          dataType="ui1"
-                          name="hora_12" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Inputs[OLE DB Destination Input].ExternalColumns[periodo_dia]"
-                          dataType="wstr"
-                          length="20"
-                          name="periodo_dia" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Inputs[OLE DB Destination Input].ExternalColumns[hora_descricao]"
-                          dataType="wstr"
-                          length="20"
-                          name="hora_descricao" />
-                      </externalMetadataColumns>
-                    </input>
-                  </inputs>
-                  <outputs>
-                    <output
-                      refId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Outputs[OLE DB Destination Error Output]"
-                      exclusionGroup="1"
-                      isErrorOut="true"
-                      name="OLE DB Destination Error Output"
-                      synchronousInputId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Inputs[OLE DB Destination Input]">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                          dataType="i4"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                          name="ErrorCode"
-                          specialFlags="1" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                          dataType="i4"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                          name="ErrorColumn"
-                          specialFlags="2" />
-                      </outputColumns>
-                      <externalMetadataColumns />
-                    </output>
-                  </outputs>
-                </component>
-                <component
                   refId="Package\DSA_Incremental_2011\Azure2011\dim_localizacao"
                   componentClassID="Microsoft.OLEDBDestination"
                   contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
@@ -5930,440 +5580,6 @@
                   </outputs>
                 </component>
                 <component
-                  refId="Package\DSA_Incremental_2011\Azure2011\local_dia"
-                  componentClassID="Microsoft.OLEDBSource"
-                  contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
-                  description="OLE DB Source"
-                  name="local_dia"
-                  usesDispositions="true"
-                  version="7">
-                  <properties>
-                    <property
-                      dataType="System.Int32"
-                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                      name="CommandTimeout">0</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the name of the database object used to open a rowset."
-                      name="OpenRowset">[dbo].[dim_dia]</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the variable that contains the name of the database object used to open a rowset."
-                      name="OpenRowsetVariable"></property>
-                    <property
-                      dataType="System.String"
-                      description="The SQL command to be executed."
-                      name="SqlCommand"
-                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=17.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
-                    <property
-                      dataType="System.String"
-                      description="The variable that contains the SQL command to be executed."
-                      name="SqlCommandVariable"></property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies the column code page to use when code page information is unavailable from the data source."
-                      name="DefaultCodePage">1252</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Forces the use of the DefaultCodePage property value when describing character data."
-                      name="AlwaysUseDefaultCodePage">false</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies the mode used to access the database."
-                      name="AccessMode"
-                      typeConverter="AccessMode">0</property>
-                    <property
-                      dataType="System.String"
-                      description="The mappings between the parameters in the SQL command and variables."
-                      name="ParameterMapping"></property>
-                  </properties>
-                  <connections>
-                    <connection
-                      refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Connections[OleDbConnection]"
-                      connectionManagerID="Package.ConnectionManagers[.\TAAD.DSA_ready.sa]"
-                      connectionManagerRefId="Package.ConnectionManagers[.\TAAD.DSA_ready.sa]"
-                      description="The OLE DB runtime connection used to access the database."
-                      name="OleDbConnection" />
-                  </connections>
-                  <outputs>
-                    <output
-                      refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output]"
-                      name="OLE DB Source Output">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[sk_dia]"
-                          dataType="i4"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].ExternalColumns[sk_dia]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[sk_dia]"
-                          name="sk_dia"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[data]"
-                          dataType="dbDate"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].ExternalColumns[data]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[data]"
-                          name="data"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[dia]"
-                          dataType="ui1"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].ExternalColumns[dia]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[dia]"
-                          name="dia"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[mes]"
-                          dataType="ui1"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].ExternalColumns[mes]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[mes]"
-                          name="mes"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[trimestre]"
-                          dataType="ui1"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].ExternalColumns[trimestre]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[trimestre]"
-                          name="trimestre"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[semestre]"
-                          dataType="ui1"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].ExternalColumns[semestre]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[semestre]"
-                          name="semestre"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[ano]"
-                          dataType="i2"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].ExternalColumns[ano]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[ano]"
-                          name="ano"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[dia_semana]"
-                          dataType="ui1"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].ExternalColumns[dia_semana]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[dia_semana]"
-                          name="dia_semana"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[is_fim_semana]"
-                          dataType="bool"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].ExternalColumns[is_fim_semana]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].Columns[is_fim_semana]"
-                          name="is_fim_semana"
-                          truncationRowDisposition="FailComponent" />
-                      </outputColumns>
-                      <externalMetadataColumns
-                        isUsed="True">
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].ExternalColumns[sk_dia]"
-                          dataType="i4"
-                          name="sk_dia" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].ExternalColumns[data]"
-                          dataType="dbDate"
-                          name="data" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].ExternalColumns[dia]"
-                          dataType="ui1"
-                          name="dia" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].ExternalColumns[mes]"
-                          dataType="ui1"
-                          name="mes" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].ExternalColumns[trimestre]"
-                          dataType="ui1"
-                          name="trimestre" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].ExternalColumns[semestre]"
-                          dataType="ui1"
-                          name="semestre" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].ExternalColumns[ano]"
-                          dataType="i2"
-                          name="ano" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].ExternalColumns[dia_semana]"
-                          dataType="ui1"
-                          name="dia_semana" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output].ExternalColumns[is_fim_semana]"
-                          dataType="bool"
-                          name="is_fim_semana" />
-                      </externalMetadataColumns>
-                    </output>
-                    <output
-                      refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output]"
-                      isErrorOut="true"
-                      name="OLE DB Source Error Output">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[sk_dia]"
-                          dataType="i4"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[sk_dia]"
-                          name="sk_dia" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[data]"
-                          dataType="dbDate"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[data]"
-                          name="data" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[dia]"
-                          dataType="ui1"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[dia]"
-                          name="dia" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[mes]"
-                          dataType="ui1"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[mes]"
-                          name="mes" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[trimestre]"
-                          dataType="ui1"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[trimestre]"
-                          name="trimestre" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[semestre]"
-                          dataType="ui1"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[semestre]"
-                          name="semestre" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[ano]"
-                          dataType="i2"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[ano]"
-                          name="ano" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[dia_semana]"
-                          dataType="ui1"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[dia_semana]"
-                          name="dia_semana" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[is_fim_semana]"
-                          dataType="bool"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[is_fim_semana]"
-                          name="is_fim_semana" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
-                          dataType="i4"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
-                          name="ErrorCode"
-                          specialFlags="1" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
-                          dataType="i4"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
-                          name="ErrorColumn"
-                          specialFlags="2" />
-                      </outputColumns>
-                      <externalMetadataColumns />
-                    </output>
-                  </outputs>
-                </component>
-                <component
-                  refId="Package\DSA_Incremental_2011\Azure2011\local_hora"
-                  componentClassID="Microsoft.OLEDBSource"
-                  contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
-                  description="OLE DB Source"
-                  name="local_hora"
-                  usesDispositions="true"
-                  version="7">
-                  <properties>
-                    <property
-                      dataType="System.Int32"
-                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                      name="CommandTimeout">0</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the name of the database object used to open a rowset."
-                      name="OpenRowset">[dbo].[dim_hora]</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the variable that contains the name of the database object used to open a rowset."
-                      name="OpenRowsetVariable"></property>
-                    <property
-                      dataType="System.String"
-                      description="The SQL command to be executed."
-                      name="SqlCommand"
-                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=17.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
-                    <property
-                      dataType="System.String"
-                      description="The variable that contains the SQL command to be executed."
-                      name="SqlCommandVariable"></property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies the column code page to use when code page information is unavailable from the data source."
-                      name="DefaultCodePage">1252</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Forces the use of the DefaultCodePage property value when describing character data."
-                      name="AlwaysUseDefaultCodePage">false</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies the mode used to access the database."
-                      name="AccessMode"
-                      typeConverter="AccessMode">0</property>
-                    <property
-                      dataType="System.String"
-                      description="The mappings between the parameters in the SQL command and variables."
-                      name="ParameterMapping"></property>
-                  </properties>
-                  <connections>
-                    <connection
-                      refId="Package\DSA_Incremental_2011\Azure2011\local_hora.Connections[OleDbConnection]"
-                      connectionManagerID="Package.ConnectionManagers[.\TAAD.DSA_ready.sa]"
-                      connectionManagerRefId="Package.ConnectionManagers[.\TAAD.DSA_ready.sa]"
-                      description="The OLE DB runtime connection used to access the database."
-                      name="OleDbConnection" />
-                  </connections>
-                  <outputs>
-                    <output
-                      refId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output]"
-                      name="OLE DB Source Output">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].Columns[sk_hora]"
-                          dataType="ui1"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].ExternalColumns[sk_hora]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].Columns[sk_hora]"
-                          name="sk_hora"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].Columns[hora_24]"
-                          dataType="ui1"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].ExternalColumns[hora_24]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].Columns[hora_24]"
-                          name="hora_24"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].Columns[hora_12]"
-                          dataType="ui1"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].ExternalColumns[hora_12]"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].Columns[hora_12]"
-                          name="hora_12"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].Columns[periodo_dia]"
-                          dataType="wstr"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].ExternalColumns[periodo_dia]"
-                          length="20"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].Columns[periodo_dia]"
-                          name="periodo_dia"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].Columns[hora_descricao]"
-                          dataType="wstr"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].ExternalColumns[hora_descricao]"
-                          length="20"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].Columns[hora_descricao]"
-                          name="hora_descricao"
-                          truncationRowDisposition="FailComponent" />
-                      </outputColumns>
-                      <externalMetadataColumns
-                        isUsed="True">
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].ExternalColumns[sk_hora]"
-                          dataType="ui1"
-                          name="sk_hora" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].ExternalColumns[hora_24]"
-                          dataType="ui1"
-                          name="hora_24" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].ExternalColumns[hora_12]"
-                          dataType="ui1"
-                          name="hora_12" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].ExternalColumns[periodo_dia]"
-                          dataType="wstr"
-                          length="20"
-                          name="periodo_dia" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output].ExternalColumns[hora_descricao]"
-                          dataType="wstr"
-                          length="20"
-                          name="hora_descricao" />
-                      </externalMetadataColumns>
-                    </output>
-                    <output
-                      refId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Error Output]"
-                      isErrorOut="true"
-                      name="OLE DB Source Error Output">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Error Output].Columns[sk_hora]"
-                          dataType="ui1"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Error Output].Columns[sk_hora]"
-                          name="sk_hora" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Error Output].Columns[hora_24]"
-                          dataType="ui1"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Error Output].Columns[hora_24]"
-                          name="hora_24" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Error Output].Columns[hora_12]"
-                          dataType="ui1"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Error Output].Columns[hora_12]"
-                          name="hora_12" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Error Output].Columns[periodo_dia]"
-                          dataType="wstr"
-                          length="20"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Error Output].Columns[periodo_dia]"
-                          name="periodo_dia" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Error Output].Columns[hora_descricao]"
-                          dataType="wstr"
-                          length="20"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Error Output].Columns[hora_descricao]"
-                          name="hora_descricao" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
-                          dataType="i4"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
-                          name="ErrorCode"
-                          specialFlags="1" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
-                          dataType="i4"
-                          lineageId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
-                          name="ErrorColumn"
-                          specialFlags="2" />
-                      </outputColumns>
-                      <externalMetadataColumns />
-                    </output>
-                  </outputs>
-                </component>
-                <component
                   refId="Package\DSA_Incremental_2011\Azure2011\local_incendios"
                   componentClassID="Microsoft.OLEDBSource"
                   contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
@@ -7010,16 +6226,6 @@ FROM dbo.fact_incendios;</property>
                   endId="Package\DSA_Incremental_2011\Azure2011\dim_localizacao.Inputs[OLE DB Destination Input]"
                   name="OLE DB Source Output"
                   startId="Package\DSA_Incremental_2011\Azure2011\local_localização.Outputs[OLE DB Source Output]" />
-                <path
-                  refId="Package\DSA_Incremental_2011\Azure2011.Paths[OLE DB Source Output3]"
-                  endId="Package\DSA_Incremental_2011\Azure2011\dim_hora.Inputs[OLE DB Destination Input]"
-                  name="OLE DB Source Output"
-                  startId="Package\DSA_Incremental_2011\Azure2011\local_hora.Outputs[OLE DB Source Output]" />
-                <path
-                  refId="Package\DSA_Incremental_2011\Azure2011.Paths[OLE DB Source Output4]"
-                  endId="Package\DSA_Incremental_2011\Azure2011\dim_dia.Inputs[OLE DB Destination Input]"
-                  name="OLE DB Source Output"
-                  startId="Package\DSA_Incremental_2011\Azure2011\local_dia.Outputs[OLE DB Source Output]" />
               </paths>
             </pipeline>
           </DTS:ObjectData>
@@ -9149,7 +8355,7 @@ where [refTable].[sk_dia] = ? and [refTable].[sk_hora] = ? and [refTable].[sk_ca
                       containsID="true"
                       dataType="System.String"
                       description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                      name="ParameterMap">#{Package\DSA_Incremental_2011\fact_incendios\Lookup Dim_Dia.Outputs[Lookup Match Output].Columns[sk_dia]};#{Package\DSA_Incremental_2011\fact_incendios\Lookup Dim_Hora.Outputs[Lookup Match Output].Columns[sk_hora]};#{Package\DSA_Incremental_2011\fact_incendios\Lookup Dim_Causa.Outputs[Lookup Match Output].Columns[sk_causa]};#{Package\DSA_Incremental_2011\fact_incendios\710:invalid};</property>
+                      name="ParameterMap">#{Package\DSA_Incremental_2011\fact_incendios\Lookup Dim_Dia.Outputs[Lookup Match Output].Columns[sk_dia]};#{Package\DSA_Incremental_2011\fact_incendios\Lookup Dim_Hora.Outputs[Lookup Match Output].Columns[sk_hora]};#{Package\DSA_Incremental_2011\fact_incendios\Lookup Dim_Causa.Outputs[Lookup Match Output].Columns[sk_causa]};#{Package\DSA_Incremental_2011\fact_incendios\713:invalid};</property>
                     <property
                       dataType="System.Int32"
                       description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -11144,356 +10350,6 @@ where [refTable].[nk_ine_freguesia] = ?</property>
                   </outputs>
                 </component>
                 <component
-                  refId="Package\DSA_Incremental_2021\Azure2021\dim_dia"
-                  componentClassID="Microsoft.OLEDBDestination"
-                  contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
-                  description="OLE DB Destination"
-                  name="dim_dia"
-                  usesDispositions="true"
-                  version="4">
-                  <properties>
-                    <property
-                      dataType="System.Int32"
-                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                      name="CommandTimeout">0</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the name of the database object used to open a rowset."
-                      name="OpenRowset">[dim_dia]</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the variable that contains the name of the database object used to open a rowset."
-                      name="OpenRowsetVariable"></property>
-                    <property
-                      dataType="System.String"
-                      description="The SQL command to be executed."
-                      name="SqlCommand"
-                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=17.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies the column code page to use when code page information is unavailable from the data source."
-                      name="DefaultCodePage">1252</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Forces the use of the DefaultCodePage property value when describing character data."
-                      name="AlwaysUseDefaultCodePage">false</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies the mode used to access the database."
-                      name="AccessMode"
-                      typeConverter="AccessMode">3</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepIdentity">false</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepNulls">false</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
-                      name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
-                      name="FastLoadMaxInsertCommitSize">2147483647</property>
-                  </properties>
-                  <connections>
-                    <connection
-                      refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Connections[OleDbConnection]"
-                      connectionManagerID="Package.ConnectionManagers[taad2025fire.database.windows.net.datawarehouse.taad]"
-                      connectionManagerRefId="Package.ConnectionManagers[taad2025fire.database.windows.net.datawarehouse.taad]"
-                      description="The OLE DB runtime connection used to access the database."
-                      name="OleDbConnection" />
-                  </connections>
-                  <inputs>
-                    <input
-                      refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input]"
-                      errorOrTruncationOperation="Insert"
-                      errorRowDisposition="FailComponent"
-                      hasSideEffects="true"
-                      name="OLE DB Destination Input">
-                      <inputColumns>
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].Columns[sk_dia]"
-                          cachedDataType="i4"
-                          cachedName="sk_dia"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[sk_dia]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[sk_dia]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].Columns[data]"
-                          cachedDataType="dbDate"
-                          cachedName="data"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[data]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[data]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].Columns[dia]"
-                          cachedDataType="ui1"
-                          cachedName="dia"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[dia]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[dia]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].Columns[mes]"
-                          cachedDataType="ui1"
-                          cachedName="mes"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[mes]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[mes]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].Columns[trimestre]"
-                          cachedDataType="ui1"
-                          cachedName="trimestre"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[trimestre]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[trimestre]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].Columns[semestre]"
-                          cachedDataType="ui1"
-                          cachedName="semestre"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[semestre]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[semestre]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].Columns[ano]"
-                          cachedDataType="i2"
-                          cachedName="ano"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[ano]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[ano]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].Columns[dia_semana]"
-                          cachedDataType="ui1"
-                          cachedName="dia_semana"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[dia_semana]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[dia_semana]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].Columns[is_fim_semana]"
-                          cachedDataType="bool"
-                          cachedName="is_fim_semana"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[is_fim_semana]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[is_fim_semana]" />
-                      </inputColumns>
-                      <externalMetadataColumns
-                        isUsed="True">
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[sk_dia]"
-                          dataType="i4"
-                          name="sk_dia" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[data]"
-                          dataType="dbDate"
-                          name="data" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[dia]"
-                          dataType="ui1"
-                          name="dia" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[mes]"
-                          dataType="ui1"
-                          name="mes" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[trimestre]"
-                          dataType="ui1"
-                          name="trimestre" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[semestre]"
-                          dataType="ui1"
-                          name="semestre" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[ano]"
-                          dataType="i2"
-                          name="ano" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[dia_semana]"
-                          dataType="ui1"
-                          name="dia_semana" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input].ExternalColumns[is_fim_semana]"
-                          dataType="bool"
-                          name="is_fim_semana" />
-                      </externalMetadataColumns>
-                    </input>
-                  </inputs>
-                  <outputs>
-                    <output
-                      refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Outputs[OLE DB Destination Error Output]"
-                      exclusionGroup="1"
-                      isErrorOut="true"
-                      name="OLE DB Destination Error Output"
-                      synchronousInputId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input]">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                          dataType="i4"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                          name="ErrorCode"
-                          specialFlags="1" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                          dataType="i4"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                          name="ErrorColumn"
-                          specialFlags="2" />
-                      </outputColumns>
-                      <externalMetadataColumns />
-                    </output>
-                  </outputs>
-                </component>
-                <component
-                  refId="Package\DSA_Incremental_2021\Azure2021\dim_hora"
-                  componentClassID="Microsoft.OLEDBDestination"
-                  contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
-                  description="OLE DB Destination"
-                  name="dim_hora"
-                  usesDispositions="true"
-                  version="4">
-                  <properties>
-                    <property
-                      dataType="System.Int32"
-                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                      name="CommandTimeout">0</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the name of the database object used to open a rowset."
-                      name="OpenRowset">[dim_hora]</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the variable that contains the name of the database object used to open a rowset."
-                      name="OpenRowsetVariable"></property>
-                    <property
-                      dataType="System.String"
-                      description="The SQL command to be executed."
-                      name="SqlCommand"
-                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=17.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies the column code page to use when code page information is unavailable from the data source."
-                      name="DefaultCodePage">1252</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Forces the use of the DefaultCodePage property value when describing character data."
-                      name="AlwaysUseDefaultCodePage">false</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies the mode used to access the database."
-                      name="AccessMode"
-                      typeConverter="AccessMode">3</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepIdentity">false</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
-                      name="FastLoadKeepNulls">false</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
-                      name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
-                      name="FastLoadMaxInsertCommitSize">2147483647</property>
-                  </properties>
-                  <connections>
-                    <connection
-                      refId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Connections[OleDbConnection]"
-                      connectionManagerID="Package.ConnectionManagers[taad2025fire.database.windows.net.datawarehouse.taad]"
-                      connectionManagerRefId="Package.ConnectionManagers[taad2025fire.database.windows.net.datawarehouse.taad]"
-                      description="The OLE DB runtime connection used to access the database."
-                      name="OleDbConnection" />
-                  </connections>
-                  <inputs>
-                    <input
-                      refId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Inputs[OLE DB Destination Input]"
-                      errorOrTruncationOperation="Insert"
-                      errorRowDisposition="FailComponent"
-                      hasSideEffects="true"
-                      name="OLE DB Destination Input">
-                      <inputColumns>
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Inputs[OLE DB Destination Input].Columns[sk_hora]"
-                          cachedDataType="ui1"
-                          cachedName="sk_hora"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Inputs[OLE DB Destination Input].ExternalColumns[sk_hora]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].Columns[sk_hora]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Inputs[OLE DB Destination Input].Columns[hora_24]"
-                          cachedDataType="ui1"
-                          cachedName="hora_24"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Inputs[OLE DB Destination Input].ExternalColumns[hora_24]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].Columns[hora_24]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Inputs[OLE DB Destination Input].Columns[hora_12]"
-                          cachedDataType="ui1"
-                          cachedName="hora_12"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Inputs[OLE DB Destination Input].ExternalColumns[hora_12]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].Columns[hora_12]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Inputs[OLE DB Destination Input].Columns[periodo_dia]"
-                          cachedDataType="wstr"
-                          cachedLength="20"
-                          cachedName="periodo_dia"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Inputs[OLE DB Destination Input].ExternalColumns[periodo_dia]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].Columns[periodo_dia]" />
-                        <inputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Inputs[OLE DB Destination Input].Columns[hora_descricao]"
-                          cachedDataType="wstr"
-                          cachedLength="20"
-                          cachedName="hora_descricao"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Inputs[OLE DB Destination Input].ExternalColumns[hora_descricao]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].Columns[hora_descricao]" />
-                      </inputColumns>
-                      <externalMetadataColumns
-                        isUsed="True">
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Inputs[OLE DB Destination Input].ExternalColumns[sk_hora]"
-                          dataType="ui1"
-                          name="sk_hora" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Inputs[OLE DB Destination Input].ExternalColumns[hora_24]"
-                          dataType="ui1"
-                          name="hora_24" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Inputs[OLE DB Destination Input].ExternalColumns[hora_12]"
-                          dataType="ui1"
-                          name="hora_12" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Inputs[OLE DB Destination Input].ExternalColumns[periodo_dia]"
-                          dataType="wstr"
-                          length="20"
-                          name="periodo_dia" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Inputs[OLE DB Destination Input].ExternalColumns[hora_descricao]"
-                          dataType="wstr"
-                          length="20"
-                          name="hora_descricao" />
-                      </externalMetadataColumns>
-                    </input>
-                  </inputs>
-                  <outputs>
-                    <output
-                      refId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Outputs[OLE DB Destination Error Output]"
-                      exclusionGroup="1"
-                      isErrorOut="true"
-                      name="OLE DB Destination Error Output"
-                      synchronousInputId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Inputs[OLE DB Destination Input]">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                          dataType="i4"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                          name="ErrorCode"
-                          specialFlags="1" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                          dataType="i4"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                          name="ErrorColumn"
-                          specialFlags="2" />
-                      </outputColumns>
-                      <externalMetadataColumns />
-                    </output>
-                  </outputs>
-                </component>
-                <component
                   refId="Package\DSA_Incremental_2021\Azure2021\dim_localizacao"
                   componentClassID="Microsoft.OLEDBDestination"
                   contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
@@ -12234,440 +11090,6 @@ where [refTable].[nk_ine_freguesia] = ?</property>
                   </outputs>
                 </component>
                 <component
-                  refId="Package\DSA_Incremental_2021\Azure2021\local_dia"
-                  componentClassID="Microsoft.OLEDBSource"
-                  contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
-                  description="OLE DB Source"
-                  name="local_dia"
-                  usesDispositions="true"
-                  version="7">
-                  <properties>
-                    <property
-                      dataType="System.Int32"
-                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                      name="CommandTimeout">0</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the name of the database object used to open a rowset."
-                      name="OpenRowset">[dbo].[dim_dia]</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the variable that contains the name of the database object used to open a rowset."
-                      name="OpenRowsetVariable"></property>
-                    <property
-                      dataType="System.String"
-                      description="The SQL command to be executed."
-                      name="SqlCommand"
-                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=17.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
-                    <property
-                      dataType="System.String"
-                      description="The variable that contains the SQL command to be executed."
-                      name="SqlCommandVariable"></property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies the column code page to use when code page information is unavailable from the data source."
-                      name="DefaultCodePage">1252</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Forces the use of the DefaultCodePage property value when describing character data."
-                      name="AlwaysUseDefaultCodePage">false</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies the mode used to access the database."
-                      name="AccessMode"
-                      typeConverter="AccessMode">0</property>
-                    <property
-                      dataType="System.String"
-                      description="The mappings between the parameters in the SQL command and variables."
-                      name="ParameterMapping"></property>
-                  </properties>
-                  <connections>
-                    <connection
-                      refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Connections[OleDbConnection]"
-                      connectionManagerID="Package.ConnectionManagers[.\TAAD.DSA_ready.sa]"
-                      connectionManagerRefId="Package.ConnectionManagers[.\TAAD.DSA_ready.sa]"
-                      description="The OLE DB runtime connection used to access the database."
-                      name="OleDbConnection" />
-                  </connections>
-                  <outputs>
-                    <output
-                      refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output]"
-                      name="OLE DB Source Output">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[sk_dia]"
-                          dataType="i4"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].ExternalColumns[sk_dia]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[sk_dia]"
-                          name="sk_dia"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[data]"
-                          dataType="dbDate"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].ExternalColumns[data]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[data]"
-                          name="data"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[dia]"
-                          dataType="ui1"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].ExternalColumns[dia]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[dia]"
-                          name="dia"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[mes]"
-                          dataType="ui1"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].ExternalColumns[mes]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[mes]"
-                          name="mes"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[trimestre]"
-                          dataType="ui1"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].ExternalColumns[trimestre]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[trimestre]"
-                          name="trimestre"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[semestre]"
-                          dataType="ui1"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].ExternalColumns[semestre]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[semestre]"
-                          name="semestre"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[ano]"
-                          dataType="i2"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].ExternalColumns[ano]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[ano]"
-                          name="ano"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[dia_semana]"
-                          dataType="ui1"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].ExternalColumns[dia_semana]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[dia_semana]"
-                          name="dia_semana"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[is_fim_semana]"
-                          dataType="bool"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].ExternalColumns[is_fim_semana]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].Columns[is_fim_semana]"
-                          name="is_fim_semana"
-                          truncationRowDisposition="FailComponent" />
-                      </outputColumns>
-                      <externalMetadataColumns
-                        isUsed="True">
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].ExternalColumns[sk_dia]"
-                          dataType="i4"
-                          name="sk_dia" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].ExternalColumns[data]"
-                          dataType="dbDate"
-                          name="data" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].ExternalColumns[dia]"
-                          dataType="ui1"
-                          name="dia" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].ExternalColumns[mes]"
-                          dataType="ui1"
-                          name="mes" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].ExternalColumns[trimestre]"
-                          dataType="ui1"
-                          name="trimestre" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].ExternalColumns[semestre]"
-                          dataType="ui1"
-                          name="semestre" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].ExternalColumns[ano]"
-                          dataType="i2"
-                          name="ano" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].ExternalColumns[dia_semana]"
-                          dataType="ui1"
-                          name="dia_semana" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output].ExternalColumns[is_fim_semana]"
-                          dataType="bool"
-                          name="is_fim_semana" />
-                      </externalMetadataColumns>
-                    </output>
-                    <output
-                      refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output]"
-                      isErrorOut="true"
-                      name="OLE DB Source Error Output">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[sk_dia]"
-                          dataType="i4"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[sk_dia]"
-                          name="sk_dia" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[data]"
-                          dataType="dbDate"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[data]"
-                          name="data" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[dia]"
-                          dataType="ui1"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[dia]"
-                          name="dia" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[mes]"
-                          dataType="ui1"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[mes]"
-                          name="mes" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[trimestre]"
-                          dataType="ui1"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[trimestre]"
-                          name="trimestre" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[semestre]"
-                          dataType="ui1"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[semestre]"
-                          name="semestre" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[ano]"
-                          dataType="i2"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[ano]"
-                          name="ano" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[dia_semana]"
-                          dataType="ui1"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[dia_semana]"
-                          name="dia_semana" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[is_fim_semana]"
-                          dataType="bool"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[is_fim_semana]"
-                          name="is_fim_semana" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
-                          dataType="i4"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
-                          name="ErrorCode"
-                          specialFlags="1" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
-                          dataType="i4"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
-                          name="ErrorColumn"
-                          specialFlags="2" />
-                      </outputColumns>
-                      <externalMetadataColumns />
-                    </output>
-                  </outputs>
-                </component>
-                <component
-                  refId="Package\DSA_Incremental_2021\Azure2021\local_hora"
-                  componentClassID="Microsoft.OLEDBSource"
-                  contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
-                  description="OLE DB Source"
-                  name="local_hora"
-                  usesDispositions="true"
-                  version="7">
-                  <properties>
-                    <property
-                      dataType="System.Int32"
-                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                      name="CommandTimeout">0</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the name of the database object used to open a rowset."
-                      name="OpenRowset">[dbo].[dim_hora]</property>
-                    <property
-                      dataType="System.String"
-                      description="Specifies the variable that contains the name of the database object used to open a rowset."
-                      name="OpenRowsetVariable"></property>
-                    <property
-                      dataType="System.String"
-                      description="The SQL command to be executed."
-                      name="SqlCommand"
-                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=17.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
-                    <property
-                      dataType="System.String"
-                      description="The variable that contains the SQL command to be executed."
-                      name="SqlCommandVariable"></property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies the column code page to use when code page information is unavailable from the data source."
-                      name="DefaultCodePage">1252</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Forces the use of the DefaultCodePage property value when describing character data."
-                      name="AlwaysUseDefaultCodePage">false</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Specifies the mode used to access the database."
-                      name="AccessMode"
-                      typeConverter="AccessMode">0</property>
-                    <property
-                      dataType="System.String"
-                      description="The mappings between the parameters in the SQL command and variables."
-                      name="ParameterMapping"></property>
-                  </properties>
-                  <connections>
-                    <connection
-                      refId="Package\DSA_Incremental_2021\Azure2021\local_hora.Connections[OleDbConnection]"
-                      connectionManagerID="Package.ConnectionManagers[.\TAAD.DSA_ready.sa]"
-                      connectionManagerRefId="Package.ConnectionManagers[.\TAAD.DSA_ready.sa]"
-                      description="The OLE DB runtime connection used to access the database."
-                      name="OleDbConnection" />
-                  </connections>
-                  <outputs>
-                    <output
-                      refId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output]"
-                      name="OLE DB Source Output">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].Columns[sk_hora]"
-                          dataType="ui1"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].ExternalColumns[sk_hora]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].Columns[sk_hora]"
-                          name="sk_hora"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].Columns[hora_24]"
-                          dataType="ui1"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].ExternalColumns[hora_24]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].Columns[hora_24]"
-                          name="hora_24"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].Columns[hora_12]"
-                          dataType="ui1"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].ExternalColumns[hora_12]"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].Columns[hora_12]"
-                          name="hora_12"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].Columns[periodo_dia]"
-                          dataType="wstr"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].ExternalColumns[periodo_dia]"
-                          length="20"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].Columns[periodo_dia]"
-                          name="periodo_dia"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].Columns[hora_descricao]"
-                          dataType="wstr"
-                          errorOrTruncationOperation="Conversion"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].ExternalColumns[hora_descricao]"
-                          length="20"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].Columns[hora_descricao]"
-                          name="hora_descricao"
-                          truncationRowDisposition="FailComponent" />
-                      </outputColumns>
-                      <externalMetadataColumns
-                        isUsed="True">
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].ExternalColumns[sk_hora]"
-                          dataType="ui1"
-                          name="sk_hora" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].ExternalColumns[hora_24]"
-                          dataType="ui1"
-                          name="hora_24" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].ExternalColumns[hora_12]"
-                          dataType="ui1"
-                          name="hora_12" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].ExternalColumns[periodo_dia]"
-                          dataType="wstr"
-                          length="20"
-                          name="periodo_dia" />
-                        <externalMetadataColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output].ExternalColumns[hora_descricao]"
-                          dataType="wstr"
-                          length="20"
-                          name="hora_descricao" />
-                      </externalMetadataColumns>
-                    </output>
-                    <output
-                      refId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Error Output]"
-                      isErrorOut="true"
-                      name="OLE DB Source Error Output">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Error Output].Columns[sk_hora]"
-                          dataType="ui1"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Error Output].Columns[sk_hora]"
-                          name="sk_hora" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Error Output].Columns[hora_24]"
-                          dataType="ui1"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Error Output].Columns[hora_24]"
-                          name="hora_24" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Error Output].Columns[hora_12]"
-                          dataType="ui1"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Error Output].Columns[hora_12]"
-                          name="hora_12" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Error Output].Columns[periodo_dia]"
-                          dataType="wstr"
-                          length="20"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Error Output].Columns[periodo_dia]"
-                          name="periodo_dia" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Error Output].Columns[hora_descricao]"
-                          dataType="wstr"
-                          length="20"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Error Output].Columns[hora_descricao]"
-                          name="hora_descricao" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
-                          dataType="i4"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
-                          name="ErrorCode"
-                          specialFlags="1" />
-                        <outputColumn
-                          refId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
-                          dataType="i4"
-                          lineageId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
-                          name="ErrorColumn"
-                          specialFlags="2" />
-                      </outputColumns>
-                      <externalMetadataColumns />
-                    </output>
-                  </outputs>
-                </component>
-                <component
                   refId="Package\DSA_Incremental_2021\Azure2021\local_incendios"
                   componentClassID="Microsoft.OLEDBSource"
                   contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
@@ -13314,16 +11736,6 @@ FROM dbo.fact_incendios;</property>
                   endId="Package\DSA_Incremental_2021\Azure2021\dim_localizacao.Inputs[OLE DB Destination Input]"
                   name="OLE DB Source Output"
                   startId="Package\DSA_Incremental_2021\Azure2021\local_localização.Outputs[OLE DB Source Output]" />
-                <path
-                  refId="Package\DSA_Incremental_2021\Azure2021.Paths[OLE DB Source Output3]"
-                  endId="Package\DSA_Incremental_2021\Azure2021\dim_hora.Inputs[OLE DB Destination Input]"
-                  name="OLE DB Source Output"
-                  startId="Package\DSA_Incremental_2021\Azure2021\local_hora.Outputs[OLE DB Source Output]" />
-                <path
-                  refId="Package\DSA_Incremental_2021\Azure2021.Paths[OLE DB Source Output4]"
-                  endId="Package\DSA_Incremental_2021\Azure2021\dim_dia.Inputs[OLE DB Destination Input]"
-                  name="OLE DB Source Output"
-                  startId="Package\DSA_Incremental_2021\Azure2021\local_dia.Outputs[OLE DB Source Output]" />
               </paths>
             </pipeline>
           </DTS:ObjectData>
@@ -15885,7 +14297,7 @@ where [refTable].[sk_dia] = ? and [refTable].[sk_hora] = ? and [refTable].[sk_ca
                       containsID="true"
                       dataType="System.String"
                       description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                      name="ParameterMap">#{Package\DSA_Incremental_2021\fact_incendios\Lookup Dim_Dia.Outputs[Lookup Match Output].Columns[sk_dia]};#{Package\DSA_Incremental_2021\fact_incendios\Lookup Dim_Hora.Outputs[Lookup Match Output].Columns[sk_hora]};#{Package\DSA_Incremental_2021\fact_incendios\Lookup Dim_Causa.Outputs[Lookup Match Output].Columns[sk_causa]};#{Package\DSA_Incremental_2021\fact_incendios\711:invalid};</property>
+                      name="ParameterMap">#{Package\DSA_Incremental_2021\fact_incendios\Lookup Dim_Dia.Outputs[Lookup Match Output].Columns[sk_dia]};#{Package\DSA_Incremental_2021\fact_incendios\Lookup Dim_Hora.Outputs[Lookup Match Output].Columns[sk_hora]};#{Package\DSA_Incremental_2021\fact_incendios\Lookup Dim_Causa.Outputs[Lookup Match Output].Columns[sk_causa]};#{Package\DSA_Incremental_2021\fact_incendios\714:invalid};</property>
                     <property
                       dataType="System.Int32"
                       description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -18240,7 +16652,7 @@ where [refTable].[sk_dia] = ? and [refTable].[sk_hora] = ? and [refTable].[sk_ca
                       containsID="true"
                       dataType="System.String"
                       description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                      name="ParameterMap">#{Package\DSA_load\Povoar tabela_factos\Lookup Dim_Dia.Outputs[Lookup Match Output].Columns[sk_dia]};#{Package\DSA_load\Povoar tabela_factos\Lookup Dim_Hora.Outputs[Lookup Match Output].Columns[sk_hora]};#{Package\DSA_load\Povoar tabela_factos\Lookup Dim_Causa.Outputs[Lookup Match Output].Columns[sk_causa]};#{Package\DSA_load\Povoar tabela_factos\712:invalid};</property>
+                      name="ParameterMap">#{Package\DSA_load\Povoar tabela_factos\Lookup Dim_Dia.Outputs[Lookup Match Output].Columns[sk_dia]};#{Package\DSA_load\Povoar tabela_factos\Lookup Dim_Hora.Outputs[Lookup Match Output].Columns[sk_hora]};#{Package\DSA_load\Povoar tabela_factos\Lookup Dim_Causa.Outputs[Lookup Match Output].Columns[sk_causa]};#{Package\DSA_load\Povoar tabela_factos\715:invalid};</property>
                     <property
                       dataType="System.Int32"
                       description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -24351,9 +22763,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-10.2083338683274,61.4777773669588"
+              EndConnector="-10.2083338683273,61.4777773669589"
               Start="0,0"
-              End="-2.70833386832737,61.4777773669588">
+              End="-2.70833386832732,61.4777773669589">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
@@ -24364,13 +22776,13 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
                     Point2="22.5,0"
                     Point3="22.5,4" />
                   <mssgle:LineSegment
-                    End="22.5,57.4777773669588" />
+                    End="22.5,57.4777773669589" />
                   <mssgle:CubicBezierSegment
-                    Point1="22.5,57.4777773669588"
-                    Point2="22.5,61.4777773669588"
-                    Point3="18.5,61.4777773669588" />
+                    Point1="22.5,57.4777773669589"
+                    Point2="22.5,61.4777773669589"
+                    Point3="18.5,61.4777773669589" />
                   <mssgle:LineSegment
-                    End="-2.70833386832737,61.4777773669588" />
+                    End="-2.70833386832732,61.4777773669589" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -24389,7 +22801,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         <NodeLayout
           Size="128.8,41.6"
           Id="Package\DSA_Incremental_2021\Azure2021"
-          TopLeft="98.9221337245071,542.399995733102" />
+          TopLeft="93.9221339976953,555.399995642701" />
         <NodeLayout
           Size="134.4,41.6"
           Id="Package\DSA_Incremental_2021\Dados 2021"
@@ -24409,7 +22821,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         <NodeLayout
           Size="148.8,41.6"
           Id="Package\DSA_Incremental_2021\LImpar AZURE"
-          TopLeft="93.2971340318438,481.788885026784" />
+          TopLeft="88.2971343050319,494.788884936383" />
         <EdgeLayout
           Id="Package\DSA_Incremental_2021.PrecedenceConstraints[Constraint 1 1]"
           TopLeft="168.73045994357,200.77221995267">
@@ -24456,18 +22868,18 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\DSA_Incremental_2021.PrecedenceConstraints[Constraint 3 1]"
-          TopLeft="168.433245048097,384.955552672788">
+          TopLeft="165.933245184691,384.955552672788">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,96.833332353996"
+              EndConnector="0,109.833332263595"
               Start="0,0"
-              End="0,89.333332353996">
+              End="0,102.333332263595">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,89.333332353996" />
+                    End="0,102.333332263595" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -24500,13 +22912,13 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\DSA_Incremental_2021.PrecedenceConstraints[Constraint 4 1]"
-          TopLeft="242.097134031844,502.588885026784">
+          TopLeft="237.097134305032,515.588884936383">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-14.3750003073367,60.6111107063187"
+              EndConnector="-14.3750003073367,60.611110706318"
               Start="0,0"
-              End="-6.87500030733668,60.6111107063187">
+              End="-6.87500030733668,60.611110706318">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
@@ -24517,13 +22929,13 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
                     Point2="22.5,0"
                     Point3="22.5,4" />
                   <mssgle:LineSegment
-                    End="22.5,56.6111107063187" />
+                    End="22.5,56.611110706318" />
                   <mssgle:CubicBezierSegment
-                    Point1="22.5,56.6111107063187"
-                    Point2="22.5,60.6111107063187"
-                    Point3="18.5,60.6111107063187" />
+                    Point1="22.5,56.611110706318"
+                    Point2="22.5,60.611110706318"
+                    Point3="18.5,60.611110706318" />
                   <mssgle:LineSegment
-                    End="-6.87500030733668,60.6111107063187" />
+                    End="-6.87500030733668,60.611110706318" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -24542,15 +22954,15 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         <NodeLayout
           Size="148.8,41.6"
           Id="Package\DSA_load\LImpar AZURE"
-          TopLeft="27.7340309971133,492.696965202701" />
+          TopLeft="78.567361553036,485.763631917581" />
         <NodeLayout
           Size="148,41.6"
           Id="Package\DSA_load\LImpar LOCAL"
-          TopLeft="40.1908497222029,29.8318171565958" />
+          TopLeft="76.8575143854913,37.6318171023556" />
         <NodeLayout
           Size="169.6,41.6"
           Id="Package\DSA_load\Povoar dim_causas"
-          TopLeft="213.699929927291,247.233330545988" />
+          TopLeft="203.699930473667,267.166663740708" />
         <NodeLayout
           Size="188,41.6"
           Id="Package\DSA_load\Povoar dim_localizacao"
@@ -24562,33 +22974,33 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         <NodeLayout
           Size="172.8,41.6"
           Id="Package\DSA_load\Povoar_Azure_2001"
-          TopLeft="216.294626755224,550.435348639579" />
+          TopLeft="66.2946349508622,549.568681978939" />
         <EdgeLayout
           Id="Package\DSA_load.PrecedenceConstraints[Constraint]"
-          TopLeft="114.190849722203,71.4318171565958">
+          TopLeft="150.857514385491,79.2318171023556">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="178.509081024653,74.6181807596755"
+              EndConnector="141.842416361365,66.8181808139154"
               Start="0,0"
-              End="178.509081024653,67.1181807596755">
+              End="141.842416361365,59.3181808139154">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,33.3090903798378" />
+                    End="0,29.4090904069577" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,33.3090903798378"
-                    Point2="0,37.3090903798378"
-                    Point3="4,37.3090903798378" />
+                    Point1="0,29.4090904069577"
+                    Point2="0,33.4090904069577"
+                    Point3="4,33.4090904069577" />
                   <mssgle:LineSegment
-                    End="174.509081024653,37.3090903798378" />
+                    End="137.842416361365,33.4090904069577" />
                   <mssgle:CubicBezierSegment
-                    Point1="174.509081024653,37.3090903798378"
-                    Point2="178.509081024653,37.3090903798378"
-                    Point3="178.509081024653,41.3090903798378" />
+                    Point1="137.842416361365,33.4090904069577"
+                    Point2="141.842416361365,33.4090904069577"
+                    Point3="141.842416361365,37.4090904069577" />
                   <mssgle:LineSegment
-                    End="178.509081024653,67.1181807596755" />
+                    End="141.842416361365,59.3181808139154" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -24599,18 +23011,18 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\DSA_load.PrecedenceConstraints[Constraint 1]"
-          TopLeft="295.599930337074,187.649997916271">
+          TopLeft="290.599930610261,187.649997916271">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,59.5833326297172"
+              EndConnector="0,79.5166658244365"
               Start="0,0"
-              End="0,52.0833326297172">
+              End="0,72.0166658244365">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,52.0833326297172" />
+                    End="0,72.0166658244365" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -24621,18 +23033,18 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\DSA_load.PrecedenceConstraints[Constraint 2]"
-          TopLeft="296.369375187506,288.833330545988">
+          TopLeft="291.369375460693,308.766663740708">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,86.3166660775584"
+              EndConnector="0,66.3833328828395"
               Start="0,0"
-              End="0,78.8166660775584">
+              End="0,58.8833328828395">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,78.8166660775584" />
+                    End="0,58.8833328828395" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -24647,26 +23059,26 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-192.104789450606,75.9469685791543"
+              EndConnector="-141.271458894683,69.0136352940343"
               Start="0,0"
-              End="-192.104789450606,68.4469685791543">
+              End="-141.271458894683,61.5136352940343">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,33.9734842895772" />
+                    End="0,30.5068176470171" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,33.9734842895772"
-                    Point2="0,37.9734842895772"
-                    Point3="-4,37.9734842895772" />
+                    Point1="0,30.5068176470171"
+                    Point2="0,34.5068176470171"
+                    Point3="-4,34.5068176470171" />
                   <mssgle:LineSegment
-                    End="-188.104789450606,37.9734842895772" />
+                    End="-137.271458894683,34.5068176470171" />
                   <mssgle:CubicBezierSegment
-                    Point1="-188.104789450606,37.9734842895772"
-                    Point2="-192.104789450606,37.9734842895772"
-                    Point3="-192.104789450606,41.9734842895772" />
+                    Point1="-137.271458894683,34.5068176470171"
+                    Point2="-141.271458894683,34.5068176470171"
+                    Point3="-141.271458894683,38.5068176470171" />
                   <mssgle:LineSegment
-                    End="-192.104789450606,68.4469685791543" />
+                    End="-141.271458894683,61.5136352940343" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -24677,30 +23089,30 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\DSA_load.PrecedenceConstraints[Constraint 4]"
-          TopLeft="176.534030997113,513.496965202701">
+          TopLeft="227.367361553036,506.563631917581">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="39.7605957581102,57.7383834368779"
+              EndConnector="11.7272733978261,63.805050061358"
               Start="0,0"
-              End="32.2605957581102,57.7383834368779">
+              End="19.2272733978261,63.805050061358">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="15.8802978790551,0" />
+                    End="30.2272733978261,0" />
                   <mssgle:CubicBezierSegment
-                    Point1="15.8802978790551,0"
-                    Point2="19.8802978790551,0"
-                    Point3="19.8802978790551,4" />
+                    Point1="30.2272733978261,0"
+                    Point2="34.2272733978261,0"
+                    Point3="34.2272733978261,4" />
                   <mssgle:LineSegment
-                    End="19.8802978790551,53.7383834368779" />
+                    End="34.2272733978261,59.805050061358" />
                   <mssgle:CubicBezierSegment
-                    Point1="19.8802978790551,53.7383834368779"
-                    Point2="19.8802978790551,57.7383834368779"
-                    Point3="23.8802978790551,57.7383834368779" />
+                    Point1="34.2272733978261,59.805050061358"
+                    Point2="34.2272733978261,63.805050061358"
+                    Point3="30.2272733978261,63.805050061358" />
                   <mssgle:LineSegment
-                    End="32.2605957581102,57.7383834368779" />
+                    End="19.2272733978261,63.805050061358" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -24712,10 +23124,10 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         <ContainerLayout
           HeaderHeight="43"
           IsExpanded="True"
-          PanelSize="441.6,647.2"
-          Size="441.6,690.4"
+          PanelSize="441.6,656"
+          Size="441.6,699.2"
           Id="Package\DSA_load"
-          TopLeft="880.980591595974,134.435357435536" />
+          TopLeft="879.31392502037,131.835357453616" />
         <NodeLayout
           Size="163.2,41.6"
           Id="Package\DSA_transform\Limpeza database"
@@ -24777,18 +23189,18 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="822.648360310692,477.019554149549">
+          TopLeft="822.648360310692,477.919554158589">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="58.3322312852821,0"
+              EndConnector="56.6655647096778,0"
               Start="0,0"
-              End="50.8322312852821,0">
+              End="49.1655647096778,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="50.8322312852821,0" />
+                    End="49.1655647096778,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -24821,18 +23233,18 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 3]"
-          TopLeft="1322.58059159597,479.365697880675">
+          TopLeft="1320.91392502037,480.265697889716">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="58.956921480976,0"
+              EndConnector="60.6235880565803,0"
               Start="0,0"
-              End="51.456921480976,0">
+              End="53.1235880565803,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="51.456921480976,0" />
+                    End="53.1235880565803,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -25030,98 +23442,34 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
     design-time-name="Package\DSA_Incremental_2011\Azure2011">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="152.8,41.6"
           Id="Package\DSA_Incremental_2011\Azure2011\dim_localizacao"
-          TopLeft="526.527765500187,341.099994322757" />
-        <NodeLayout
-          Size="119.2,41.6"
-          Id="Package\DSA_Incremental_2011\Azure2011\local_dia"
-          TopLeft="117.527771594762,121.300000625949" />
-        <NodeLayout
-          Size="126.4,41.6"
-          Id="Package\DSA_Incremental_2011\Azure2011\local_hora"
-          TopLeft="314.527768659233,120.699999120931" />
+          TopLeft="219.98016320159,359.052375150299" />
         <NodeLayout
           Size="133.6,41.6"
           Id="Package\DSA_Incremental_2011\Azure2011\local_causa"
-          TopLeft="776.061098560332,119.699999135833" />
+          TopLeft="469.513496261735,137.652379963375" />
         <NodeLayout
           Size="157.6,41.6"
           Id="Package\DSA_Incremental_2011\Azure2011\local_localização"
-          TopLeft="529.527765455483,115.699999195437" />
+          TopLeft="222.980163156886,133.652380022979" />
         <NodeLayout
           Size="149.6,41.6"
           Id="Package\DSA_Incremental_2011\Azure2011\local_incendios"
-          TopLeft="1050.52775769197,130.69999897192" />
-        <NodeLayout
-          Size="121.6,41.6"
-          Id="Package\DSA_Incremental_2011\Azure2011\dim_hora"
-          TopLeft="311.527768703937,346.099994248252" />
-        <NodeLayout
-          Size="115.2,41.6"
-          Id="Package\DSA_Incremental_2011\Azure2011\dim_dia"
-          TopLeft="111.527771684169,343.699995797973" />
+          TopLeft="743.980155393374,148.652379799462" />
         <NodeLayout
           Size="144.8,41.6"
           Id="Package\DSA_Incremental_2011\Azure2011\fact_incendios"
-          TopLeft="1047.52775773668,347.699995738368" />
+          TopLeft="740.980155438083,365.65237656591" />
         <NodeLayout
           Size="128.8,41.6"
           Id="Package\DSA_Incremental_2011\Azure2011\dim_causa"
-          TopLeft="780.394431829093,342.433327636222" />
-        <EdgeLayout
-          Id="Package\DSA_Incremental_2011\Azure2011.Paths[OLE DB Source Output4]"
-          TopLeft="173.127771639465,162.900000625949">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,180.799995172024"
-              Start="0,0"
-              End="0,173.299995172024">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,173.299995172024" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\DSA_Incremental_2011\Azure2011.Paths[OLE DB Source Output3]"
-          TopLeft="375.027768681585,162.299999120931">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,183.79999512732"
-              Start="0,0"
-              End="0,176.29999512732">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,176.29999512732" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
+          TopLeft="473.846829530497,360.385708463764" />
         <EdgeLayout
           Id="Package\DSA_Incremental_2011\Azure2011.Paths[OLE DB Source Output2]"
-          TopLeft="605.627765477835,157.299999195437">
+          TopLeft="299.080163179239,175.252380022979">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -25138,14 +23486,12 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\DSA_Incremental_2011\Azure2011.Paths[OLE DB Source Output1]"
-          TopLeft="843.827765194712,161.299999135833">
+          TopLeft="537.280162896115,179.252379963375">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -25162,14 +23508,12 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\DSA_Incremental_2011\Azure2011.Paths[OLE DB Source Output]"
-          TopLeft="1122.62775771432,172.29999897192">
+          TopLeft="816.080155415723,190.252379799462">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -25186,9 +23530,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -25706,92 +24048,32 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
       <GraphLayout
         Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="144.8,41.6"
-          Id="Package\DSA_Incremental_2021\Azure2021\fact_incendios"
-          TopLeft="1084.52775718534,332.699995961885" />
-        <NodeLayout
           Size="152.8,41.6"
           Id="Package\DSA_Incremental_2021\Azure2021\dim_localizacao"
-          TopLeft="526.527765500187,341.099994322757" />
-        <NodeLayout
-          Size="157.6,41.6"
-          Id="Package\DSA_Incremental_2021\Azure2021\local_localização"
-          TopLeft="529.527765455483,115.699999195437" />
-        <NodeLayout
-          Size="119.2,41.6"
-          Id="Package\DSA_Incremental_2021\Azure2021\local_dia"
-          TopLeft="117.527771594762,121.300000625949" />
-        <NodeLayout
-          Size="149.6,41.6"
-          Id="Package\DSA_Incremental_2021\Azure2021\local_incendios"
-          TopLeft="1087.52775714063,115.699999195437" />
-        <NodeLayout
-          Size="126.4,41.6"
-          Id="Package\DSA_Incremental_2021\Azure2021\local_hora"
-          TopLeft="314.527768659233,120.699999120931" />
+          TopLeft="306.527768778442,388.433326950769" />
         <NodeLayout
           Size="133.6,41.6"
           Id="Package\DSA_Incremental_2021\Azure2021\local_causa"
-          TopLeft="754.061098888158,119.699999135833" />
+          TopLeft="534.061102166413,167.033331763845" />
         <NodeLayout
-          Size="121.6,41.6"
-          Id="Package\DSA_Incremental_2021\Azure2021\dim_hora"
-          TopLeft="311.527768703937,346.099994248252" />
+          Size="157.6,41.6"
+          Id="Package\DSA_Incremental_2021\Azure2021\local_localização"
+          TopLeft="309.527768733738,163.033331823449" />
         <NodeLayout
-          Size="115.2,41.6"
-          Id="Package\DSA_Incremental_2021\Azure2021\dim_dia"
-          TopLeft="111.527771684169,343.699995797973" />
+          Size="149.6,41.6"
+          Id="Package\DSA_Incremental_2021\Azure2021\local_incendios"
+          TopLeft="852.861093970769,180.366664898495" />
+        <NodeLayout
+          Size="144.8,41.6"
+          Id="Package\DSA_Incremental_2021\Azure2021\fact_incendios"
+          TopLeft="849.861094015479,397.366661664943" />
         <NodeLayout
           Size="128.8,41.6"
           Id="Package\DSA_Incremental_2021\Azure2021\dim_causa"
-          TopLeft="758.394432156919,342.433327636222" />
-        <EdgeLayout
-          Id="Package\DSA_Incremental_2021\Azure2021.Paths[OLE DB Source Output4]"
-          TopLeft="173.127771639465,162.900000625949">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,180.799995172024"
-              Start="0,0"
-              End="0,173.299995172024">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,173.299995172024" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\DSA_Incremental_2021\Azure2021.Paths[OLE DB Source Output3]"
-          TopLeft="375.027768681585,162.299999120931">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,183.79999512732"
-              Start="0,0"
-              End="0,176.29999512732">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,176.29999512732" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
+          TopLeft="538.394435435174,389.766660264234" />
         <EdgeLayout
           Id="Package\DSA_Incremental_2021\Azure2021.Paths[OLE DB Source Output2]"
-          TopLeft="605.627765477835,157.299999195437">
+          TopLeft="385.62776875609,204.633331823449">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -25813,7 +24095,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\DSA_Incremental_2021\Azure2021.Paths[OLE DB Source Output1]"
-          TopLeft="821.827765522538,161.299999135833">
+          TopLeft="601.827768800793,208.633331763845">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -25835,7 +24117,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\DSA_Incremental_2021\Azure2021.Paths[OLE DB Source Output]"
-          TopLeft="1159.62775716298,157.299999195437">
+          TopLeft="924.961093993119,221.966664898495">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -25872,7 +24154,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\DSA_Incremental_2021\Azure2021\local_localização">
+    design-time-name="Package\DSA_Incremental_2021\Azure2021\local_causa">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -25885,7 +24167,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\DSA_Incremental_2021\Azure2021\local_causa">
+    design-time-name="Package\DSA_Incremental_2021\Azure2021\local_localização">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -26084,6 +24366,19 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021">
     <Properties>
@@ -27271,19 +25566,6 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
       </Property>
       <Property>
         <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
