@@ -11,8 +11,8 @@
   DTS:LocaleID="2070"
   DTS:ObjectName="ETL"
   DTS:PackageType="5"
-  DTS:VersionBuild="602"
-  DTS:VersionGUID="{E7075A08-8FC6-4D55-9DD7-95CD68AA93B6}">
+  DTS:VersionBuild="605"
+  DTS:VersionGUID="{4ACB627C-C039-4D09-B87C-DB079F73D117}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACRuNo7cFoTNCeI4h+qgqW8wUuUp1Xzy4IWf6Jm7kB36wAAAAAOgAAAAAIAACAAAABJcpZRs5myW3i8P24c1iGABrQra3iKHszlgjWiL6c98iAAAAB/4b1RHxPeUi7u28jdAwovpIHNHazW6RI2algNZKGhs0AAAAChvBVpSwEAkyCeN2kG+SsNlNHkCOjndE478mK5cMN1qtUFpzalPKbHAdA7BdQCShl7P8hDY3OUc/Uee5Zs100z</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADSjgWvMK4CGONnRBrogpbKxpfdvXOzZ0fuMd5iS2SlfAAAAAAOgAAAAAIAACAAAABumOFh7vQw3qNgIDpHBTHkZLh5NxdukrGqlsk1zXiaBiAAAAA6FRJNC+y/ehV9lRLt8y+liHmfKucYRxHSBGgYTJ+9Z0AAAADFnkz7ax3KJFiIM67Ic1+ffF2pqeQGIYn547dCj2ESNcf3JEsoT6Bx8V9aLt8E1yCcqa7sWoh6eLrKg7Arcb/Z</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -56,7 +56,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADPf+9PT2f+xawCjSk+JO3KCJg3IGjBQTfntemL0fIjzQAAAAAOgAAAAAIAACAAAAAuAaZaeaN8IL9JotpFLHJcozPYF7EfGdrDIOOVr35LqSAAAADueELwf37GClIwN3P4QT8HrAEZ4K5Rn+pPfMelENKUW0AAAAD+9GQgG3DGPMTUoqCHjMUzmxoWtG4Hxi0rWrP6hcLDjBkGDa1sdUJ85yk6Uru6IU/1XVYWoQ36Xidmja9XVXPj</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC5yjEBvxeRrIK3srkxk6o+zidglHMA5SxZJLPHmp2QMAAAAAAOgAAAAAIAACAAAABJY2hdnbOHLKF31l/y2SmpBSlFAg0DNkktdadMJdiQ9iAAAAA2bKtHhNxZZ/qYgYoYa4DyZ/OGIh9Ir/kECKd1l9a7z0AAAACDRVtS+pWgevMz6JarDyFMMjOcA0mNYyI3nahi2E9/qHDAxKzuwzNyYmJZmDszUFNOtAbbxGuCBhxCv5v1Ibhq</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -73,7 +73,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACdxw0teyAs2ivhac8iOGaHe+2H5ltxGBWdiflTzwBt5gAAAAAOgAAAAAIAACAAAABELd6UdJgirVvl8Lb5coV25NkKoVmF235RwX0mq3b6ICAAAAB+dR1Ergd54sywiPwUFccNRoGFSDhMsXwNCd7sbPjjVkAAAABHz9zqYXJoVA83wwRjMorJHSsWgHW1JeRXQ39BObjPkU+4IR04NM9AonhC9qNpDinX/O5I5Cw6lkGTSvp7uswC</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACIB564afNojhKcrezAeTkfG9ECoD+ibNzZkE46cmsdxAAAAAAOgAAAAAIAACAAAABtMRPpFNxEAIesq/EQV0h/TvgRUGBciOUM+/OoQU8hRiAAAADIq+/9M0AeRQVu7n0zayy6FMph6ez24FRHE4a7KLVZ60AAAAACRAKzyb1ZLY06LQWcDWUoyoX/jdoIceEeIlHTWNAsMm9k6f4txLPwVru79BiKr1Wh+1yliyYsguhaogbM4osC</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -191,7 +191,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADc2DEoVINMg5Za+PzyJTz+4yvDzN6Wx+BvhVeCxMwvEQAAAAAOgAAAAAIAACAAAABFT1t7wFE2uOtSwTEKe5hIPNs+tFzeqsXGz26CncMEbCAAAABTZC8XKB8jpUVVo0naiYn48Bxj4j9l5hqyl9WCp9jvUEAAAABXPC4CMf712izs0j5xHHDVrlqcWFcH6XN2pq4qarUr4cYFaNwD1OsRAMx3DtgIUIDoSuH0byGQzfb/x2u+Bc2z</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF7gYUjhB3kq+pBvzAcHhjwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADfqx2nVibvDzibwL+Y5YxWD3JmAAZGTNlEppt0DKnn0wAAAAAOgAAAAAIAACAAAACrWkrA2QmjUrvPzwFvW1N3/KNCYhnFUKb5TUx0ekPgGyAAAAAiF2E0MMY2SXL7coDw9vS+JT+ZlXBXAZyvFFDSub34R0AAAAAx/JPMCPVowRDRL52E6CK7Ls6qCndJUv9fM/ujLnx95V1QRXCiqryRUyaagqjVkmcxdPDyYQ0h9quAZpJSUZUF</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -235,7 +235,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="TargetETLCutoffTime">
       <DTS:VariableValue
-        DTS:DataType="7">12/16/2025 9:59:26 PM</DTS:VariableValue>
+        DTS:DataType="7">12/18/2025 10:56:52 AM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -246,7 +246,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="TargetETLCutoffTime_ISO">
       <DTS:VariableValue
-        DTS:DataType="8">2025-12-16 21:59:26</DTS:VariableValue>
+        DTS:DataType="8">2025-12-18 10:56:52</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -257,7 +257,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="TargetETLCutoffTime_Str">
       <DTS:VariableValue
-        DTS:DataType="8">16/12/2025 21:59:26</DTS:VariableValue>
+        DTS:DataType="8">18/12/2025 10:56:52</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -22648,7 +22648,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         <NodeLayout
           Size="128.8,41.6"
           Id="Package\DSA_Incremental_2011\Azure2011"
-          TopLeft="97.2388502252077,550.94999027744" />
+          TopLeft="97.2388502252077,547.48332363488" />
         <NodeLayout
           Size="134.4,41.6"
           Id="Package\DSA_Incremental_2011\Dados 2011"
@@ -22763,9 +22763,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-10.2083338683273,61.4777773669589"
+              EndConnector="-10.2083338683273,58.0111107243989"
               Start="0,0"
-              End="-2.70833386832732,61.4777773669589">
+              End="-2.70833386832734,58.0111107243989">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
@@ -22776,13 +22776,13 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
                     Point2="22.5,0"
                     Point3="22.5,4" />
                   <mssgle:LineSegment
-                    End="22.5,57.4777773669589" />
+                    End="22.5,54.0111107243989" />
                   <mssgle:CubicBezierSegment
-                    Point1="22.5,57.4777773669589"
-                    Point2="22.5,61.4777773669589"
-                    Point3="18.5,61.4777773669589" />
+                    Point1="22.5,54.0111107243989"
+                    Point2="22.5,58.0111107243989"
+                    Point3="18.5,58.0111107243989" />
                   <mssgle:LineSegment
-                    End="-2.70833386832732,61.4777773669589" />
+                    End="-2.70833386832734,58.0111107243989" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -22801,7 +22801,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         <NodeLayout
           Size="128.8,41.6"
           Id="Package\DSA_Incremental_2021\Azure2021"
-          TopLeft="93.9221339976953,555.399995642701" />
+          TopLeft="93.0888007098931,554.533328982061" />
         <NodeLayout
           Size="134.4,41.6"
           Id="Package\DSA_Incremental_2021\Dados 2021"
@@ -22916,9 +22916,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-14.3750003073367,60.611110706318"
+              EndConnector="-15.2083335951388,59.7444440456781"
               Start="0,0"
-              End="-6.87500030733668,60.611110706318">
+              End="-7.70833359513878,59.7444440456781">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
@@ -22929,13 +22929,13 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
                     Point2="22.5,0"
                     Point3="22.5,4" />
                   <mssgle:LineSegment
-                    End="22.5,56.611110706318" />
+                    End="22.5,55.7444440456781" />
                   <mssgle:CubicBezierSegment
-                    Point1="22.5,56.611110706318"
-                    Point2="22.5,60.611110706318"
-                    Point3="18.5,60.611110706318" />
+                    Point1="22.5,55.7444440456781"
+                    Point2="22.5,59.7444440456781"
+                    Point3="18.5,59.7444440456781" />
                   <mssgle:LineSegment
-                    End="-6.87500030733668,60.611110706318" />
+                    End="-7.70833359513878,59.7444440456781" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -22947,8 +22947,8 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         <ContainerLayout
           HeaderHeight="43"
           IsExpanded="True"
-          PanelSize="322.4,652.8"
-          Size="322.4,696"
+          PanelSize="322.4,660.8"
+          Size="322.4,704"
           Id="Package\DSA_Incremental_2021"
           TopLeft="1788.68045782637,131.594444294279" />
         <NodeLayout
@@ -22970,7 +22970,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         <NodeLayout
           Size="176,41.6"
           Id="Package\DSA_load\Povoar tabela_factos"
-          TopLeft="206.238820447719,375.149996623547" />
+          TopLeft="205.405487159917,376.016663284187" />
         <NodeLayout
           Size="172.8,41.6"
           Id="Package\DSA_load\Povoar_Azure_2001"
@@ -23033,18 +23033,18 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\DSA_load.PrecedenceConstraints[Constraint 2]"
-          TopLeft="291.369375460693,308.766663740708">
+          TopLeft="290.952708816792,308.766663740708">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,66.3833328828395"
+              EndConnector="0,67.2499995434789"
               Start="0,0"
-              End="0,58.8833328828395">
+              End="0,59.7499995434789">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,58.8833328828395" />
+                    End="0,59.7499995434789" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -23055,30 +23055,30 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\DSA_load.PrecedenceConstraints[Constraint 3]"
-          TopLeft="294.238820447719,416.749996623547">
+          TopLeft="293.405487159917,417.616663284187">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-141.271458894683,69.0136352940343"
+              EndConnector="-140.438125606881,68.1469686333941"
               Start="0,0"
-              End="-141.271458894683,61.5136352940343">
+              End="-140.438125606881,60.6469686333941">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,30.5068176470171" />
+                    End="0,30.073484316697" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,30.5068176470171"
-                    Point2="0,34.5068176470171"
-                    Point3="-4,34.5068176470171" />
+                    Point1="0,30.073484316697"
+                    Point2="0,34.073484316697"
+                    Point3="-4,34.073484316697" />
                   <mssgle:LineSegment
-                    End="-137.271458894683,34.5068176470171" />
+                    End="-136.438125606881,34.073484316697" />
                   <mssgle:CubicBezierSegment
-                    Point1="-137.271458894683,34.5068176470171"
-                    Point2="-141.271458894683,34.5068176470171"
-                    Point3="-141.271458894683,38.5068176470171" />
+                    Point1="-136.438125606881,34.073484316697"
+                    Point2="-140.438125606881,34.073484316697"
+                    Point3="-140.438125606881,38.073484316697" />
                   <mssgle:LineSegment
-                    End="-141.271458894683,61.5136352940343" />
+                    End="-140.438125606881,60.6469686333941" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -23193,14 +23193,14 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="56.6655647096778,0"
+              EndConnector="56.6655647096781,0"
               Start="0,0"
-              End="49.1655647096778,0">
+              End="49.1655647096781,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="49.1655647096778,0" />
+                    End="49.1655647096781,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -23211,7 +23211,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 2]"
-          TopLeft="1714.33751307695,479.345241310047">
+          TopLeft="1714.33751307695,481.345241310047">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -23237,14 +23237,14 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="60.6235880565803,0"
+              EndConnector="60.6235880565798,0"
               Start="0,0"
-              End="53.1235880565803,0">
+              End="53.1235880565798,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="53.1235880565803,0" />
+                    End="53.1235880565798,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -23260,7 +23260,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
     design-time-name="Package\DSA_extract\Importar ds_incendios">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="168.8,41.6"
           Id="Package\DSA_extract\Importar ds_incendios\db_incendios_2011"
@@ -23304,9 +23304,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -23328,9 +23326,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -23352,9 +23348,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -23442,53 +23436,31 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
     design-time-name="Package\DSA_Incremental_2011\Azure2011">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="152.8,41.6"
-          Id="Package\DSA_Incremental_2011\Azure2011\dim_localizacao"
-          TopLeft="219.98016320159,359.052375150299" />
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="133.6,41.6"
           Id="Package\DSA_Incremental_2011\Azure2011\local_causa"
           TopLeft="469.513496261735,137.652379963375" />
         <NodeLayout
-          Size="157.6,41.6"
-          Id="Package\DSA_Incremental_2011\Azure2011\local_localização"
-          TopLeft="222.980163156886,133.652380022979" />
+          Size="144.8,41.6"
+          Id="Package\DSA_Incremental_2011\Azure2011\fact_incendios"
+          TopLeft="740.980155438083,365.65237656591" />
         <NodeLayout
           Size="149.6,41.6"
           Id="Package\DSA_Incremental_2011\Azure2011\local_incendios"
           TopLeft="743.980155393374,148.652379799462" />
         <NodeLayout
-          Size="144.8,41.6"
-          Id="Package\DSA_Incremental_2011\Azure2011\fact_incendios"
-          TopLeft="740.980155438083,365.65237656591" />
+          Size="157.6,41.6"
+          Id="Package\DSA_Incremental_2011\Azure2011\local_localização"
+          TopLeft="222.980163156886,133.652380022979" />
+        <NodeLayout
+          Size="152.8,41.6"
+          Id="Package\DSA_Incremental_2011\Azure2011\dim_localizacao"
+          TopLeft="219.98016320159,359.052375150299" />
         <NodeLayout
           Size="128.8,41.6"
           Id="Package\DSA_Incremental_2011\Azure2011\dim_causa"
           TopLeft="473.846829530497,360.385708463764" />
-        <EdgeLayout
-          Id="Package\DSA_Incremental_2011\Azure2011.Paths[OLE DB Source Output2]"
-          TopLeft="299.080163179239,175.252380022979">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,183.79999512732"
-              Start="0,0"
-              End="0,176.29999512732">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,176.29999512732" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
         <EdgeLayout
           Id="Package\DSA_Incremental_2011\Azure2011.Paths[OLE DB Source Output1]"
           TopLeft="537.280162896115,179.252379963375">
@@ -23508,7 +23480,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -23530,25 +23504,38 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DSA_Incremental_2011\Azure2011.Paths[OLE DB Source Output2]"
+          TopLeft="299.080163179239,175.252380022979">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,183.79999512732"
+              Start="0,0"
+              End="0,176.29999512732">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,176.29999512732" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\DSA_Incremental_2011\Azure2011\dim_localizacao">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\DSA_Incremental_2011\Azure2011\local_causa">
     <Properties>
@@ -23564,6 +23551,19 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\DSA_Incremental_2011\Azure2011\local_localização">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\DSA_Incremental_2011\Azure2011\dim_localizacao">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -23684,7 +23684,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -23706,7 +23708,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -23728,7 +23732,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -24046,53 +24052,31 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
     design-time-name="Package\DSA_Incremental_2021\Azure2021">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="152.8,41.6"
-          Id="Package\DSA_Incremental_2021\Azure2021\dim_localizacao"
-          TopLeft="306.527768778442,388.433326950769" />
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="133.6,41.6"
           Id="Package\DSA_Incremental_2021\Azure2021\local_causa"
           TopLeft="534.061102166413,167.033331763845" />
         <NodeLayout
-          Size="157.6,41.6"
-          Id="Package\DSA_Incremental_2021\Azure2021\local_localização"
-          TopLeft="309.527768733738,163.033331823449" />
+          Size="144.8,41.6"
+          Id="Package\DSA_Incremental_2021\Azure2021\fact_incendios"
+          TopLeft="849.861094015479,397.366661664943" />
         <NodeLayout
           Size="149.6,41.6"
           Id="Package\DSA_Incremental_2021\Azure2021\local_incendios"
           TopLeft="852.861093970769,180.366664898495" />
         <NodeLayout
-          Size="144.8,41.6"
-          Id="Package\DSA_Incremental_2021\Azure2021\fact_incendios"
-          TopLeft="849.861094015479,397.366661664943" />
+          Size="157.6,41.6"
+          Id="Package\DSA_Incremental_2021\Azure2021\local_localização"
+          TopLeft="309.527768733738,163.033331823449" />
+        <NodeLayout
+          Size="152.8,41.6"
+          Id="Package\DSA_Incremental_2021\Azure2021\dim_localizacao"
+          TopLeft="306.527768778442,388.433326950769" />
         <NodeLayout
           Size="128.8,41.6"
           Id="Package\DSA_Incremental_2021\Azure2021\dim_causa"
           TopLeft="538.394435435174,389.766660264234" />
-        <EdgeLayout
-          Id="Package\DSA_Incremental_2021\Azure2021.Paths[OLE DB Source Output2]"
-          TopLeft="385.62776875609,204.633331823449">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,183.79999512732"
-              Start="0,0"
-              End="0,176.29999512732">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,176.29999512732" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
         <EdgeLayout
           Id="Package\DSA_Incremental_2021\Azure2021.Paths[OLE DB Source Output1]"
           TopLeft="601.827768800793,208.633331763845">
@@ -24112,7 +24096,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -24134,25 +24120,38 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DSA_Incremental_2021\Azure2021.Paths[OLE DB Source Output2]"
+          TopLeft="385.62776875609,204.633331823449">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,183.79999512732"
+              Start="0,0"
+              End="0,176.29999512732">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,176.29999512732" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\DSA_Incremental_2021\Azure2021\dim_localizacao">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\DSA_Incremental_2021\Azure2021\local_causa">
     <Properties>
@@ -24168,6 +24167,19 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\DSA_Incremental_2021\Azure2021\local_localização">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\DSA_Incremental_2021\Azure2021\dim_localizacao">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -24202,9 +24214,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           Id="Package\DSA_Incremental_2021\Dados 2021\Normalização"
           TopLeft="314.980764537191,212.587908920105" />
         <NodeLayout
-          Size="169.6,41.6"
-          Id="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021"
-          TopLeft="306.837907515671,121.23076742429" />
+          Size="143.2,41.6"
+          Id="Package\DSA_Incremental_2021\Dados 2021\Tipos de Data"
+          TopLeft="315.064097869282,315.83790738156" />
         <NodeLayout
           Size="104.8,41.6"
           Id="Package\DSA_Incremental_2021\Dados 2021\Nulos"
@@ -24214,13 +24226,65 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
           Id="Package\DSA_Incremental_2021\Dados 2021\Join"
           TopLeft="336.59614883048,407.780213703821" />
         <NodeLayout
-          Size="143.2,41.6"
-          Id="Package\DSA_Incremental_2021\Dados 2021\Tipos de Data"
-          TopLeft="315.064097869282,315.83790738156" />
+          Size="164.8,41.6"
+          Id="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena"
+          TopLeft="698.333295178084,649.133328819341" />
+        <NodeLayout
+          Size="169.6,41.6"
+          Id="Package\DSA_Incremental_2021\Dados 2021\vw_incendios_2021"
+          TopLeft="306.837907515671,121.23076742429" />
         <NodeLayout
           Size="152.8,41.6"
           Id="Package\DSA_Incremental_2021\Dados 2021\incendios_clean"
           TopLeft="304.547614476392,651.704752221155" />
+        <EdgeLayout
+          Id="Package\DSA_Incremental_2021\Dados 2021.Paths[OLE DB Source Output]"
+          TopLeft="388.909336026431,162.83076742429">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,49.7571414958151"
+              Start="0,0"
+              End="0,42.2571414958151">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,42.2571414958151" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\DSA_Incremental_2021\Dados 2021.Paths[OLE DB Destination Error Output]"
+          TopLeft="457.347614476392,671.219040520248">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="240.985680701692,0"
+              Start="0,0"
+              End="233.485680701692,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="233.485680701692,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="43.533934100846,5,146.4178125,11.43359375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <EdgeLayout
           Id="Package\DSA_Incremental_2021\Dados 2021.Paths[OK]"
           TopLeft="380.539189411796,554.021237785574">
@@ -24288,7 +24352,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -24310,56 +24376,8 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\DSA_Incremental_2021\Dados 2021.Paths[OLE DB Source Output]"
-          TopLeft="388.909336026431,162.83076742429">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,49.7571414958151"
-              Start="0,0"
-              End="0,42.2571414958151">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,42.2571414958151" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="164.8,41.6"
-          Id="Package\DSA_Incremental_2021\Dados 2021\tabela_quarentena"
-          TopLeft="698.333295178084,649.133328819341" />
-        <EdgeLayout
-          Id="Package\DSA_Incremental_2021\Dados 2021.Paths[OLE DB Destination Error Output]"
-          TopLeft="457.347614476392,671.219040520248">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="240.985680701692,0"
-              Start="0,0"
-              End="233.485680701692,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="233.485680701692,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="43.533934100846,5,146.4178125,11.43359375"
+              BoundingBox="0,0,0,0"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -24464,7 +24482,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -24630,7 +24650,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -24652,7 +24674,9 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -24722,9 +24746,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -24890,9 +24912,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -24914,9 +24934,7 @@ FROM DSA_clean.vw_incendios_core_2001;</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
